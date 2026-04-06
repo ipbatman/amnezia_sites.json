@@ -3,6 +3,8 @@ Addresses from the list should not be accessed via VPN for Amnezia VPN
 
 В настройках Amnezia VPN заходим Split tunneling enabled -> Site-based split tunneling -> добавляем список через "три точки" и не забываем активировать.
 
+Если хотите добавить, пишите в issue
+
 В списке:
 https://click-or-die.ru/
 https://www.vremyan.ru/
@@ -13,3 +15,7 @@ https://ngs.ru/
 https://avtonovostidnya.ru/
 https://yandex.com
 https://www.kinonews.ru/
+https://www.1tvspb.ru/
+https://www.ntv.ru/
+https://ren.tv/
+https://www.1tv.ru/
