@@ -2,6 +2,7 @@ click-or-die.ru/
 161.ru/
 1tv.ru/
 1tvspb.ru/
+2126.ru/forum/
 2ch.org/
 2gis.com
 2gis.ru
@@ -67,6 +68,7 @@ clck.ru
 clstorage.net
 club443.ru/
 club-nissan.ru/forums/
+club-renault.ru/forum/
 clubvolvo.ru/
 cnews.ru/
 code-class.ru
@@ -96,6 +98,7 @@ e-disclosure.ru/
 elama.ru
 electronix.ru/
 elibrary.ru
+elite-games.ru/conference/
 er.ru/
 fantlab.ru/forum
 fas.gov.ru
@@ -103,15 +106,19 @@ fedstat.ru
 fermer.ru/forum
 finam.ru/
 finance.ozon.ru
+findozor.net/forum/
 finmarket.ru/
 fishki.net/
 fix-price.com/
+forum.3dnews.tech/
+forum.adv-rp.com/
 forum.alconar.ru/index.php
 forum.allods.ru/
 forum.astrakhan.ru/
 forum.awd.ru/
 forum.bioware.ru/
 forum.calorizator.ru/
+forum.chrysler-dodge.ru/
 forum.cxem.net/
 forum.detiangeli.ru/
 forum.ereality.ru/
@@ -120,11 +127,13 @@ forum.f1news.ru/
 forum.igromania.ru/
 forum.ixbt.com/
 forum.katera.ru/
+forum.kia-club.ru/
 forum.klerk.ru/
 forum.korabli.su/
 forum.motolodka.ru/
 forum.moya-semya.ru/
 forum.neverlands.ru/
+forum.novosti-kosmonavtiki.ru/
 forum.nvrsk.ru/
 forum.omskmama.ru/
 forum.onliner.by/
@@ -139,6 +148,7 @@ forum.smolensk.ws/
 forum.sportbox.ru/index.php
 forum.steelfactor.ru/
 forum.supermamki.ru/index.php
+forum.tks.ru/
 forum.tokiohotel.ru/
 forum.vgd.ru/
 forum.virtualsoccer.ru/
@@ -175,6 +185,7 @@ guitarplayer.ru/
 haval.ru/
 hh.ru
 hi-fi-forum.net/
+hitv.ru/hitvboard/
 huggingface.co
 ichip.ru/
 iimg.su/
@@ -234,6 +245,7 @@ mkb.ru/
 m-nn.tsargrad.tv/
 mnogodetok.ru/
 moex.com
+monitor.espec.ws/
 mos-gorsud.ru/
 moskvichmag.ru/
 mosmetro.ru/
@@ -261,6 +273,7 @@ novocherkassk.net/
 nplus1.ru/
 nspk.ru
 ntv.ru/
+nulled.cc/
 o3.ru
 o3t.ru
 o3team.ru
@@ -295,6 +308,8 @@ pokupki21.ru/
 pravo.gov.ru
 premier.one/
 pressa.tv/
+priorovod.ru/
+prizyvnik.info/
 prlib.ru
 probirka.org/forum/index.php
 prodota.ru/forum/
@@ -330,6 +345,7 @@ rosstat.gov.ru
 rostaxi.org
 rsdn.org/forum/list
 rshb.ru/
+ru.nhandan.vn/
 rusfishing.ru/forum/
 rusprofile.ru/
 russianitaly.com/forum/
@@ -359,8 +375,10 @@ snowmobile.ru/forum/index.php
 solo-semena.ru
 sourcecraft.dev
 sozd.duma.gov.ru/
+spartakforum.ru/
 spaymentsplus.ru
 spbkbran.ru/
+spbtalk.ru/
 sportbox.ru/
 sptovarov.ru/
 start.ru/
@@ -383,6 +401,7 @@ tochek.net/
 tochka.com/
 top.ucoz.ru/
 topwar.ru/
+tourerv.ru/forum/
 trinixy.ru/
 turbopages.org
 turizmvnn.ru
@@ -419,6 +438,7 @@ vkvideo.ru
 vladmama.ru/forum/
 vmailru.net
 vremyan.ru/
+vsehvosty.ru/forum/
 vseinstrumenti.ru
 vsrf.ru/
 vtb.ru/
