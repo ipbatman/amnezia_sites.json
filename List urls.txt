@@ -62,6 +62,7 @@ cdek.ru
 changanauto.ru/
 chery.ru/
 chipmaker.ru/
+chiptuner.ru/forum/
 chizhik.club/
 cian.ru/
 clck.ru
@@ -124,6 +125,7 @@ forum.detiangeli.ru/
 forum.ereality.ru/
 forum.eve-ru.com/
 forum.f1news.ru/
+forum.homedistiller.ru/
 forum.igromania.ru/
 forum.ixbt.com/
 forum.katera.ru/
@@ -145,6 +147,7 @@ forum.sevastopol.info/
 forum.sibmama.ru/
 forum.sibnet.ru/
 forum.smolensk.ws/
+forum.sources.ru/
 forum.sportbox.ru/index.php
 forum.steelfactor.ru/
 forum.supermamki.ru/index.php
@@ -202,6 +205,7 @@ kad.arbitr.ru
 kad.arbitr.ru/
 kerzhenskiy.ru
 keyauto.ru
+kidshockey.ru/
 kinoafisha.info/
 kinonews.ru/
 kinopoisk.ru
@@ -287,6 +291,7 @@ omsk.kz/index1.php
 oneme.ru
 online.metro-cc.ru/
 ostrovok.ru/ 
+out-club.ru/board/
 overclockers.ru/
 ozon.ru
 ozon-dostavka.ru
@@ -308,6 +313,7 @@ pokupki21.ru/
 pravo.gov.ru
 premier.one/
 pressa.tv/
+price-altai.ru/forum.html
 priorovod.ru/
 prizyvnik.info/
 prlib.ru
@@ -329,6 +335,7 @@ reddit.com
 redliners.ru/talk/
 redwhite.ru/rw-forum/
 reg.ru/
+regforum.ru/forum/
 ren.tv/
 retromap.ru
 reviewdetector.ru/index.php
@@ -373,6 +380,7 @@ smailru.net
 smart-lab.ru
 snowmobile.ru/forum/index.php
 solo-semena.ru
+sony-club.ru/forum/
 sourcecraft.dev
 sozd.duma.gov.ru/
 spartakforum.ru/
@@ -380,6 +388,7 @@ spaymentsplus.ru
 spbkbran.ru/
 spbtalk.ru/
 sportbox.ru/
+spshka.ru/index.php?action=forum
 sptovarov.ru/
 start.ru/
 static-storage.net
@@ -391,6 +400,7 @@ sysadmins.ru/
 tabsbook.ru
 tadviser.ru/
 tamtam.chat
+tapochek.net/
 tbank.ru/
 tech-mail.ru
 tefal.ru
@@ -457,6 +467,15 @@ wildberries.ru
 wink.ru/
 woman.ru/
 wrk.ru/forums/
+www.brik.org/node/2
+www.celica-club.ru/board/
+www.cqham.ru/forum/forum.php
+www.e30club.ru/forum/
+www.hi-fi.ru/forum/
+www.hv-info.ru/gepatit-forum/
+www.icon-art.info/phpBB2/
+www.sanatatur.ru/forum/
+www.zonazakona.ru/forum/
 x5.ru/
 xn----7sbbagpx1an.xn--p1ai/n/index.php
 xn--80aai5d.xn--p1ai/
