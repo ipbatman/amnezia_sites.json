@@ -55,10 +55,12 @@ biotechnica.ru
 bjdclub.com/index.php
 bombler.ru/
 boosty.to
+brik.org/node/2
 bvf.ru/forum/
 car72.ru/forum/
 cbr.ru
 cdek.ru
+celica-club.ru/board/
 changanauto.ru/
 chery.ru/
 chipmaker.ru/
@@ -79,8 +81,10 @@ consultant.ru/
 consultant29.ru/
 corpblog.ostrovok.ru/
 council.gov.ru
+cqham.ru/forum/forum.php
 cxhub.ru
 cyberforum.ru/
+diablozone.net/forum/
 diesel.elcat.kg/
 dns-shop.ru
 dom.gosuslugi.ru
@@ -94,6 +98,7 @@ dzen.ru
 dzeninfra.ru
 e.mail.ru
 e1.ru/
+e30club.ru/forum/
 ecigtalk.org/forum/
 e-disclosure.ru/
 elama.ru
@@ -101,6 +106,7 @@ electronix.ru/
 elibrary.ru
 elite-games.ru/conference/
 er.ru/
+fai.org.ru/forum/
 fantlab.ru/forum
 fas.gov.ru
 fedstat.ru
@@ -122,9 +128,12 @@ forum.calorizator.ru/
 forum.chrysler-dodge.ru/
 forum.cxem.net/
 forum.detiangeli.ru/
+forum.dirt.ru/
+forum.dwg.ru/
 forum.ereality.ru/
 forum.eve-ru.com/
 forum.f1news.ru/
+forum.garant.ru/
 forum.homedistiller.ru/
 forum.igromania.ru/
 forum.ixbt.com/
@@ -142,6 +151,7 @@ forum.onliner.by/
 forum.plastic-surgeon.ru/
 forum.print-forum.ru/
 forum.pushkino.org/
+forum.qrz.ru/
 forum.say7.info/
 forum.sevastopol.info/
 forum.sibmama.ru/
@@ -151,10 +161,12 @@ forum.sources.ru/
 forum.sportbox.ru/index.php
 forum.steelfactor.ru/
 forum.supermamki.ru/index.php
+forum.thg.ru/
 forum.tks.ru/
 forum.tokiohotel.ru/
 forum.vgd.ru/
 forum.virtualsoccer.ru/
+forum.warthunder.ru/
 forum.yurclub.ru/
 forum-dollplanet.ru/
 forumhouse.ru/forums
@@ -187,10 +199,13 @@ government-nnov.ru
 guitarplayer.ru/
 haval.ru/
 hh.ru
+hi-fi.ru/forum/
 hi-fi-forum.net/
 hitv.ru/hitvboard/
 huggingface.co
+hv-info.ru/gepatit-forum/
 ichip.ru/
+icon-art.info/phpBB2/
 iimg.su/
 ili-nnov.ru
 imageban.ru/
@@ -208,6 +223,7 @@ keyauto.ru
 kidshockey.ru/
 kinoafisha.info/
 kinonews.ru/
+kinonews.ru/
 kinopoisk.ru
 kion.ru/
 kirovchanka.ru/forum/
@@ -216,6 +232,7 @@ kontur.ru
 kovernino.bezformata.com
 kremlin.ru
 krestyanka.ru/
+krskforum.com/
 kubnews.ru/
 lady.webnice.ru/forum/
 lamoda.ru/
@@ -236,6 +253,7 @@ master-x.com/
 max.ru
 max.ru/
 mchs.gov.ru
+mdrussia.ru/
 megamarket.ru
 memoriam.ru/forum/
 meteoinfo.ru
@@ -287,6 +305,8 @@ ok.ru
 okcdn.ru
 okko.tv/
 okmarket.ru/
+old.sukhoi.ru/forum/forum.php
+old-games.ru/forum/
 omsk.kz/index1.php
 oneme.ru
 online.metro-cc.ru/
@@ -310,6 +330,7 @@ platiqr.ru
 pochtabank.ru/
 pogranec.ru/
 pokupki21.ru/
+pravda.ru/
 pravo.gov.ru
 premier.one/
 pressa.tv/
@@ -328,6 +349,7 @@ radiokot.ru/
 radiokot.ru/forum/
 ranepa.ru/
 ras.ru/
+rat.ru/forum/
 rating-avtosalon.ru/
 rbc.ru
 rbcrealty.ru
@@ -360,12 +382,14 @@ rutube.ru
 rwb.ru
 rzd.ru
 sad-i-ogorod.ru/
+sanatatur.ru/forum/
 sbdv.ru
 sber.ru
 sberbank.com
 sberbank.ru
 sberbank-tele.com
 sberpay.ru
+scalemodels.ru/modules/forum/
 securitylab.ru/
 semena.ru/
 semenagavrish.ru/
@@ -381,6 +405,7 @@ smart-lab.ru
 snowmobile.ru/forum/index.php
 solo-semena.ru
 sony-club.ru/forum/
+sorento.kia-club.ru/forum/
 sourcecraft.dev
 sozd.duma.gov.ru/
 spartakforum.ru/
@@ -390,9 +415,11 @@ spbtalk.ru/
 sportbox.ru/
 spshka.ru/index.php?action=forum
 sptovarov.ru/
+staraya-moneta.ru/forum/
 start.ru/
 static-storage.net
 stoloto.ru
+stratege.ru/forums/
 sudrf.ru
 summerstage.ru
 supcourt.ru
@@ -404,6 +431,7 @@ tapochek.net/
 tbank.ru/
 tech-mail.ru
 tefal.ru
+tehnari.ru/
 tetrika-school.ru
 tforum.uz/
 thg.ru/
@@ -419,6 +447,7 @@ tutu.ru/
 ucoz.ru/
 ucrazy.org/
 umschool.net
+unsorted.me/forum.php
 urent.ru/
 ursa-tm.ru/forum/
 userapi.com
@@ -467,15 +496,6 @@ wildberries.ru
 wink.ru/
 woman.ru/
 wrk.ru/forums/
-www.brik.org/node/2
-www.celica-club.ru/board/
-www.cqham.ru/forum/forum.php
-www.e30club.ru/forum/
-www.hi-fi.ru/forum/
-www.hv-info.ru/gepatit-forum/
-www.icon-art.info/phpBB2/
-www.sanatatur.ru/forum/
-www.zonazakona.ru/forum/
 x5.ru/
 xn----7sbbagpx1an.xn--p1ai/n/index.php
 xn--80aai5d.xn--p1ai/
@@ -494,4 +514,5 @@ yarportal.ru/
 zakupki.gov.ru
 zismo.biz/
 znanierussia.ru/
+zonazakona.ru/forum/
 zr.ru/
