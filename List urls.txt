@@ -10,18 +10,23 @@ click-or-die.ru/
 3dnews.ru/
 4brain.ru
 4gameforum.com/
+66.ru/
 academ.club/
 admgor.nnov.ru
 aeroflot.ru/
 ailita-shop.ru/
+akzs.ru/
 alfabank.ru/
 algoritmika.org
 allwebs.ru/
+altairegion22.ru/
 amd.online
 amediateka.ru
+amurobl.ru/
 androidinsider.ru/
 anekdot.ru/
 anti-malware.ru/
+aosd.ru/
 apiok.ru
 appsmail.ru
 apptracer.ru
@@ -30,6 +35,7 @@ artefact.culture.ru
 arzamas.academy
 ascon-spb.ru/
 astraclub.ru/forum.php
+astrobl.ru/
 astronomy.ru/forum/
 auchan.ru/
 audio-v-text.silero.ai
@@ -46,6 +52,7 @@ aviasales.ru/
 avilon.ru
 avito.ru
 avito.st
+avo.ru/
 avtomir.ru
 avtonovostidnya.ru/
 b17.ru/forum/
@@ -54,6 +61,7 @@ banki.ru/forum/
 bashkizi.ru/
 beatles.ru/postman/forum.asp
 beeline.ru
+belregion.ru/
 berizaryad.ru
 bezformata.com
 biotechnica.ru
@@ -63,6 +71,7 @@ bombler.ru/
 Bookasutp.ru
 boosty.to
 brik.org/node/2
+bryanskobl.ru/
 bvf.ru/forum/
 calltouch.ru/ 
 car72.ru/forum/
@@ -97,6 +106,7 @@ diablozone.net/forum/
 diesel.elcat.kg/
 digitalocean.ru/
 distschool.ru/
+dnevnik.ru/
 dns-shop.ru
 dom.gosuslugi.ru
 domlenta.ru/
@@ -105,6 +115,7 @@ dp.ru/
 drom.ru
 dtf.ru/
 duma.gov.ru/
+dvinaland.ru/
 dzen.ru
 dzeninfra.ru
 e.mail.ru
@@ -112,7 +123,7 @@ e1.ru/
 e30club.ru/forum/
 ecigtalk.org/forum/
 e-disclosure.ru/
-edu.sravni.ru/
+edu.gounn.ru/
 edu.sravni.ru/
 elama.ru
 electronix.ru/
@@ -217,11 +228,11 @@ hh.ru
 hi-fi.ru/forum/
 hi-fi-forum.net/
 hitv.ru/hitvboard/
+http://pravo.volganet.ru/
 huggingface.co
 hv-info.ru/gepatit-forum/
 ichip.ru/
 icon-art.info/phpBB2/
-iimg.su/
 iimg.su/
 ili-nnov.ru
 imageban.ru/
@@ -234,14 +245,12 @@ interfax.ru/
 internet-technologies.ru/
 ivi.tv/
 joyreactor.cc/
-kad.arbitr.ru
 kad.arbitr.ru/
 karavaevi.ru/
 kerzhenskiy.ru
 keyauto.ru
 kidshockey.ru/
 kinoafisha.info/
-kinonews.ru/
 kinonews.ru/
 kinopoisk.ru
 kion.ru/
@@ -261,7 +270,6 @@ land-cruiser.ru/
 lektorium.tv/
 library.fa.ru/
 lifehacker.ru/
-lifehacker.ru/
 litres.ru/
 live.skillfactory.ru/
 livejournal.com
@@ -276,10 +284,10 @@ maps.litera-ru.ru
 market.yandex.ru
 mastergrad.com/
 master-x.com/
-max.ru
 max.ru/
 mchs.gov.ru
 mdrussia.ru/
+media.prosv.ru/
 megamarket.ru
 memoriam.ru/forum/
 meteoinfo.ru
@@ -289,6 +297,7 @@ metronn.ru/
 mid.ru/
 mikrob.ru/
 mil.ru/
+minsoctrud.astrobl.ru/
 mkb.ru/
 m-nn.tsargrad.tv/
 mnogodetok.ru/
@@ -297,7 +306,6 @@ monitor.espec.ws/
 mos-gorsud.ru/
 moskvichmag.ru/
 mosmetro.ru/
-msk1.ru/
 msk1.ru/
 msu.ru/
 mts.ru
@@ -339,6 +347,7 @@ oneme.ru
 online.metro-cc.ru/
 openedu.ru
 openedu.ru/
+organic-mix.ru
 ostrovok.ru/ 
 out-club.ru/board/
 overclockers.ru/
@@ -363,7 +372,6 @@ pokupki21.ru/
 postnauka.org
 practicum.yandex.ru
 pravda.ru/
-pravo.gov.ru
 pravo.gov.ru/
 premier.one/
 pressa.tv/
@@ -390,7 +398,6 @@ rbcrealty.ru
 reddit.com
 redliners.ru/talk/
 redwhite.ru/rw-forum/
-reg.ru/
 reg.ru/
 regforum.ru/forum/
 ren.tv/
@@ -466,6 +473,7 @@ stratege.ru/forums/
 sudrf.ru
 summerstage.ru
 supcourt.ru
+suradmin.ru/
 sysadmins.ru/
 tabsbook.ru
 tadviser.ru/
@@ -521,6 +529,7 @@ vkuservideo.net
 vkvideo.ru
 vladmama.ru/forum/
 vmailru.net
+volgograd.ru/
 vremyan.ru/
 vsehvosty.ru/forum/
 vseinstrumenti.ru
@@ -540,7 +549,6 @@ wikimedia.org
 wildberries.ru
 wink.ru/
 woman.ru/
-workspace.ru/
 workspace.ru/
 wrk.ru/forums/
 x5.ru/
@@ -569,3 +577,4 @@ znanierussia.ru/
 zonazakona.ru/forum/
 zoon.ru/
 zr.ru/
+zsamur.ru/
