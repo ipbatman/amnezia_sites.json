@@ -80,7 +80,9 @@ bashkortostan.ru/
 bassclub.ru/forum/
 beatles.ru/postman/forum.asp
 beeline.ru
+beledi.ru/forum/
 belregion.ru/
+berforum.ru/
 berizaryad.ru
 bezformata.com
 biotechnica.ru
@@ -101,6 +103,7 @@ cbr.ru
 cdek.ru
 celica-club.ru/board/
 cells.ru/forum/
+changanauto.ru/
 changanauto.ru/
 chechnya.gov.ru/
 chem.msu.ru/
@@ -147,6 +150,8 @@ dota2.ru/forum/
 dp.ru/
 drom.ru
 dtf.ru/
+dubna.net/forum/
+dukandiet.ru/forum/
 duma.gov.ru/
 duma.tomsk.ru/
 duma.yar.ru/
@@ -172,6 +177,7 @@ electronix.ru/
 elibrary.ru
 elite-games.ru/conference/
 e-mordovia.ru/
+emu-land.net/forum/
 epp.genproc.gov.ru/
 er.ru/
 etalongroup.ru
@@ -195,6 +201,7 @@ forum.alconar.ru/index.php
 forum.allods.ru/
 forum.astrakhan.ru/
 forum.awd.ru/
+forum.benzua.com/
 forum.bioware.ru/
 forum.bits.media/
 forum.calorizator.ru/
@@ -224,9 +231,11 @@ forum.omskmama.ru/
 forum.onliner.by/
 forum.opel-club.ru/
 forum.plastic-surgeon.ru/
+forum.podolsk.ru/
 forum.print-forum.ru/
 forum.pushkino.org/
 forum.qrz.ru/
+forum.relicvia.ru/
 forum.say7.info/
 forum.sevastopol.info/
 forum.sibmama.ru/
@@ -236,6 +245,7 @@ forum.sources.ru/
 forum.sportbox.ru/index.php
 forum.steelfactor.ru/
 forum.supermamki.ru/index.php
+forum.tetis.ru/
 forum.thg.ru/
 forum.tks.ru/
 forum.tokiohotel.ru/
@@ -294,11 +304,13 @@ gubernator.stavkray.ru/
 gubernator.zo.gov.ru/
 gubernator74.ru/
 guitarplayer.ru/
+hamkke.borda.ru/
 haval.ru/
 hh.ru
 hi-fi.ru/forum/
 hi-fi-forum.net/
 hitv.ru/hitvboard/
+hondamotor.ru/board/index.php?act=idx
 huggingface.co
 huralrk.ru/
 hv-info.ru/gepatit-forum/
@@ -403,6 +415,7 @@ m-nn.tsargrad.tv/
 mnogodetok.ru/
 mobileproxy.passport.yandex.net
 moex.com
+mondeoclub.ru/forums/
 monitor.espec.ws/
 mos-gorsud.ru/
 moskvichmag.ru/
@@ -430,6 +443,7 @@ nn.dom.ru
 nn.ru
 nnov.ngounb.ru
 nnov.ru
+nosmoking.ru/phpBB2/
 notdrink.ru/
 novocherkassk.net/
 novreg.ru/
@@ -451,6 +465,7 @@ okko.tv/
 okmarket.ru/
 old.sukhoi.ru/forum/forum.php
 old-games.ru/forum/
+olgino-info.ru/forum/
 omsk.kz/index1.php
 omsk-parlament.ru/
 omskportal.ru/
@@ -525,6 +540,7 @@ radikal.cloud/
 radikal.cloud/
 radiokot.ru/
 radiokot.ru/forum/
+radioscanner.ru/forum/
 ranepa.ru/
 ras.ru/
 rat.ru/forum/
@@ -584,6 +600,7 @@ sberbank-tele.com
 sberpay.ru
 scalemodels.ru/modules/forum/
 school.spbstu.ru/
+scooter-club.ru/forum/
 securitylab.ru/
 selectel.ru/
 semena.ru/
@@ -656,9 +673,11 @@ tomsk.gov.ru/
 top.ucoz.ru/
 topwar.ru/
 tourerv.ru/forum/
+traiv-komplekt.ru/
 trinixy.ru/
 tr-page.yandex.ru/
 tsushima.su/forums/
+tucson-club.ru/forum/
 tulaoblduma.ru/
 tularegion.ru/
 turbopages.org
@@ -726,6 +745,7 @@ wikimedia.org
 wildberries.ru
 wink.ru/
 woman.ru/
+woodcraftsman.ru/
 workspace.ru/
 wrk.ru/forums/
 x5.ru/
