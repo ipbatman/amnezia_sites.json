@@ -28,6 +28,7 @@ adygheya.ru/
 главалнр.рф/
 aeroflot.ru/
 ailita-shop.ru/
+akashi.vk-portal.net
 akzs.ru/
 alania.gov.ru/
 alfabank.ru/
@@ -43,6 +44,7 @@ androidinsider.ru/
 anekdot.ru/
 anti-malware.ru/
 aosd.ru/
+api.vk.com
 apiok.ru
 appsmail.ru
 apptracer.ru
@@ -101,6 +103,9 @@ cap.ru/
 car72.ru/forum/
 cbr.ru
 cdek.ru
+cdn1.ozonusercontent.com
+cdn1.ozonusercontent.com
+cdnvideo.v.ozone.ru
 celica-club.ru/board/
 cells.ru/forum/
 changanauto.ru/
@@ -330,6 +335,7 @@ ingrad.ru
 ingushetia.ru/
 interfax.ru/
 internet-technologies.ru/
+ir-3.ozone.ru
 irkobl.ru/
 irzs.ru/
 ivanovoobl.ru/
@@ -482,6 +488,7 @@ overclockers.ru/
 ozon.ru
 ozon-dostavka.ru
 ozone.ru
+p.ozon.ru
 pajero4x4.ru/bbs/phpBB2/
 parlament09.ru/
 partner.yandex.ru
@@ -535,6 +542,8 @@ prufy.ru/
 pskov.ru/
 puzyaka.ru/forum/
 pwonline.ru/forums/
+queuev4.vk.com
+queuev4.vk.com
 r-19.ru/
 radikal.cloud/
 radikal.cloud/
@@ -579,6 +588,7 @@ rusprofile.ru/
 russianitaly.com/forum/
 rustore.ru/
 rutube.ru
+rv.mail.ru
 rwb.ru
 ryazan.gov.ru/
 rzd.ru
@@ -634,10 +644,13 @@ sportbox.ru/
 spshka.ru/index.php?action=forum
 sptovarov.ru/
 sskkuban.ru
+st.ozone.ru
+st.vk.com
 staraya-moneta.ru/forum/
 start.practicum.yandex/
 start.ru/
 static-storage.net
+stats.vk-portal.net
 stavinvest.ru/
 stavminprom.ru/
 stavregion.ru/
@@ -647,6 +660,7 @@ strana.com
 stratege.ru/forums/
 sudrf.ru
 summerstage.ru
+sun9-60.userapi.com
 supcourt.ru
 suradmin.ru/
 sysadmins.ru/
@@ -671,6 +685,7 @@ tochka.com/
 tochno-team.ru
 tomsk.gov.ru/
 top.ucoz.ru/
+top-fwz1.mail.ru
 topwar.ru/
 tourerv.ru/forum/
 traiv-komplekt.ru/
@@ -723,6 +738,8 @@ vladmama.ru/forum/
 vmailru.net
 volgograd.ru/
 vologda-oblast.ru/
+vp-1.ozone.ru
+vr-1.ozone.ru
 vremyan.ru/
 vrnoblduma.ru/
 vsehvosty.ru/forum/
@@ -750,6 +767,7 @@ workspace.ru/
 wrk.ru/forums/
 x5.ru/
 x5m.x5.ru
+xapi.ozon.ru
 xn----7sbbagpx1an.xn--p1ai/n/index.php
 xn--80aai5d.xn--p1ai/
 xn----8sbhtdkcsfcivgoh1b.xn--p1ai/
