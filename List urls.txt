@@ -15,6 +15,7 @@ click-or-die.ru/
 75.ru/
 a101.ru
 academ.club/
+accord-russia.ru/index.php
 adm44.ru/
 admgor.nnov.ru
 admhmao.ru/
@@ -63,6 +64,7 @@ autopiter.ru
 autoreview.ru/
 auto-rostov.ru/
 autosalons.ru/
+aviaforum.ru/
 aviasales.ru/
 avilon.ru
 avito.ru
@@ -75,6 +77,7 @@ banki.ru/
 banki.ru/forum/
 bashkizi.ru/
 bashkortostan.ru/
+bassclub.ru/forum/
 beatles.ru/postman/forum.asp
 beeline.ru
 belregion.ru/
@@ -83,6 +86,7 @@ bezformata.com
 biotechnica.ru
 bjdclub.com/index.php
 blog.rupixel.ru/
+blondie.ru/forum
 bombler.ru/
 Bookasutp.ru
 boosty.to
@@ -96,10 +100,13 @@ car72.ru/forum/
 cbr.ru
 cdek.ru
 celica-club.ru/board/
+cells.ru/forum/
 changanauto.ru/
 chechnya.gov.ru/
 chem.msu.ru/
 chery.ru/
+chery-club.ru/forum/
+chinamobil.ru/bb/
 chipmaker.ru/
 chiptuner.ru/forum/
 chizhik.club/
@@ -181,6 +188,7 @@ findozor.net/forum/
 finmarket.ru/
 fishki.net/
 fix-price.com/
+forexsystemru.com/
 forum.3dnews.tech/
 forum.adv-rp.com/
 forum.alconar.ru/index.php
@@ -188,6 +196,7 @@ forum.allods.ru/
 forum.astrakhan.ru/
 forum.awd.ru/
 forum.bioware.ru/
+forum.bits.media/
 forum.calorizator.ru/
 forum.chrysler-dodge.ru/
 forum.cxem.net/
@@ -195,6 +204,7 @@ forum.detiangeli.ru/
 forum.dirt.ru/
 forum.dwg.ru/
 forum.ereality.ru/
+forum.escapefromtarkov.com/
 forum.eve-ru.com/
 forum.f1news.ru/
 forum.garant.ru/
@@ -212,6 +222,7 @@ forum.novosti-kosmonavtiki.ru/
 forum.nvrsk.ru/
 forum.omskmama.ru/
 forum.onliner.by/
+forum.opel-club.ru/
 forum.plastic-surgeon.ru/
 forum.print-forum.ru/
 forum.pushkino.org/
@@ -230,6 +241,7 @@ forum.tks.ru/
 forum.tokiohotel.ru/
 forum.vgd.ru/
 forum.virtualsoccer.ru/
+forum.warspear-online.com/
 forum.warthunder.ru/
 forum.yurclub.ru/
 forum-dollplanet.ru/
@@ -296,6 +308,7 @@ iguides.ru/
 iimg.su/
 ili-nnov.ru
 imageban.ru/
+imho.ws/
 im-konsalting.ru/
 imtw.ru/
 info.2gis.ru
@@ -406,7 +419,9 @@ my.games
 mycdn.me
 mysbertips.ru
 myspar.ru/
+nacekomie.ru/forum/
 nalog.ru
+nastej.org/forum/
 naydex.net
 ngs.ru/
 nic.ru/
@@ -457,6 +472,7 @@ parlament09.ru/
 partner.yandex.ru
 passatworld.ru/forum.php
 paywb.com
+penta-club.ru/forum/
 perm.fas.gov.ru
 permkrai.ru/
 pesikot.org/forum/
@@ -586,6 +602,7 @@ smart-lab.ru
 smoloblduma.ru/
 smu6.ru
 snowmobile.ru/forum/index.php
+solaris-club.net/forum/
 solo-semena.ru
 sony-club.ru/forum/
 sorento.kia-club.ru/forum/
@@ -641,6 +658,7 @@ topwar.ru/
 tourerv.ru/forum/
 trinixy.ru/
 tr-page.yandex.ru/
+tsushima.su/forums/
 tulaoblduma.ru/
 tularegion.ru/
 turbopages.org
@@ -694,6 +712,7 @@ vskhakasia.ru/
 vsrf.ru/
 vtb.ru/
 vw-golfclub.ru/forum/
+vwts.ru/forum/
 wb.ru
 wb-bank.ru
 wbbasket.ru
@@ -748,8 +767,4 @@ zsno.ru/
 zsperm.ru/
 zspk.gov.ru/
 zsro.ru/
-zsto.ru/
 zsuo.ru/
-?????.?????.??/
-???????????????.??/
-???????.??/
