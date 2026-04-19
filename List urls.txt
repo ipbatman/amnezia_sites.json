@@ -1,4 +1,5 @@
 click-or-die.ru/
+1000.menu/
 10pix.ru
 161.ru/
 1tv.ru/
@@ -27,6 +28,7 @@ adm-nao.ru/
 admoblkaluga.ru/
 admrzn.ru/
 admtyumen.ru/
+ads.adfox.ru
 adygheya.ru/
 главалнр.рф/
 aeroflot.ru/
@@ -48,6 +50,7 @@ androidinsider.ru/
 anekdot.ru/
 anti-malware.ru/
 aosd.ru/
+api.plus.kinopoisk.ru
 api.vk.com
 apiok.ru
 appsmail.ru
@@ -70,6 +73,7 @@ autopiter.ru
 autoreview.ru/
 auto-rostov.ru/
 autosalons.ru/
+avatars.mds.yandex.net
 aviaforum.ru/
 aviasales.ru/
 avilon.ru
@@ -94,6 +98,7 @@ bezformata.com
 biotechnica.ru
 bjdclub.com/index.php
 blog.rupixel.ru/
+blog-gk.ru/
 blondie.ru/forum
 bombler.ru/
 Bookasutp.ru
@@ -142,6 +147,8 @@ corpblog.ostrovok.ru/
 council.gov.ru
 cqham.ru/forum/forum.php
 crimea.gov.ru/
+csp.yandex.net
+csp.yandex.net
 cxhub.ru
 cyberforum.ru/
 delivery-bt.wildberries.ru
@@ -178,7 +185,9 @@ e1.ru/
 e30club.ru/forum/
 eao.ru/
 ecigtalk.org/forum/
+eda.rambler.ru/
 e-dag.ru/
+edimdoma.ru/
 e-disclosure.ru/
 edu.gounn.ru/
 edu.sravni.ru/
@@ -192,6 +201,7 @@ e-mordovia.ru/
 emu-land.net/forum/
 epp.genproc.gov.ru/
 er.ru/
+ermolino-produkty.ru/
 etalongroup.ru
 evenkya.gosuslugi.ru/
 factornews.ru/
@@ -207,6 +217,7 @@ findozor.net/forum/
 finmarket.ru/
 fishki.net/
 fix-price.com/
+food.ru/
 forexsystemru.com/
 forum.3dnews.tech/
 forum.adv-rp.com/
@@ -288,6 +299,7 @@ fsk.ru
 fssprus.ru
 garant.ru/
 garshinka.ru
+gastronom.ru/
 gazprom.ru/
 gazprombank.ru/
 geobasket.ru
@@ -329,6 +341,7 @@ hondamotor.ru/board/index.php?act=idx
 huggingface.co
 huralrk.ru/
 hv-info.ru/gepatit-forum/
+iamcook.ru/
 ichip.ru/
 icon-art.info/phpBB2/
 iguides.ru/
@@ -390,6 +403,7 @@ kursograf.ru/
 lady.webnice.ru/forum/
 lamoda.ru/
 land-cruiser.ru/
+lavka.yandex.ru/
 lektorium.tv/
 lenobl.ru/
 lenoblzaks.ru/
@@ -403,6 +417,7 @@ livejournal.com
 lkforum.ru/
 lki.ru/
 log.rutube.ru
+log.strm.yandex.ru
 lori.ru
 lsr.ru
 ltdfoto.ru/
@@ -423,6 +438,7 @@ mdrussia.ru/
 media.prosv.ru/
 megamarket.ru
 memoriam.ru/forum/
+menunedeli.ru/
 meteoinfo.ru
 meteum.ai
 metrika.yandex.ru
@@ -533,6 +549,8 @@ points.wb.ru
 pokupki21.ru/
 polis-group.ru
 postnauka.org
+povar.ru/
+povarenok.ru/
 practicum.yandex.ru
 prav.tatarstan.ru/
 pravda.ru/
@@ -608,6 +626,7 @@ ru.nhandan.vn/
 ru.ruwiki.ru/
 rusfishing.ru/forum/
 rusprofile.ru/
+russianfood.com/
 russianitaly.com/forum/
 rustore.ru/
 rutube.ru
@@ -626,6 +645,7 @@ samolet.ru
 samregion.ru/
 sanatatur.ru/forum/
 saratov.gov.ru/
+say7.info/
 sbdv.ru
 sber.ru
 sberbank.com
@@ -676,6 +696,7 @@ start.practicum.yandex/
 start.ru/
 static.rtbcdn.ru
 static-basket-01.wbbasket.ru
+static-mon.yandex.net
 static-storage.net
 stats.vk-portal.net
 stavinvest.ru/
@@ -683,14 +704,17 @@ stavminprom.ru/
 stavregion.ru/
 stepik.org
 stoloto.ru
+storage.mds.yandex.net
 strana.com
 stratege.ru/forums/
+strm-mar-238.strm.yandex.net
 sudrf.ru
 summerstage.ru
 sun9-50.userapi.com
 sun9-60.userapi.com
 supcourt.ru
 suradmin.ru/
+sushi-karate.ru/
 sysadmins.ru/
 tabsbook.ru
 tadviser.ru/
@@ -711,11 +735,13 @@ tforum.uz/
 thg.ru/
 timeweb.com/
 tns-counter.ru
+tns-counter.ru
 tochek.net/
 tochka.com/
 tochno-team.ru
 tomsk.gov.ru/
 top.ucoz.ru/
+top-fwz1.mail.ru
 top-fwz1.mail.ru
 topwar.ru/
 tourerv.ru/forum/
@@ -792,6 +818,7 @@ wbstatic.net
 wciom.ru/
 whoosh-bike.ru/
 wibes.ru
+widgets.kinopoisk.ru
 wikimedia.org
 wildberries.ru
 wink.ru/
