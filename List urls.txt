@@ -7,15 +7,18 @@ click-or-die.ru/
 2ch.org/
 2gis.com
 2gis.ru
+33212.ms.vk.com
 3dnews.ru/
 49gov.ru/
 4brain.ru
 4gameforum.com/
 66.ru/
 75.ru/
+a.wb.ru
 a101.ru
 academ.club/
 accord-russia.ru/index.php
+ad.mail.ru
 adm44.ru/
 admgor.nnov.ru
 admhmao.ru/
@@ -28,6 +31,7 @@ adygheya.ru/
 главалнр.рф/
 aeroflot.ru/
 ailita-shop.ru/
+akashi.vk-portal.net
 akashi.vk-portal.net
 akzs.ru/
 alania.gov.ru/
@@ -105,6 +109,7 @@ cbr.ru
 cdek.ru
 cdn1.ozonusercontent.com
 cdn1.ozonusercontent.com
+cdnvideo.ru/
 cdnvideo.v.ozone.ru
 celica-club.ru/board/
 cells.ru/forum/
@@ -114,6 +119,7 @@ chechnya.gov.ru/
 chem.msu.ru/
 chery.ru/
 chery-club.ru/forum/
+chesnok.media/
 chinamobil.ru/bb/
 chipmaker.ru/
 chiptuner.ru/forum/
@@ -138,6 +144,7 @@ cqham.ru/forum/forum.php
 crimea.gov.ru/
 cxhub.ru
 cyberforum.ru/
+delivery-bt.wildberries.ru
 diablozone.net/forum/
 diesel.elcat.kg/
 digital.rk08.ru/
@@ -187,6 +194,7 @@ epp.genproc.gov.ru/
 er.ru/
 etalongroup.ru
 evenkya.gosuslugi.ru/
+factornews.ru/
 fai.org.ru/forum/
 fantlab.ru/forum
 fas.gov.ru
@@ -302,7 +310,9 @@ government.ru/
 government-nnov.ru
 government-nnov.ru/
 gov-murman.ru/
+govoritnn.ru/
 govvrn.ru/
+goya.rutube.ru
 granelle.ru
 gsrb.ru/
 gubernator.stavkray.ru/
@@ -335,9 +345,12 @@ ingrad.ru
 ingushetia.ru/
 interfax.ru/
 internet-technologies.ru/
+iphones.ru/
 ir-3.ozone.ru
 irkobl.ru/
 irzs.ru/
+iv.okcdn.ru
+iv.okcdn.ru
 ivanovoobl.ru/
 ivi.tv/
 joyreactor.cc/
@@ -389,9 +402,11 @@ live.skillfactory.ru/
 livejournal.com
 lkforum.ru/
 lki.ru/
+log.rutube.ru
 lori.ru
 lsr.ru
 ltdfoto.ru/
+m.sobaka.ru/
 magnit.ru
 magoblduma.ru/
 mail.ru
@@ -402,6 +417,7 @@ market.yandex.ru
 mastergrad.com/
 master-x.com/
 max.ru/
+mc.yandex.ru
 mchs.gov.ru
 mdrussia.ru/
 media.prosv.ru/
@@ -442,6 +458,8 @@ nacekomie.ru/forum/
 nalog.ru
 nastej.org/forum/
 naydex.net
+newizv.ru/
+ngenix.net/
 ngs.ru/
 nic.ru/
 nn.cian.ru/
@@ -452,6 +470,7 @@ nnov.ru
 nosmoking.ru/phpBB2/
 notdrink.ru/
 novocherkassk.net/
+novostivolgograda.ru/
 novreg.ru/
 nplus1.ru/
 nslnr.su/
@@ -501,6 +520,7 @@ pesikot.org/forum/
 pesiq.ru/forum/
 pgu.rk08.ru/
 Photoshare.ru
+pic.rtbcdn.ru
 pik.ru
 pikabu.ru
 plati.market
@@ -509,6 +529,7 @@ platiqr.ru
 pnzreg.ru/
 pochtabank.ru/
 pogranec.ru/
+points.wb.ru
 pokupki21.ru/
 polis-group.ru
 postnauka.org
@@ -529,6 +550,7 @@ premier.one/
 president.e-dag.ru/
 president.tatarstan.ru/
 pressa.tv/
+preview.rutube.ru
 price-altai.ru/forum.html
 primorsky.ru/
 priorovod.ru/
@@ -538,6 +560,7 @@ probirka.org/forum/index.php
 prodota.ru/forum/
 profinance.ru/forum/
 prokoni.ru/forum/
+prophotos.ru
 prufy.ru/
 pskov.ru/
 puzyaka.ru/forum/
@@ -597,6 +620,7 @@ sad-i-ogorod.ru/
 sakha.gov.ru/
 sakha.gov.ru/
 sakhalin.gov.ru/
+salam-de-rasc-87.rtbcdn.ru
 samgd.ru/
 samolet.ru
 samregion.ru/
@@ -646,9 +670,12 @@ sptovarov.ru/
 sskkuban.ru
 st.ozone.ru
 st.vk.com
+st.vkvideo.ru
 staraya-moneta.ru/forum/
 start.practicum.yandex/
 start.ru/
+static.rtbcdn.ru
+static-basket-01.wbbasket.ru
 static-storage.net
 stats.vk-portal.net
 stavinvest.ru/
@@ -660,6 +687,7 @@ strana.com
 stratege.ru/forums/
 sudrf.ru
 summerstage.ru
+sun9-50.userapi.com
 sun9-60.userapi.com
 supcourt.ru
 suradmin.ru/
@@ -677,9 +705,12 @@ teach-in.ru
 tech-mail.ru
 tefal.ru
 tehnari.ru/
+test.rutube.ru
 tetrika-school.ru
 tforum.uz/
 thg.ru/
+timeweb.com/
+tns-counter.ru
 tochek.net/
 tochka.com/
 tochno-team.ru
@@ -711,6 +742,7 @@ unsorted.me/forum.php
 urent.ru/
 ursa-tm.ru/forum/
 userapi.com
+user-storage-01bxc.wb.ru
 vk.cc
 vk.com
 vk.company
@@ -733,6 +765,8 @@ vkuserlive.com
 vkuserlive.net
 vkuservideo.com
 vkuservideo.net
+vkvd595.okcdn.ru
+vkvd595.okcdn.ru 
 vkvideo.ru
 vladmama.ru/forum/
 vmailru.net
