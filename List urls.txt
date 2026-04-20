@@ -143,6 +143,7 @@ coins.su/forum/
 comss.ru/
 consultant.ru/
 consultant29.ru/
+coop-land.ru/
 corpblog.ostrovok.ru/
 council.gov.ru
 cqham.ru/forum/forum.php
@@ -320,7 +321,6 @@ gov.khogov.ru/
 gov39.ru/
 government.ru/
 government-nnov.ru
-government-nnov.ru/
 gov-murman.ru/
 govoritnn.ru/
 govvrn.ru/
@@ -677,6 +677,7 @@ solaris-club.net/forum/
 solo-semena.ru
 sony-club.ru/forum/
 sorento.kia-club.ru/forum/
+sostav.ru
 sourcecraft.dev
 sovminlnr.ru/
 sozd.duma.gov.ru/
@@ -735,7 +736,6 @@ tforum.uz/
 thg.ru/
 timeweb.com/
 tns-counter.ru
-tns-counter.ru
 tochek.net/
 tochka.com/
 tochno-team.ru
@@ -765,6 +765,7 @@ ulgov.ru/
 umschool.net
 unistroy.org
 unsorted.me/forum.php
+uralweb.ru/
 urent.ru/
 ursa-tm.ru/forum/
 userapi.com
@@ -829,10 +830,6 @@ wrk.ru/forums/
 x5.ru/
 x5m.x5.ru
 xapi.ozon.ru
-xn----7sbbagpx1an.xn--p1ai/n/index.php
-xn--80aai5d.xn--p1ai/
-xn----8sbhtdkcsfcivgoh1b.xn--p1ai/
-xn--b1aew.xn--p1ai/
 xras.ru/
 ya.cc
 ya.ru
