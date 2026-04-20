@@ -42,6 +42,7 @@ algoritmika.org
 allwebs.ru/
 altairegion22.ru/
 altai-republic.ru/
+alternathistory.ru/
 amd.online
 amediateka.ru
 amurobl.ru/
@@ -62,6 +63,7 @@ ascon-spb.ru/
 astraclub.ru/forum.php
 astrobl.ru/
 astronomy.ru/forum/
+atorus.ru/
 auchan.ru/
 audio-v-text.silero.ai
 auto.kolesa.ru
@@ -153,6 +155,7 @@ csp.yandex.net
 cxhub.ru
 cyberforum.ru/
 delivery-bt.wildberries.ru
+dgl.ru/
 diablozone.net/forum/
 diesel.elcat.kg/
 digital.rk08.ru/
@@ -298,11 +301,13 @@ freshauto.ru
 fsb.ru/
 fsk.ru
 fssprus.ru
+gac.ru/
 garant.ru/
 garshinka.ru
 gastronom.ru/
 gazprom.ru/
 gazprombank.ru/
+geely-motors.com/
 geobasket.ru
 gipernn.ru/
 gk-mic.ru
@@ -333,11 +338,13 @@ gubernator74.ru/
 guitarplayer.ru/
 hamkke.borda.ru/
 haval.ru/
+haval.ru/
 hh.ru
 hi-fi.ru/forum/
 hi-fi-forum.net/
 hitv.ru/hitvboard/
 hondamotor.ru/board/index.php?act=idx
+hosting-russia.ru
 huggingface.co
 huralrk.ru/
 hv-info.ru/gepatit-forum/
@@ -366,6 +373,8 @@ iv.okcdn.ru
 iv.okcdn.ru
 ivanovoobl.ru/
 ivi.tv/
+jaccar.ru/
+jetour-ru.com/
 joyreactor.cc/
 kad.arbitr.ru/
 kalmregion.ru/
@@ -377,6 +386,8 @@ keyauto.ru
 khabkrai.ru/
 khogov.ru/
 khural.org/
+kia-nnmotors.ru/
+kids.kremlin.ru/
 kidshockey.ru/
 kinoafisha.info/
 kinonews.ru/
@@ -448,6 +459,7 @@ midural.ru/
 mikrob.ru/
 mil.ru/
 minsoctrud.astrobl.ru/
+mixnews.lv
 mkb.ru/
 m-nn.tsargrad.tv/
 mnogodetok.ru/
@@ -535,6 +547,7 @@ permkrai.ru/
 pesikot.org/forum/
 pesiq.ru/forum/
 pgu.rk08.ru/
+photar.ru
 Photoshare.ru
 pic.rtbcdn.ru
 pik.ru
@@ -626,6 +639,7 @@ ru.nhandan.vn/
 ru.ruwiki.ru/
 rusfishing.ru/forum/
 rusprofile.ru/
+russia.ru/
 russianfood.com/
 russianitaly.com/forum/
 rustore.ru/
@@ -673,6 +687,7 @@ smart-lab.ru
 smoloblduma.ru/
 smu6.ru
 snowmobile.ru/forum/index.php
+solaris-agat-nn.ru/
 solaris-club.net/forum/
 solo-semena.ru
 sony-club.ru/forum/
@@ -730,6 +745,7 @@ teach-in.ru
 tech-mail.ru
 tefal.ru
 tehnari.ru/
+tehnoomsk.ru/
 test.rutube.ru
 tetrika-school.ru
 tforum.uz/
@@ -830,6 +846,7 @@ wrk.ru/forums/
 x5.ru/
 x5m.x5.ru
 xapi.ozon.ru
+xn--b1agapfwapgcl.xn--p1ai/
 xras.ru/
 ya.cc
 ya.ru
