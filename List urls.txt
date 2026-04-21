@@ -225,14 +225,19 @@ fix-price.com/
 food.ru/
 forexsystemru.com/
 forum.3dnews.tech/
+forum.abok.ru/
 forum.adv-rp.com/
 forum.alconar.ru/index.php
+forum.allgaz.ru/
 forum.allods.ru/
+forum.allsochi.info/
 forum.astrakhan.ru/
+forum.athlete.ru/
 forum.awd.ru/
 forum.benzua.com/
 forum.bioware.ru/
 forum.bits.media/
+forum.borovichi.ru/
 forum.calorizator.ru/
 forum.chrysler-dodge.ru/
 forum.cxem.net/
@@ -251,8 +256,10 @@ forum.katera.ru/
 forum.kia-club.ru/
 forum.klerk.ru/
 forum.korabli.su/
+forum.mirf.ru/
 forum.motolodka.ru/
 forum.moya-semya.ru/
+forum.nag.ru/
 forum.neverlands.ru/
 forum.novosti-kosmonavtiki.ru/
 forum.nvrsk.ru/
@@ -265,6 +272,7 @@ forum.print-forum.ru/
 forum.pushkino.org/
 forum.qrz.ru/
 forum.relicvia.ru/
+forum.rudtp.ru/
 forum.say7.info/
 forum.sevastopol.info/
 forum.sibmama.ru/
@@ -278,11 +286,13 @@ forum.tetis.ru/
 forum.thg.ru/
 forum.tks.ru/
 forum.tokiohotel.ru/
+forum.ubuntu.ru/
 forum.vgd.ru/
 forum.virtualsoccer.ru/
 forum.warspear-online.com/
 forum.warthunder.ru/
 forum.yurclub.ru/
+forum.zakon.kz/
 forum-dollplanet.ru/
 forumhouse.ru/forums
 forum-monitor.net.ru/
@@ -306,6 +316,7 @@ gac.ru/
 garant.ru/
 garshinka.ru
 gastronom.ru/
+gazelleclub.ru/forum/
 gazprom.ru/
 gazprombank.ru/
 geely-motors.com/
@@ -316,6 +327,7 @@ gk-usi.ru
 glava.kbr.ru/
 glava.region08.ru/
 glavadnr.ru/
+glavbyh.ru/
 glvrd.ru
 goha.ru/
 goldapple.ru/
@@ -375,12 +387,14 @@ iv.okcdn.ru
 ivanovoobl.ru/
 ivi.tv/
 jaccar.ru/
+jeep-forum.ru/forum/
 jetour-ru.com/
 joyreactor.cc/
 kad.arbitr.ru/
 kalmregion.ru/
 kamgov.ru/
 karavaevi.ru/
+kasparovchess.crestbook.com/
 kchr.ru/
 kerzhenskiy.ru
 keyauto.ru
@@ -400,6 +414,7 @@ kmpforum.online/
 kontur.ru
 kortros.ru
 kovernino.bezformata.com
+kovrov33.ru/f2/
 krasnodar.ru/
 kremlin.ru
 krestyanka.ru/
@@ -443,6 +458,7 @@ mari-el.gov.ru/parlament
 market.yandex.ru
 mastergrad.com/
 master-x.com/
+matushki.ru/
 max.ru/
 mc.yandex.ru
 mchs.gov.ru
@@ -491,6 +507,7 @@ newizv.ru/
 ngenix.net/
 ngs.ru/
 nic.ru/
+nismo-club.ru/forum/
 nn.cian.ru/
 nn.dom.ru
 nn.ru
@@ -709,6 +726,7 @@ spbtalk.ru/
 sportbox.ru/
 spshka.ru/index.php?action=forum
 sptovarov.ru/
+spvtomske.ru/forum/
 sskkuban.ru
 st.ozone.ru
 st.vk.com
@@ -794,6 +812,7 @@ turbopages.org
 turizmvnn.ru
 tutu.ru/
 tver.ru/
+uazpatriot.ru/forum/
 ucoz.ru/
 ucrazy.org/
 udmgossovet.ru/
