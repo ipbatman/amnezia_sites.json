@@ -59,6 +59,7 @@ appsmail.ru
 apptracer.ru
 aqa.ru/forum/
 artefact.culture.ru
+artlebedev.ru/
 arzamas.academy
 ascon-spb.ru/
 astraclub.ru/forum.php
@@ -70,6 +71,7 @@ audio-v-text.silero.ai
 auto.kolesa.ru
 auto.mail.ru/
 auto.ru/
+auto.yuga.ru/
 autoforum.pro/
 autolada.ru/
 autopiter.ru
@@ -91,6 +93,7 @@ banki.ru/forum/
 bashkizi.ru/
 bashkortostan.ru/
 bassclub.ru/forum/
+bbs.nashalife.ru/
 beatles.ru/postman/forum.asp
 beeline.ru
 beledi.ru/forum/
@@ -103,6 +106,7 @@ bjdclub.com/index.php
 blog.rupixel.ru/
 blog-gk.ru/
 blondie.ru/forum
+bluesmobil.ru/
 bombler.ru/
 Bookasutp.ru
 boosty.to
@@ -114,6 +118,7 @@ calltouch.ru/
 cap.ru/
 car72.ru/forum/
 cbr.ru
+cccp3d.ru/
 cdek.ru
 cdn1.ozonusercontent.com
 cdn1.ozonusercontent.com
@@ -125,6 +130,7 @@ changanauto.ru/
 changanauto.ru/
 chechnya.gov.ru/
 chem.msu.ru/
+chernish.ru/index.php?name=Forums
 chery.ru/
 chery-club.ru/forum/
 chesnok.media/
@@ -133,6 +139,7 @@ chipmaker.ru/
 chiptuner.ru/forum/
 chizhik.club/
 cian.ru/
+citroens-club.ru/
 cityduma.tula.ru/
 clck.ru
 clstorage.net
@@ -188,6 +195,7 @@ dzeninfra.ru
 e.mail.ru
 e1.ru/
 e30club.ru/forum/
+e34.su/forum/
 eao.ru/
 ecigtalk.org/forum/
 eda.rambler.ru/
@@ -197,6 +205,7 @@ e-disclosure.ru/
 edu.gounn.ru/
 edu.sravni.ru/
 липецка€область.рф/
+egida.by/forum/
 egov-buryatia.ru/
 elama.ru
 electronix.ru/
@@ -234,6 +243,7 @@ forum.allsochi.info/
 forum.astrakhan.ru/
 forum.athlete.ru/
 forum.awd.ru/
+forum.azlk-team.ru/
 forum.benzua.com/
 forum.bioware.ru/
 forum.bits.media/
@@ -243,6 +253,7 @@ forum.chrysler-dodge.ru/
 forum.cxem.net/
 forum.detiangeli.ru/
 forum.dirt.ru/
+forum.doctorhead.ru/forums/
 forum.dwg.ru/
 forum.ereality.ru/
 forum.escapefromtarkov.com/
@@ -277,6 +288,7 @@ forum.say7.info/
 forum.sevastopol.info/
 forum.sibmama.ru/
 forum.sibnet.ru/
+forum.skoda-club.ru/
 forum.smolensk.ws/
 forum.sources.ru/
 forum.sportbox.ru/index.php
@@ -291,8 +303,11 @@ forum.vgd.ru/
 forum.virtualsoccer.ru/
 forum.warspear-online.com/
 forum.warthunder.ru/
+forum.xumuk.ru/
 forum.yurclub.ru/
 forum.zakon.kz/
+forum.zakonia.ru/
+forum4x4club.ru/
 forum-dollplanet.ru/
 forumhouse.ru/forums
 forum-monitor.net.ru/
@@ -331,6 +346,7 @@ glavbyh.ru/
 glvrd.ru
 goha.ru/
 goldapple.ru/
+golf2club.com/
 gorodok.bz/
 goskatalog.ru
 gossov.tatarstan.ru/
@@ -388,6 +404,7 @@ iv.okcdn.ru
 ivanovoobl.ru/
 ivi.tv/
 jaccar.ru/
+jeep4x4club.ru/forums/
 jeep-forum.ru/forum/
 jetour-ru.com/
 joyreactor.cc/
@@ -421,6 +438,7 @@ kremlin.ru
 krestyanka.ru/
 krskforum.com/
 krskstate.ru/
+kubnews.ru/
 kubnews.ru/
 kubzsk.ru/
 kudago.com/
@@ -460,6 +478,7 @@ market.yandex.ru
 mastergrad.com/
 master-x.com/
 matushki.ru/
+mauforum.ru/
 max.ru/
 mc.yandex.ru
 mchs.gov.ru
@@ -477,6 +496,7 @@ midural.ru/
 mikrob.ru/
 mil.ru/
 minsoctrud.astrobl.ru/
+mirf.ru/
 mixnews.lv
 mkb.ru/
 m-nn.tsargrad.tv/
@@ -502,6 +522,7 @@ mysbertips.ru
 myspar.ru/
 nacekomie.ru/forum/
 nalog.ru
+nashtransport.ru/forums/
 nastej.org/forum/
 naydex.net
 newizv.ru/
@@ -520,6 +541,7 @@ novocherkassk.net/
 novostivolgograda.ru/
 novreg.ru/
 nplus1.ru/
+nplus1.ru/
 nslnr.su/
 nso.ru/
 nspk.ru
@@ -532,6 +554,7 @@ o3team.ru
 odkl.ru
 ok.me
 ok.ru
+oka.fm/
 okcdn.ru
 okko.tv/
 okmarket.ru/
@@ -560,6 +583,7 @@ parlament09.ru/
 partner.yandex.ru
 passatworld.ru/forum.php
 paywb.com
+pchelpforum.ru/
 penta-club.ru/forum/
 perm.fas.gov.ru
 permkrai.ru/
@@ -571,6 +595,7 @@ Photoshare.ru
 pic.rtbcdn.ru
 pik.ru
 pikabu.ru
+planetaexcel.ru/forum/
 plati.market
 platimultiqr.ru
 platiqr.ru
@@ -609,10 +634,12 @@ prlib.ru
 probirka.org/forum/index.php
 prodota.ru/forum/
 profinance.ru/forum/
+progoroduhta.ru/
 prokoni.ru/forum/
 prophotos.ru
 prufy.ru/
 pskov.ru/
+psychology.net.ru/talk/
 puzyaka.ru/forum/
 pwonline.ru/forums/
 queuev4.vk.com
@@ -640,6 +667,7 @@ regforum.ru/forum/
 ren.tv/
 retromap.ru
 reviewdetector.ru/index.php
+rf-cheats.ru/forum/
 rf-sp.ru/forum/
 ria.ru
 riafan.ru
@@ -720,6 +748,7 @@ sostav.ru
 sourcecraft.dev
 sovminlnr.ru/
 sozd.duma.gov.ru/
+spartak.msk.ru/guest/
 spartakforum.ru/
 spaymentsplus.ru
 spbkbran.ru/
@@ -773,6 +802,7 @@ sun9-81.userapi.com
 supcourt.ru
 suradmin.ru/
 sushi-karate.ru/
+suzuki-club.ru/
 sysadmins.ru/
 tabsbook.ru
 tadviser.ru/
@@ -788,6 +818,7 @@ tech-mail.ru
 tefal.ru
 tehnari.ru/
 tehnoomsk.ru/
+teleserial.com/
 test.rutube.ru
 tetrika-school.ru
 tforum.uz/
@@ -803,9 +834,11 @@ top-fwz1.mail.ru
 top-fwz1.mail.ru
 topwar.ru/
 tourerv.ru/forum/
+tourney.ru/forum/
 traiv-komplekt.ru/
 trinixy.ru/
 tr-page.yandex.ru/
+t-s.kz/
 tsushima.su/forums/
 tucson-club.ru/forum/
 tulaoblduma.ru/
@@ -821,6 +854,7 @@ udmgossovet.ru/
 udmurt.ru/
 ufacity.info/
 ulgov.ru/
+ulov.ru/forum/
 umschool.net
 unistroy.org
 unsorted.me/forum.php
@@ -867,6 +901,7 @@ vseinstrumenti.ru
 vskhakasia.ru/
 vsrf.ru/
 vtb.ru/
+vw-bus.ru/
 vw-golfclub.ru/forum/
 vwts.ru/forum/
 wb.ru
@@ -886,11 +921,10 @@ woman.ru/
 woodcraftsman.ru/
 workspace.ru/
 wrk.ru/forums/
-www.mirf.ru/
-www.oka.fm/
 x5.ru/
 x5m.x5.ru
 xapi.ozon.ru
+x-bikers.ru/forum/
 xn--b1agapfwapgcl.xn--p1ai/
 xras.ru/
 ya.cc
