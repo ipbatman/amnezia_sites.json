@@ -130,11 +130,13 @@ changanauto.ru/
 changanauto.ru/
 chechnya.gov.ru/
 chem.msu.ru/
+chemport.ru/forum/
 chernish.ru/index.php?name=Forums
 chery.ru/
 chery-club.ru/forum/
 chesnok.media/
 chinamobil.ru/bb/
+chins.ru/forum.php
 chipmaker.ru/
 chiptuner.ru/forum/
 chizhik.club/
@@ -189,6 +191,7 @@ duma.yar.ru/
 duma72.ru/
 duma-murman.ru/
 dumask.ru/
+dusterclubs.ru/vb/
 dvinaland.ru/
 dzen.ru
 dzeninfra.ru
@@ -229,9 +232,11 @@ finam.ru/
 finance.ozon.ru
 findozor.net/forum/
 finmarket.ru/
+fishing.ru/talks/
 fishki.net/
 fix-price.com/
 food.ru/
+forester.club/forums/
 forexsystemru.com/
 forum.3dnews.tech/
 forum.abok.ru/
@@ -254,6 +259,7 @@ forum.cxem.net/
 forum.detiangeli.ru/
 forum.dirt.ru/
 forum.doctorhead.ru/forums/
+forum.donfisher.ru/
 forum.dwg.ru/
 forum.ereality.ru/
 forum.escapefromtarkov.com/
@@ -263,11 +269,13 @@ forum.garant.ru/
 forum.homedistiller.ru/
 forum.igromania.ru/
 forum.ixbt.com/
+forum.kasperskyclub.ru/
 forum.katera.ru/
 forum.kia-club.ru/
 forum.klerk.ru/
 forum.korabli.su/
 forum.mirf.ru/
+forum.motofan.ru/
 forum.motolodka.ru/
 forum.moya-semya.ru/
 forum.nag.ru/
@@ -295,9 +303,11 @@ forum.sportbox.ru/index.php
 forum.steelfactor.ru/
 forum.supermamki.ru/index.php
 forum.tetis.ru/
+forum.theprodigy.ru/
 forum.thg.ru/
 forum.tks.ru/
 forum.tokiohotel.ru/
+forum.trade-print.ru/
 forum.ubuntu.ru/
 forum.vgd.ru/
 forum.virtualsoccer.ru/
@@ -372,10 +382,12 @@ haval.ru/
 hh.ru
 hi-fi.ru/forum/
 hi-fi-forum.net/
+historica.ru/
 hitv.ru/hitvboard/
 hondamotor.ru/board/index.php?act=idx
 hosting-russia.ru
 huggingface.co
+hummerclubrus.ru/index.php?forums/
 huralrk.ru/
 hv-info.ru/gepatit-forum/
 iamcook.ru/
@@ -407,6 +419,7 @@ jaccar.ru/
 jeep4x4club.ru/forums/
 jeep-forum.ru/forum/
 jetour-ru.com/
+joomlaforum.ru/
 joyreactor.cc/
 kad.arbitr.ru/
 kalmregion.ru/
@@ -422,6 +435,7 @@ khural.org/
 kia-nnmotors.ru/
 kids.kremlin.ru/
 kidshockey.ru/
+kino.mail.ru/
 kinoafisha.info/
 kinonews.ru/
 kinopoisk.ru
@@ -446,6 +460,7 @@ kurganobl.ru/
 kurganoblduma.ru/
 kurskduma.ru/
 kursograf.ru/
+lada-forum.ru/
 lady.webnice.ru/forum/
 lamoda.ru/
 land-cruiser.ru/
@@ -486,6 +501,7 @@ mdrussia.ru/
 media.prosv.ru/
 megamarket.ru
 memoriam.ru/forum/
+men-s-club.ru/
 menunedeli.ru/
 meteoinfo.ru
 meteum.ai
@@ -589,6 +605,7 @@ perm.fas.gov.ru
 permkrai.ru/
 pesikot.org/forum/
 pesiq.ru/forum/
+pg21.ru/
 pgu.rk08.ru/
 photar.ru
 Photoshare.ru
@@ -747,12 +764,14 @@ sorento.kia-club.ru/forum/
 sostav.ru
 sourcecraft.dev
 sovminlnr.ru/
+sovokup.ru/index.php
 sozd.duma.gov.ru/
 spartak.msk.ru/guest/
 spartakforum.ru/
 spaymentsplus.ru
 spbkbran.ru/
 spbtalk.ru/
+sport24.ru/
 sportbox.ru/
 spshka.ru/index.php?action=forum
 sptovarov.ru/
@@ -863,6 +882,8 @@ urent.ru/
 ursa-tm.ru/forum/
 userapi.com
 user-storage-01bxc.wb.ru
+vaz.ee/forum/
+vfokuse.mail.ru/
 vk.cc
 vk.com
 vk.company
@@ -877,6 +898,7 @@ vkpay.app
 vkpay.com
 vkpay.io
 vkplay.ru
+vkplay.ru/
 vk-stadium.ru
 vkuser.net
 vkuseraudio.com
@@ -888,6 +910,7 @@ vkuservideo.net
 vkvd595.okcdn.ru
 vkvd595.okcdn.ru 
 vkvideo.ru
+vlab.su/
 vladmama.ru/forum/
 vmailru.net
 volgograd.ru/
@@ -921,6 +944,7 @@ woman.ru/
 woodcraftsman.ru/
 workspace.ru/
 wrk.ru/forums/
+wtatour.ru/
 x5.ru/
 x5m.x5.ru
 xapi.ozon.ru
