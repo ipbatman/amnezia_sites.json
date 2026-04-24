@@ -18,6 +18,8 @@ click-or-die.ru/
 75.ru/
 a.wb.ru
 a101.ru
+abrau.ru/
+abraudurso-studio.ru/
 academ.club/
 accord-russia.ru/index.php
 ad.mail.ru
@@ -36,10 +38,12 @@ aeroflot.ru/
 ailita-shop.ru/
 akashi.vk-portal.net
 akashi.vk-portal.net
+Akbmag.ru
 akzs.ru/
 alania.gov.ru/
 alfabank.ru/
 algoritmika.org
+alkoteka.com/
 allwebs.ru/
 altairegion22.ru/
 altai-republic.ru/
@@ -47,6 +51,7 @@ alternathistory.ru/
 amd.online
 amediateka.ru
 amurobl.ru/
+amwine.ru/
 androidinsider.ru/
 androidinsider.ru/
 anekdot.ru/
@@ -72,9 +77,11 @@ auto.kolesa.ru
 auto.mail.ru/
 auto.ru/
 auto.yuga.ru/
+Autodoc.ru
 autoforum.pro/
 autolada.ru/
 autopiter.ru
+Autopiter.ru
 autoreview.ru/
 auto-rostov.ru/
 autosalons.ru/
@@ -97,6 +104,7 @@ bbs.nashalife.ru/
 beatles.ru/postman/forum.asp
 beeline.ru
 beledi.ru/forum/
+belkacar.ru
 belregion.ru/
 berforum.ru/
 berizaryad.ru
@@ -111,6 +119,7 @@ bombler.ru/
 Bookasutp.ru
 boosty.to
 brik.org/node/2
+bristol.ru/
 brusnika.ru
 bryanskobl.ru/
 bvf.ru/forum/
@@ -142,6 +151,7 @@ chiptuner.ru/forum/
 chizhik.club/
 cian.ru/
 citroens-club.ru/
+citydrive.ru
 cityduma.tula.ru/
 clck.ru
 clstorage.net
@@ -164,6 +174,7 @@ csp.yandex.net
 csp.yandex.net
 cxhub.ru
 cyberforum.ru/
+delimobil.ru
 delivery-bt.wildberries.ru
 dgl.ru/
 diablozone.net/forum/
@@ -214,6 +225,7 @@ elama.ru
 electronix.ru/
 elibrary.ru
 elite-games.ru/conference/
+Emex.ru
 e-mordovia.ru/
 emu-land.net/forum/
 epp.genproc.gov.ru/
@@ -221,8 +233,11 @@ er.ru/
 ermolino-produkty.ru/
 etalongroup.ru
 evenkya.gosuslugi.ru/
+Exist.ru
+factornews.ru/
 factornews.ru/
 fai.org.ru/forum/
+fanagoria.ru/
 fantlab.ru/forum
 fas.gov.ru
 fedstat.ru
@@ -333,6 +348,7 @@ forum-wec.com/
 foto.ru/forums/general
 fotora.ru/
 frankmedia.ru
+frankmedia.ru/
 freshauto.ru
 fsb.ru/
 fsk.ru
@@ -347,6 +363,7 @@ gazprombank.ru/
 geely-motors.com/
 geobasket.ru
 gipernn.ru/
+gismeteo.ru/
 gk-mic.ru
 gk-usi.ru
 glava.kbr.ru/
@@ -357,7 +374,9 @@ glvrd.ru
 goha.ru/
 goldapple.ru/
 golf2club.com/
+gorilka.ru/
 gorodok.bz/
+gorodovoy.ru/
 goskatalog.ru
 gossov.tatarstan.ru/
 gosuslugi.ru
@@ -367,6 +386,7 @@ gov39.ru/
 government.ru/
 government-nnov.ru
 gov-murman.ru/
+govoritnn.ru/
 govoritnn.ru/
 govvrn.ru/
 goya.rutube.ru
@@ -390,6 +410,7 @@ huggingface.co
 hummerclubrus.ru/index.php?forums/
 huralrk.ru/
 hv-info.ru/gepatit-forum/
+hyperauto.ru
 iamcook.ru/
 ichip.ru/
 icon-art.info/phpBB2/
@@ -437,17 +458,21 @@ kids.kremlin.ru/
 kidshockey.ru/
 kino.mail.ru/
 kinoafisha.info/
+kinoafisha.info/
 kinonews.ru/
 kinopoisk.ru
 kion.ru/
 kirovchanka.ru/forum/
 kirovreg.ru/
 kmpforum.online/
+kolesa-darom.ru
+konkurent.ru/
 kontur.ru
 kortros.ru
 kovernino.bezformata.com
 kovrov33.ru/f2/
 krasnodar.ru/
+krasnoeibeloe.ru/
 kremlin.ru
 krestyanka.ru/
 krskforum.com/
@@ -511,6 +536,7 @@ mid.ru/
 midural.ru/
 mikrob.ru/
 mil.ru/
+millstream-wines.ru/
 minsoctrud.astrobl.ru/
 mirf.ru/
 mixnews.lv
@@ -521,7 +547,9 @@ mobileproxy.passport.yandex.net
 moex.com
 mondeoclub.ru/forums/
 monitor.espec.ws/
+monocle.ru/
 mos-gorsud.ru/
+moskvichmag.ru/
 moskvichmag.ru/
 mosmetro.ru/
 mosoblduma.ru/
@@ -554,6 +582,7 @@ nnov.ru
 nosmoking.ru/phpBB2/
 notdrink.ru/
 novocherkassk.net/
+novostivolgograda.ru/
 novostivolgograda.ru/
 novreg.ru/
 nplus1.ru/
@@ -605,6 +634,7 @@ perm.fas.gov.ru
 permkrai.ru/
 pesikot.org/forum/
 pesiq.ru/forum/
+pg12.ru/
 pg21.ru/
 pgu.rk08.ru/
 photar.ru
@@ -616,6 +646,7 @@ planetaexcel.ru/forum/
 plati.market
 platimultiqr.ru
 platiqr.ru
+pluggedin.ru/
 pnzreg.ru/
 pochtabank.ru/
 pogranec.ru/
@@ -704,6 +735,7 @@ rshb.ru/
 rtyva.ru/
 ru.nhandan.vn/
 ru.ruwiki.ru/
+Ruli.ru
 rusfishing.ru/forum/
 rusprofile.ru/
 russia.ru/
@@ -738,6 +770,7 @@ scalemodels.ru/modules/forum/
 school.spbstu.ru/
 scooter-club.ru/forum/
 sdk-api.apptracer.ru
+secrets.tbank.ru/
 securitylab.ru/
 selectel.ru/
 semena.ru/
@@ -750,6 +783,7 @@ serverspace.ru/
 sferum-dev.ru
 shedevrum.ai
 shophelp.ru/forum/
+simplewine.ru/
 skillfactory.ru/
 smailru.net
 smart-lab.ru
@@ -829,8 +863,10 @@ taimyr24.ru/
 talan.ru 
 tambov.gov.ru/
 tamtam.chat
+tantana.su/
 tapochek.net/
 tatarstan.ru/
+tatspirtprom.ru/
 tbank.ru/
 teach-in.ru
 tech-mail.ru
@@ -878,12 +914,15 @@ umschool.net
 unistroy.org
 unsorted.me/forum.php
 uralweb.ru/
+uralweb.ru/
+urent.ru
 urent.ru/
 ursa-tm.ru/forum/
 userapi.com
 user-storage-01bxc.wb.ru
 vaz.ee/forum/
 vfokuse.mail.ru/
+vino.ru/
 vk.cc
 vk.com
 vk.company
@@ -934,11 +973,13 @@ wbdevel.net
 wbpay.ru
 wbstatic.net
 wciom.ru/
+whoosh-bike.ru
 whoosh-bike.ru/
 wibes.ru
 widgets.kinopoisk.ru
 wikimedia.org
 wildberries.ru
+winelab.ru/
 wink.ru/
 woman.ru/
 woodcraftsman.ru/
@@ -973,6 +1014,7 @@ zismo.biz/
 znanierussia.ru/
 zo.gov.ru/
 zonazakona.ru/forum/
+zoon.ru/
 zoon.ru/
 zr.ru/
 zsamur.ru/
