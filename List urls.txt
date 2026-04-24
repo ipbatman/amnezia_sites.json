@@ -2,6 +2,7 @@ click-or-die.ru/
 1000.menu/
 10pix.ru
 161.ru/
+1prime.ru/
 1tv.ru/
 1tvspb.ru/
 2126.ru/forum/
@@ -162,12 +163,14 @@ clubvolvo.ru/
 cnews.ru/
 code-class.ru
 coins.su/forum/
+comon.ru/
 comss.ru/
 consultant.ru/
 consultant29.ru/
 coop-land.ru/
 corpblog.ostrovok.ru/
 council.gov.ru
+counter.yadro.ru
 cqham.ru/forum/forum.php
 crimea.gov.ru/
 csp.yandex.net
@@ -193,6 +196,7 @@ donstroy.moscow
 dota2.ru/forum/
 dp.ru/
 drom.ru
+ds-frontend.weborama-tech.ru
 dtf.ru/
 dubna.net/forum/
 dukandiet.ru/forum/
@@ -214,6 +218,7 @@ eao.ru/
 ecigtalk.org/forum/
 eda.rambler.ru/
 e-dag.ru/
+edge-upvideo.rbc.ru
 edimdoma.ru/
 e-disclosure.ru/
 edu.gounn.ru/
@@ -234,6 +239,7 @@ ermolino-produkty.ru/
 etalongroup.ru
 evenkya.gosuslugi.ru/
 Exist.ru
+expert.ru/
 factornews.ru/
 factornews.ru/
 fai.org.ru/forum/
@@ -439,6 +445,7 @@ ivi.tv/
 jaccar.ru/
 jeep4x4club.ru/forums/
 jeep-forum.ru/forum/
+jetour-ru.com/
 jetour-ru.com/
 joomlaforum.ru/
 joyreactor.cc/
@@ -677,6 +684,7 @@ preview.rutube.ru
 price-altai.ru/forum.html
 primorsky.ru/
 priorovod.ru/
+privacy-cs.mail.ru
 prizyvnik.info/
 prlib.ru
 probirka.org/forum/index.php
@@ -690,6 +698,7 @@ pskov.ru/
 psychology.net.ru/talk/
 puzyaka.ru/forum/
 pwonline.ru/forums/
+queuev4.vk.com
 queuev4.vk.com
 queuev4.vk.com
 queuev4.vk.com
@@ -749,6 +758,7 @@ rwb.ru
 ryazan.gov.ru/
 rzd.ru
 rznoblduma.ru/
+s.rbk.ru
 sad-i-ogorod.ru/
 sakha.gov.ru/
 sakha.gov.ru/
@@ -835,7 +845,10 @@ strm-mar-238.strm.yandex.net
 sudrf.ru
 summerstage.ru
 sun9-14.userapi.com
+sun9-16.userapi.com
+sun9-18.userapi.com
 sun9-19.userapi.com
+sun9-23.userapi.com
 sun9-23.userapi.com
 sun9-25.userapi.com
 sun9-26.userapi.com
@@ -845,6 +858,9 @@ sun9-5.userapi.com
 sun9-50.userapi.com
 sun9-60.userapi.com
 sun9-61.userapi.com
+sun9-63.userapi.com
+sun9-65.userapi.com
+sun9-69.userapi.com
 sun9-69.userapi.com
 sun9-70.userapi.com
 sun9-76.userapi.com
@@ -973,6 +989,7 @@ wbdevel.net
 wbpay.ru
 wbstatic.net
 wciom.ru/
+wf-ru-frontend.weborama-tech.ru 
 whoosh-bike.ru
 whoosh-bike.ru/
 wibes.ru
