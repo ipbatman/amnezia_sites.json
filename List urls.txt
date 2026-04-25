@@ -87,6 +87,7 @@ autoreview.ru/
 auto-rostov.ru/
 autosalons.ru/
 avatars.mds.yandex.net
+avatars.mds.yandex.net
 aviaforum.ru/
 aviasales.ru/
 avilon.ru
@@ -170,6 +171,7 @@ comss.ru/
 consultant.ru/
 consultant29.ru/
 coop-land.ru/
+core-renderer-tiles.maps.yandex.ru
 corpblog.ostrovok.ru/
 council.gov.ru
 counter.yadro.ru
@@ -531,6 +533,7 @@ magoblduma.ru/
 mail.ru
 major-auto.ru
 maps.litera-ru.ru
+maps-yandex-ru.naydex.net
 mari-el.gov.ru/parlament
 market.yandex.ru
 mastergrad.com/
@@ -714,9 +717,6 @@ psy-ru.org/
 puzyaka.ru/forum/
 pwonline.ru/forums/
 queuev4.vk.com
-queuev4.vk.com
-queuev4.vk.com
-queuev4.vk.com
 r.mradx.net 
 r0.mradx.net
 r-19.ru/
@@ -768,14 +768,12 @@ russianitaly.com/forum/
 rustore.ru/
 rutube.ru
 rv.mail.ru
-rv.mail.ru
 rwb.ru
 ryazan.gov.ru/
 rzd.ru
 rznoblduma.ru/
 s.rbk.ru
 sad-i-ogorod.ru/
-sakha.gov.ru/
 sakha.gov.ru/
 sakhalin.gov.ru/
 salam-de-rasc-87.rtbcdn.ru
@@ -904,7 +902,6 @@ sun9-38.userapi.com
 sun9-39.userapi.com
 sun9-4.userapi.com
 sun9-40.userapi.com
-sun9-40.userapi.com
 sun9-41.userapi.com
 sun9-42.userapi.com
 sun9-43.userapi.com
@@ -917,7 +914,6 @@ sun9-49.userapi.com
 sun9-5.userapi.com
 sun9-5.userapi.com
 sun9-50.userapi.com
-sun9-50.userapi.com
 sun9-51.userapi.com
 sun9-52.userapi.com
 sun9-53.userapi.com
@@ -929,20 +925,14 @@ sun9-58.userapi.com
 sun9-59.userapi.com
 sun9-6.userapi.com
 sun9-60.userapi.com
-sun9-60.userapi.com
-sun9-61.userapi.com
 sun9-61.userapi.com
 sun9-62.userapi.com
 sun9-63.userapi.com
-sun9-63.userapi.com
 sun9-64.userapi.com
-sun9-65.userapi.com
 sun9-65.userapi.com
 sun9-66.userapi.com
 sun9-67.userapi.com
 sun9-68.userapi.com
-sun9-69.userapi.com
-sun9-69.userapi.com
 sun9-69.userapi.com
 sun9-7.userapi.com
 sun9-70.userapi.com
@@ -953,8 +943,6 @@ sun9-73.userapi.com
 sun9-74.userapi.com
 sun9-75.userapi.com
 sun9-76.userapi.com
-sun9-76.userapi.com
-sun9-77.userapi.com
 sun9-77.userapi.com
 sun9-78.userapi.com
 sun9-78.userapi.com
@@ -1017,10 +1005,8 @@ tochno-team.ru
 tomsk.gov.ru/
 top.ucoz.ru/
 top-fwz1.mail.ru
-top-fwz1.mail.ru
 topwar.ru/
 tourerv.ru/forum/
-tourney.ru/forum/
 traiv-komplekt.ru/
 trinixy.ru/
 tr-page.yandex.ru/
@@ -1054,6 +1040,7 @@ ursa-tm.ru/forum/
 userapi.com
 user-storage-01bxc.wb.ru
 vaz.ee/forum/
+verify.yandex.ru
 vfokuse.mail.ru/
 vino.ru/
 vk.cc
@@ -1070,7 +1057,6 @@ vkpay.app
 vkpay.com
 vkpay.io
 vkplay.ru
-vkplay.ru/
 vk-stadium.ru
 vkuser.net
 vkuseraudio.com
@@ -1080,7 +1066,6 @@ vkuserlive.net
 vkuservideo.com
 vkuservideo.net
 vkvd595.okcdn.ru
-vkvd595.okcdn.ru 
 vkvideo.ru
 vlab.su/
 vladmama.ru/forum/
@@ -1088,7 +1073,6 @@ vmailru.net
 volgograd.ru/
 vologda-oblast.ru/
 vp-1.ozone.ru
-vr-1.ozone.ru
 vremyan.ru/
 vrnoblduma.ru/
 vsehvosty.ru/forum/
