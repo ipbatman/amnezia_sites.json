@@ -41,7 +41,6 @@ adygheya.ru/
 aeroflot.ru/
 ailita-shop.ru/
 akashi.vk-portal.net
-akashi.vk-portal.net
 Akbmag.ru
 akzs.ru/
 alania.gov.ru/
@@ -86,7 +85,6 @@ Autodoc.ru
 autoforum.pro/
 autolada.ru/
 autopiter.ru
-Autopiter.ru
 autoreview.ru/
 auto-rostov.ru/
 autosalons.ru/
@@ -138,7 +136,6 @@ cbr.ru
 cccp3d.ru/
 cdek.ru
 cdn1.ozonusercontent.com
-cdn1.ozonusercontent.com
 cdnvideo.ru/
 cdnvideo.v.ozone.ru
 celica-club.ru/board/
@@ -185,8 +182,6 @@ counter.yadro.ru
 cqham.ru/forum/forum.php
 crimea.gov.ru/
 csp.yandex.net
-csp.yandex.net
-csp.yandex.net
 cvr-bogorodsk.edusite.ru/
 cxhub.ru
 cyberforum.ru/
@@ -201,6 +196,7 @@ distschool.ru/
 dnevnik.ru/
 dnr-sovet.su/
 dns-shop.ru
+docs.cntd.ru/
 dogma.ru
 dom.gosuslugi.ru
 domlenta.ru/
@@ -209,6 +205,7 @@ donstroy.moscow
 dota2.ru/forum/
 dp.ru/
 drom.ru
+dront.ru/
 ds-frontend.weborama-tech.ru
 dtf.ru/
 dubna.net/forum/
@@ -223,7 +220,6 @@ dusterclubs.ru/vb/
 dvinaland.ru/
 dzen.ru
 dzeninfra.ru
-e.mail.ru
 e.mail.ru
 e1.ru/
 e30club.ru/forum/
@@ -262,7 +258,6 @@ fantlab.ru/forum
 fas.gov.ru
 fedstat.ru
 fermer.ru/forum
-finam.ru/
 finam.ru/
 finance.ozon.ru
 findozor.net/forum/
@@ -439,6 +434,7 @@ hyperauto.ru
 iamcook.ru/
 ichip.ru/
 icon-art.info/phpBB2/
+id.sber.ru
 iguides.ru/
 iimg.su/
 ili-nnov.ru
@@ -498,6 +494,7 @@ korandovod.ru/forum/
 kortros.ru
 kovernino.bezformata.com
 kovrov33.ru/f2/
+kraken.rambler.ru
 krasnodar.ru/
 krasnoeibeloe.ru/
 krasotulya.ru/telo/
@@ -660,6 +657,7 @@ ozon-dostavka.ru
 ozone.ru
 p.ozon.ru
 pajero4x4.ru/bbs/phpBB2/
+pan-nn.ru/
 parlament09.ru/
 partner.yandex.ru
 passatworld.ru/forum.php
@@ -785,6 +783,7 @@ rv.mail.ru
 rwb.ru
 ryazan.gov.ru/
 rzd.ru
+rzd.ru/
 rznoblduma.ru/
 s.rbk.ru
 s3.dzeninfra.ru
@@ -852,6 +851,7 @@ sptovarov.ru/
 spvtomske.ru/forum/
 sskkuban.ru
 st.ozone.ru
+st.top100.ru
 st.vk.com
 st.vkvideo.ru
 staraya-moneta.ru/forum/
@@ -867,6 +867,8 @@ stavinvest.ru/
 stavminprom.ru/
 stavregion.ru/
 stepik.org
+stmtag.ru
+stmtag.ru
 stolicaonego.ru/
 stoloto.ru
 storage.mds.yandex.net
