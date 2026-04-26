@@ -57,7 +57,6 @@ amurobl.ru/
 amwine.ru/
 an.yandex.ru
 androidinsider.ru/
-androidinsider.ru/
 anekdot.ru/
 anti-malware.ru/
 aosd.ru/
@@ -88,7 +87,6 @@ autopiter.ru
 autoreview.ru/
 auto-rostov.ru/
 autosalons.ru/
-avatars.mds.yandex.net
 avatars.mds.yandex.net
 aviaforum.ru/
 aviasales.ru/
@@ -140,7 +138,6 @@ cdnvideo.ru/
 cdnvideo.v.ozone.ru
 celica-club.ru/board/
 cells.ru/forum/
-changanauto.ru/
 changanauto.ru/
 chechnya.gov.ru/
 chem.msu.ru/
@@ -250,7 +247,6 @@ etalongroup.ru
 evenkya.gosuslugi.ru/
 Exist.ru
 expert.ru/
-factornews.ru/
 factornews.ru/
 fai.org.ru/forum/
 fanagoria.ru/
@@ -368,7 +364,6 @@ forum-wec.com/
 foto.ru/forums/general
 fotora.ru/
 frankmedia.ru
-frankmedia.ru/
 freshauto.ru
 fsb.ru/
 fsk.ru
@@ -407,7 +402,6 @@ government.ru/
 government-nnov.ru
 gov-murman.ru/
 govoritnn.ru/
-govoritnn.ru/
 govvrn.ru/
 goya.rutube.ru
 granelle.ru
@@ -417,7 +411,6 @@ gubernator.zo.gov.ru/
 gubernator74.ru/
 guitarplayer.ru/
 hamkke.borda.ru/
-haval.ru/
 haval.ru/
 hh.ru
 hi-fi.ru/forum/
@@ -454,7 +447,6 @@ ir-3.ozone.ru
 irkobl.ru/
 irzs.ru/
 iv.okcdn.ru
-iv.okcdn.ru
 ivanovoobl.ru/
 ivi.tv/
 jaccar.ru/
@@ -480,7 +472,6 @@ kids.kremlin.ru/
 kidshockey.ru/
 kino.mail.ru/
 kinoafisha.info/
-kinoafisha.info/
 kinonews.ru/
 kinopoisk.ru
 kion.ru/
@@ -502,7 +493,6 @@ kremlin.ru
 krestyanka.ru/
 krskforum.com/
 krskstate.ru/
-kubnews.ru/
 kubnews.ru/
 kubzsk.ru/
 kudago.com/
@@ -578,7 +568,6 @@ monitor.espec.ws/
 monocle.ru/
 mos-gorsud.ru/
 moskvichmag.ru/
-moskvichmag.ru/
 mosmetro.ru/
 mosoblduma.ru/
 mosreg.ru/
@@ -613,9 +602,7 @@ nosmoking.ru/phpBB2/
 notdrink.ru/
 novocherkassk.net/
 novostivolgograda.ru/
-novostivolgograda.ru/
 novreg.ru/
-nplus1.ru/
 nplus1.ru/
 nslnr.su/
 nso.ru/
@@ -732,9 +719,7 @@ r.mradx.net
 r0.mradx.net
 r-19.ru/
 radikal.cloud/
-radikal.cloud/
 radiokot.ru/
-radiokot.ru/forum/
 radioscanner.ru/forum/
 ranepa.ru/
 ras.ru/
@@ -806,7 +791,6 @@ sberpay.ru
 scalemodels.ru/modules/forum/
 school.spbstu.ru/
 scooter-club.ru/forum/
-sdk-api.apptracer.ru
 sdk-api.apptracer.ru
 secrets.tbank.ru/
 securitylab.ru/
@@ -883,26 +867,18 @@ sun9-11.userapi.com
 sun9-12.userapi.com
 sun9-13.userapi.com
 sun9-14.userapi.com
-sun9-14.userapi.com
 sun9-15.userapi.com
-sun9-16.userapi.com
 sun9-16.userapi.com
 sun9-17.userapi.com
 sun9-18.userapi.com
-sun9-18.userapi.com
-sun9-19.userapi.com
 sun9-19.userapi.com
 sun9-2.userapi.com
 sun9-20.userapi.com
 sun9-21.userapi.com
 sun9-22.userapi.com
 sun9-23.userapi.com
-sun9-23.userapi.com
-sun9-23.userapi.com
 sun9-24.userapi.com
 sun9-25.userapi.com
-sun9-25.userapi.com
-sun9-26.userapi.com
 sun9-26.userapi.com
 sun9-27.userapi.com
 sun9-28.userapi.com
@@ -912,7 +888,6 @@ sun9-30.userapi.com
 sun9-31.userapi.com
 sun9-32.userapi.com
 sun9-33.userapi.com
-sun9-34.userapi.com
 sun9-34.userapi.com
 sun9-35.userapi.com
 sun9-36.userapi.com
@@ -930,7 +905,6 @@ sun9-46.userapi.com
 sun9-47.userapi.com
 sun9-48.userapi.com
 sun9-49.userapi.com
-sun9-5.userapi.com
 sun9-5.userapi.com
 sun9-50.userapi.com
 sun9-51.userapi.com
@@ -955,7 +929,6 @@ sun9-68.userapi.com
 sun9-69.userapi.com
 sun9-7.userapi.com
 sun9-70.userapi.com
-sun9-70.userapi.com
 sun9-71.userapi.com
 sun9-72.userapi.com
 sun9-73.userapi.com
@@ -964,11 +937,9 @@ sun9-75.userapi.com
 sun9-76.userapi.com
 sun9-77.userapi.com
 sun9-78.userapi.com
-sun9-78.userapi.com
 sun9-79.userapi.com
 sun9-8.userapi.com
 sun9-80.userapi.com
-sun9-81.userapi.com
 sun9-81.userapi.com
 sun9-81.userapi.com
 sun9-82.userapi.com
