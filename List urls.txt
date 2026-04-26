@@ -2,6 +2,7 @@ click-or-die.ru/
 1000.menu/
 10pix.ru
 161.ru/
+1777172222-3718548830230420006--5340516866536495208.cu.dzen.ru
 1prime.ru/
 1tv.ru/
 1tvspb.ru/
@@ -15,6 +16,8 @@ click-or-die.ru/
 49gov.ru/
 4brain.ru
 4gameforum.com/
+531211.ms.dzen.ru
+551211.ms.dzen.ru
 66.ru/
 75.ru/
 a.wb.ru
@@ -53,6 +56,7 @@ amd.online
 amediateka.ru
 amurobl.ru/
 amwine.ru/
+an.yandex.ru
 androidinsider.ru/
 androidinsider.ru/
 anekdot.ru/
@@ -111,6 +115,7 @@ belregion.ru/
 berforum.ru/
 berizaryad.ru
 bezformata.com
+bgforum.ru/
 biotechnica.ru
 bjdclub.com/index.php
 blog.rupixel.ru/
@@ -157,6 +162,8 @@ citroens-club.ru/
 citydrive.ru
 cityduma.tula.ru/
 clck.ru
+cloud.imgsmail.ru
+cloud.mail.ru
 clstorage.net
 club.season.ru/
 club443.ru/
@@ -179,6 +186,8 @@ cqham.ru/forum/forum.php
 crimea.gov.ru/
 csp.yandex.net
 csp.yandex.net
+csp.yandex.net
+cvr-bogorodsk.edusite.ru/
 cxhub.ru
 cyberforum.ru/
 delimobil.ru
@@ -214,6 +223,7 @@ dusterclubs.ru/vb/
 dvinaland.ru/
 dzen.ru
 dzeninfra.ru
+e.mail.ru
 e.mail.ru
 e1.ru/
 e30club.ru/forum/
@@ -592,6 +602,7 @@ nastej.org/forum/
 naydex.net
 netlab.e2k.ru/forum/
 newizv.ru/
+newmap.nn-invest.ru
 ngenix.net/
 ngs.ru/
 nic.ru/
@@ -641,6 +652,7 @@ orel-region.ru/
 orenburg-gov.ru/
 organic-mix.ru
 ostrovok.ru/ 
+otr-online.ru/
 out-club.ru/board/
 overclockers.ru/
 ozon.ru
@@ -677,6 +689,7 @@ pogranec.ru/
 points.wb.ru
 pokupki21.ru/
 polis-group.ru
+portal.mail.ru
 postnauka.org
 povar.ru/
 povarenok.ru/
@@ -760,6 +773,7 @@ rtyva.ru/
 ru.nhandan.vn/
 ru.ruwiki.ru/
 Ruli.ru
+rum.dzen.ru
 rusfishing.ru/forum/
 rusprofile.ru/
 russia.ru/
@@ -773,6 +787,7 @@ ryazan.gov.ru/
 rzd.ru
 rznoblduma.ru/
 s.rbk.ru
+s3.dzeninfra.ru
 sad-i-ogorod.ru/
 sakha.gov.ru/
 sakhalin.gov.ru/
@@ -792,6 +807,7 @@ sberpay.ru
 scalemodels.ru/modules/forum/
 school.spbstu.ru/
 scooter-club.ru/forum/
+sdk-api.apptracer.ru
 sdk-api.apptracer.ru
 secrets.tbank.ru/
 securitylab.ru/
@@ -841,6 +857,7 @@ st.vkvideo.ru
 staraya-moneta.ru/forum/
 start.practicum.yandex/
 start.ru/
+static.dzeninfra.ru
 static.rtbcdn.ru
 static-basket-01.wbbasket.ru
 static-mon.yandex.net
@@ -997,6 +1014,7 @@ test.rutube.ru
 tetrika-school.ru
 tforum.uz/
 thg.ru/
+thumb.cloud.mail.ru
 timeweb.com/
 tns-counter.ru
 tochek.net/
@@ -1036,6 +1054,7 @@ uralweb.ru/
 uralweb.ru/
 urent.ru
 urent.ru/
+urgens-nn.su/
 ursa-tm.ru/forum/
 userapi.com
 user-storage-01bxc.wb.ru
@@ -1095,6 +1114,7 @@ whoosh-bike.ru
 whoosh-bike.ru/
 wibes.ru
 widgets.kinopoisk.ru
+widgets.mail.ru
 wikimedia.org
 wildberries.ru
 winelab.ru/
@@ -1110,6 +1130,7 @@ xapi.ozon.ru
 x-bikers.ru/forum/
 xn--b1agapfwapgcl.xn--p1ai/
 xras.ru/
+xray.mail.ru
 ya.cc
 ya.ru
 yaklass.ru
