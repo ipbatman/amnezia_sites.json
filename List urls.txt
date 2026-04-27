@@ -1,6 +1,3 @@
-click-or-die.ru/
-1000.menu/
-10pix.ru
 161.ru/
 1777172222-3718548830230420006--5340516866536495208.cu.dzen.ru
 1prime.ru/
@@ -53,9 +50,11 @@ altai-republic.ru/
 alternathistory.ru/
 amd.online
 amediateka.ru
+amk-team.ru/forum/
 amurobl.ru/
 amwine.ru/
 an.yandex.ru
+anafor.ru/forums/
 androidinsider.ru/
 anekdot.ru/
 anti-malware.ru/
@@ -139,6 +138,7 @@ cdnvideo.v.ozone.ru
 celica-club.ru/board/
 cells.ru/forum/
 changanauto.ru/
+chayka.org.ru/forum/
 chechnya.gov.ru/
 chem.msu.ru/
 chemport.ru/forum/
@@ -161,6 +161,7 @@ cloud.mail.ru
 clstorage.net
 club.season.ru/
 club443.ru/
+club-forester.ru/
 club-nissan.ru/forums/
 club-renault.ru/forum/
 clubvolvo.ru/
@@ -261,6 +262,8 @@ finmarket.ru/
 fishing.ru/talks/
 fishki.net/
 fix-price.com/
+fkclub.ru/forum/
+floralworld.ru/forum/
 food.ru/
 forester.club/forums/
 forexsystemru.com/
@@ -271,6 +274,8 @@ forum.alconar.ru/index.php
 forum.allgaz.ru/
 forum.allods.ru/
 forum.allsochi.info/
+forum.anastasia.ru/
+forum.antivsd.ru/
 forum.astrakhan.ru/
 forum.athlete.ru/
 forum.awd.ru/
@@ -284,6 +289,7 @@ forum.chrysler-dodge.ru/
 forum.cxem.net/
 forum.detiangeli.ru/
 forum.dirt.ru/
+forum.dlink.ru/
 forum.doctorhead.ru/forums/
 forum.donfisher.ru/
 forum.dwg.ru/
@@ -296,6 +302,7 @@ forum.garant.ru/
 forum.good-cook.ru/main.html
 forum.homedistiller.ru/
 forum.igromania.ru/
+forum.il2sturmovik.ru/
 forum.ixbt.com/
 forum.kasperskyclub.ru/
 forum.katera.ru/
@@ -327,6 +334,7 @@ forum.say7.info/
 forum.sevastopol.info/
 forum.sibmama.ru/
 forum.sibnet.ru/
+forum.skif4x4.ru/
 forum.skoda-club.ru/
 forum.smolensk.ws/
 forum.sources.ru/
@@ -352,6 +360,7 @@ forum4x4club.ru/
 forum-dollplanet.ru/
 forumhouse.ru/forums
 forum-monitor.net.ru/
+forum-people.ru/
 forumrate.ru/
 forums.gamemag.ru/
 forums.overclockers.ru/
@@ -464,6 +473,7 @@ kasparovchess.crestbook.com/
 kchr.ru/
 kerzhenskiy.ru
 keyauto.ru
+kg-forum.ru/
 khabkrai.ru/
 khogov.ru/
 khural.org/
@@ -516,6 +526,7 @@ lifehacker.ru/
 litres.ru/
 live.skillfactory.ru/
 livejournal.com
+lizaalert.org/forum/
 lkforum.ru/
 lki.ru/
 log.rutube.ru
@@ -658,6 +669,7 @@ pesiq.ru/forum/
 pg12.ru/
 pg21.ru/
 pgu.rk08.ru/
+phantom.sannata.org/
 photar.ru
 Photoshare.ru
 pic.rtbcdn.ru
@@ -725,6 +737,7 @@ ranepa.ru/
 ras.ru/
 rat.ru/forum/
 rating-avtosalon.ru/
+ratmania.ru/forum/
 rbc.ru
 rbcrealty.ru
 reddit.com
@@ -744,12 +757,14 @@ rks-development.ru
 rkursk.ru/
 rma-d.ru/
 rmmedia.ru/
+roads.ru/forum/
 rodim.ru/index.php
 rolf.ru
 rospotrebnadzor.ru
 rosreestr.ru
 rosstat.gov.ru
 rostaxi.org
+rpgrussia.com/
 rsdn.org/forum/list
 rshb.ru/
 rtyva.ru/
@@ -1032,6 +1047,7 @@ ursa-tm.ru/forum/
 userapi.com
 user-storage-01bxc.wb.ru
 vaz.ee/forum/
+velosamara.ru/forum/
 verify.yandex.ru
 vfokuse.mail.ru/
 vino.ru/
