@@ -23,6 +23,7 @@ abrau.ru/
 abraudurso-studio.ru/
 academ.club/
 accord-russia.ru/index.php
+ad.adriver.ru
 ad.mail.ru
 adm44.ru/
 admgor.nnov.ru
@@ -92,6 +93,7 @@ aviasales.ru/
 avilon.ru
 avito.ru
 avito.st
+avito.st
 avo.ru/
 avtomir.ru
 avtonovostidnya.ru/
@@ -132,6 +134,7 @@ car72.ru/forum/
 cbr.ru
 cccp3d.ru/
 cdek.ru
+cdn.uxfeedback.ru
 cdn1.ozonusercontent.com
 cdnvideo.ru/
 cdnvideo.v.ozone.ru
@@ -148,6 +151,7 @@ chery-club.ru/forum/
 chesnok.media/
 chinamobil.ru/bb/
 chins.ru/forum.php
+chipdip.ru/
 chipmaker.ru/
 chiptuner.ru/forum/
 chizhik.club/
@@ -179,6 +183,7 @@ council.gov.ru
 counter.yadro.ru
 cqham.ru/forum/forum.php
 crimea.gov.ru/
+cs.avito.ru
 csp.yandex.net
 cvr-bogorodsk.edusite.ru/
 cxhub.ru
@@ -205,6 +210,7 @@ dp.ru/
 drom.ru
 dront.ru/
 ds-frontend.weborama-tech.ru
+ds-frontend.weborama-tech.ru
 dtf.ru/
 dubna.net/forum/
 dukandiet.ru/forum/
@@ -227,6 +233,7 @@ ecigtalk.org/forum/
 eda.rambler.ru/
 e-dag.ru/
 edge-upvideo.rbc.ru
+edge-upvideo.rbc.ru
 edimdoma.ru/
 e-disclosure.ru/
 edu.gounn.ru/
@@ -240,10 +247,12 @@ elibrary.ru
 elite-games.ru/conference/
 Emex.ru
 e-mordovia.ru/
+employer-reviews-front.hh.ru
 emu-land.net/forum/
 epp.genproc.gov.ru/
 er.ru/
 ermolino-produkty.ru/
+err.lenta.ru
 etalongroup.ru
 evenkya.gosuslugi.ru/
 Exist.ru
@@ -433,7 +442,9 @@ hummerclubrus.ru/index.php?forums/
 huralrk.ru/
 hv-info.ru/gepatit-forum/
 hyperauto.ru
+i.hh.ru
 iamcook.ru/
+icdn.lenta.ru
 ichip.ru/
 icon-art.info/phpBB2/
 id.sber.ru
@@ -441,6 +452,7 @@ iguides.ru/
 iimg.su/
 ili-nnov.ru
 imageban.ru/
+img.hhcdn.ru
 imho.ws/
 im-konsalting.ru/
 imtw.ru/
@@ -490,6 +502,7 @@ kirovreg.ru/
 kmpforum.online/
 kolesa-darom.ru
 konkurent.ru/
+konkurent.ru/
 kontur.ru
 korandovod.ru/forum/
 kortros.ru
@@ -515,6 +528,7 @@ lady.webnice.ru/forum/
 lamoda.ru/
 land-cruiser.ru/
 laparfumerie.org/
+lapsha.media/
 lavka.yandex.ru/
 lektorium.tv/
 lenobl.ru/
@@ -557,6 +571,7 @@ megamarket.ru
 memoriam.ru/forum/
 men-s-club.ru/
 menunedeli.ru/
+meta.hostingradio.ru
 meteoinfo.ru
 meteum.ai
 metrika.yandex.ru
@@ -566,6 +581,7 @@ midural.ru/
 mikrob.ru/
 mil.ru/
 millstream-wines.ru/
+miloserdie.ru/
 minsoctrud.astrobl.ru/
 mirf.ru/
 mixnews.lv
@@ -712,6 +728,7 @@ price-altai.ru/forum.html
 primorsky.ru/
 priorovod.ru/
 privacy-cs.mail.ru
+privacy-cs.mail.ru
 prizyvnik.info/
 prlib.ru
 probirka.org/forum/index.php
@@ -786,6 +803,8 @@ rzd.ru
 rzd.ru/
 rznoblduma.ru/
 s.rbk.ru
+s.rbk.ru
+s0.rbk.ru
 s3.dzeninfra.ru
 sad-i-ogorod.ru/
 sakha.gov.ru/
@@ -849,6 +868,7 @@ spshka.ru/index.php?action=forum
 sptovarov.ru/
 spvtomske.ru/forum/
 sskkuban.ru
+ssp.rambler.ru
 st.ozone.ru
 st.top100.ru
 st.vk.com
@@ -861,6 +881,7 @@ static.rtbcdn.ru
 static-basket-01.wbbasket.ru
 static-mon.yandex.net
 static-storage.net
+stats.avito.ru
 stats.vk-portal.net
 stavinvest.ru/
 stavminprom.ru/
@@ -1065,6 +1086,7 @@ vkpay.app
 vkpay.com
 vkpay.io
 vkplay.ru
+vkplay.ru/
 vk-stadium.ru
 vkuser.net
 vkuseraudio.com
