@@ -8,6 +8,7 @@
 2ch.org/
 2gis.com
 2gis.ru
+308-club.ru/forum/
 33212.ms.vk.com
 3dnews.ru/
 49gov.ru/
@@ -120,6 +121,8 @@ blog.rupixel.ru/
 blog-gk.ru/
 blondie.ru/forum
 bluesmobil.ru/
+bmwstyle.ru/forum/
+bnkomi.ru/
 board.german242.com/
 bombler.ru/
 Bookasutp.ru
@@ -132,6 +135,7 @@ bvf.ru/forum/
 calltouch.ru/ 
 cap.ru/
 car72.ru/forum/
+caves.ru/
 cbr.ru
 cccp3d.ru/
 cdek.ru
@@ -175,6 +179,7 @@ cnews.ru/
 code-class.ru
 coins.su/forum/
 comon.ru/
+computerra.ru/
 comss.ru/
 consultant.ru/
 consultant29.ru/
@@ -194,6 +199,7 @@ delimobil.ru
 delivery-bt.wildberries.ru
 dgl.ru/
 diablozone.net/forum/
+dia-club.ru/forum_ru/
 diesel.elcat.kg/
 digital.rk08.ru/
 digitalocean.ru/
@@ -294,6 +300,7 @@ forum.athlete.ru/
 forum.awd.ru/
 forum.azlk-team.ru/
 forum.benzua.com/
+forum.bezmolvie.ru/
 forum.bioware.ru/
 forum.bits.media/
 forum.borovichi.ru/
@@ -344,9 +351,12 @@ forum.podolsk.ru/
 forum.print-forum.ru/
 forum.pushkino.org/
 forum.qrz.ru/
+forum.radeon.ru/
 forum.relicvia.ru/
+forum.roerich.info/
 forum.rudtp.ru/
 forum.say7.info/
+forum.screenwriter.ru/
 forum.sevastopol.info/
 forum.sibmama.ru/
 forum.sibnet.ru/
@@ -363,6 +373,7 @@ forum.thg.ru/
 forum.tks.ru/
 forum.tobewoman.ru/
 forum.tokiohotel.ru/
+forum.totaldvd.ru/Forums
 forum.trade-print.ru/
 forum.ubuntu.ru/
 forum.vgd.ru/
@@ -379,6 +390,7 @@ forumhouse.ru/forums
 forum-monitor.net.ru/
 forum-people.ru/
 forumrate.ru/
+forums.corsairs-harbour.ru/
 forums.gamemag.ru/
 forums.overclockers.ru/
 forums.rusmedserv.com/
@@ -404,6 +416,7 @@ gazprom.ru/
 gazprombank.ru/
 geely-motors.com/
 geobasket.ru
+getz-club.ru/forum/
 gipernn.ru/
 gismeteo.ru/
 gk-mic.ru
@@ -447,6 +460,7 @@ historica.ru/
 hitv.ru/hitvboard/
 hondamotor.ru/board/index.php?act=idx
 hosting-russia.ru
+hranidengi.com/
 huggingface.co
 hummerclubrus.ru/index.php?forums/
 huralrk.ru/
@@ -561,6 +575,7 @@ lsr.ru
 ltdfoto.ru/
 lytkarino.info/forum/
 m.sobaka.ru/
+maccentre.ru/board/
 magnit.ru
 magoblduma.ru/
 mail.ru
@@ -749,6 +764,7 @@ prodota.ru/forum/
 profinance.ru/forum/
 progoroduhta.ru/
 prokoni.ru/forum/
+promalp.ru/
 prophotos.ru
 prufy.ru/
 pskov.ru/
@@ -806,6 +822,7 @@ rusfishing.ru/forum/
 rusprofile.ru/
 russia.ru/
 russianfood.com/
+russian-hockey.ru/forum/
 russianitaly.com/forum/
 rustore.ru/
 rutube.ru
@@ -836,11 +853,13 @@ sberbank.com
 sberbank.ru
 sberbank-tele.com
 sberpay.ru
+sbup.com/seo-forum/
 scaleforum.ru/
 scalemodels.ru/modules/forum/
 school.spbstu.ru/
 scooter-club.ru/forum/
 sdk-api.apptracer.ru
+secrets.tbank.ru
 secrets.tbank.ru/
 securitylab.ru/
 selectel.ru/
@@ -855,6 +874,8 @@ serverspace.ru/
 sferum-dev.ru
 shedevrum.ai
 shophelp.ru/forum/
+sign-forum.ru/
+simferopol.in/
 simplewine.ru/
 skillfactory.ru/
 smailru.net
@@ -868,6 +889,7 @@ solo-semena.ru
 sony-club.ru/forum/
 sorento.kia-club.ru/forum/
 sostav.ru
+sostav.ru/
 sourcecraft.dev
 sovminlnr.ru/
 sovokup.ru/index.php
