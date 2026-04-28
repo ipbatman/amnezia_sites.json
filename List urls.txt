@@ -69,6 +69,7 @@ aqa.ru/forum/
 artefact.culture.ru
 artlebedev.ru/
 arzamas.academy
+as8.ru/forum/
 ascon-spb.ru/
 astraclub.ru/forum.php
 astrobl.ru/
@@ -155,6 +156,7 @@ chipdip.ru/
 chipmaker.ru/
 chiptuner.ru/forum/
 chizhik.club/
+chopperforum.ru/
 cian.ru/
 citroens-club.ru/
 citydrive.ru
@@ -242,6 +244,7 @@ edu.sravni.ru/
 egida.by/forum/
 egov-buryatia.ru/
 elama.ru
+elantra-club.ru/forum/
 electronix.ru/
 elibrary.ru
 elite-games.ru/conference/
@@ -273,6 +276,7 @@ fishki.net/
 fix-price.com/
 fkclub.ru/forum/
 floralworld.ru/forum/
+flowersweb.info/forum/
 food.ru/
 forester.club/forums/
 forexsystemru.com/
@@ -295,6 +299,7 @@ forum.bits.media/
 forum.borovichi.ru/
 forum.calorizator.ru/
 forum.chrysler-dodge.ru/
+forum.club-subaru.com/
 forum.cxem.net/
 forum.detiangeli.ru/
 forum.dirt.ru/
@@ -315,9 +320,11 @@ forum.il2sturmovik.ru/
 forum.ixbt.com/
 forum.kasperskyclub.ru/
 forum.katera.ru/
+forum.kerch.com.ru/
 forum.kia-club.ru/
 forum.klerk.ru/
 forum.korabli.su/
+forum.krasnoturinsk.me/cgi-bin/yabb2/YaBB.pl
 forum.lancerx.ru/
 forum.mirf.ru/
 forum.motofan.ru/
@@ -354,6 +361,7 @@ forum.tetis.ru/
 forum.theprodigy.ru/
 forum.thg.ru/
 forum.tks.ru/
+forum.tobewoman.ru/
 forum.tokiohotel.ru/
 forum.trade-print.ru/
 forum.ubuntu.ru/
@@ -382,6 +390,7 @@ forum-wec.com/
 foto.ru/forums/general
 fotora.ru/
 frankmedia.ru
+frenchbulldog.borda.ru/
 freshauto.ru
 fsb.ru/
 fsk.ru
@@ -430,6 +439,7 @@ gubernator74.ru/
 guitarplayer.ru/
 hamkke.borda.ru/
 haval.ru/
+haval-club.ru/
 hh.ru
 hi-fi.ru/forum/
 hi-fi-forum.net/
@@ -524,6 +534,7 @@ kurganoblduma.ru/
 kurskduma.ru/
 kursograf.ru/
 lada-forum.ru/
+lada-granta.net/
 lady.webnice.ru/forum/
 lamoda.ru/
 land-cruiser.ru/
@@ -586,6 +597,7 @@ minsoctrud.astrobl.ru/
 mirf.ru/
 mixnews.lv
 mkb.ru/
+ml-club.com/forums/
 m-nn.tsargrad.tv/
 mnogodetok.ru/
 mobileproxy.passport.yandex.net
@@ -620,6 +632,7 @@ ngenix.net/
 ngs.ru/
 nic.ru/
 nismo-club.ru/forum/
+niva4x4.ru/
 nn.cian.ru/
 nn.dom.ru
 nn.ru
@@ -810,6 +823,7 @@ sad-i-ogorod.ru/
 sakha.gov.ru/
 sakhalin.gov.ru/
 salam-de-rasc-87.rtbcdn.ru
+samarafishing.ru/board/index.php?action=forum
 samgd.ru/
 samolet.ru
 samregion.ru/
@@ -822,6 +836,7 @@ sberbank.com
 sberbank.ru
 sberbank-tele.com
 sberpay.ru
+scaleforum.ru/
 scalemodels.ru/modules/forum/
 school.spbstu.ru/
 scooter-club.ru/forum/
@@ -1012,6 +1027,7 @@ tantana.su/
 tapochek.net/
 tatarstan.ru/
 tatspirtprom.ru/
+taxhelp.ru/forum/index.html
 tbank.ru/
 teach-in.ru
 tech-mail.ru
@@ -1068,6 +1084,7 @@ ursa-tm.ru/forum/
 userapi.com
 user-storage-01bxc.wb.ru
 vaz.ee/forum/
+vaz-2106.ru/forum/
 velosamara.ru/forum/
 verify.yandex.ru
 vfokuse.mail.ru/
@@ -1139,6 +1156,7 @@ x5.ru/
 x5m.x5.ru
 xapi.ozon.ru
 x-bikers.ru/forum/
+xcraft.ru/forum/
 xn--b1agapfwapgcl.xn--p1ai/
 xras.ru/
 xray.mail.ru
@@ -1160,6 +1178,7 @@ yudaevschool24.shop/
 yudaevschool24.space/
 zaksobr.kamchatka.ru/
 zakupki.gov.ru
+zenno.club/discussion/
 zismo.biz/
 znanierussia.ru/
 zo.gov.ru/
