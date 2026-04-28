@@ -1217,3 +1217,5 @@ zsperm.ru/
 zspk.gov.ru/
 zsro.ru/
 zsuo.ru/
+static.chipdip.ru
+s3.chipdip.ru
