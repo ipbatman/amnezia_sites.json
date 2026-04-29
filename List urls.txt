@@ -184,6 +184,7 @@ comss.ru/
 consultant.ru/
 consultant29.ru/
 coop-land.ru/
+coop-land.ru/ 
 core-renderer-tiles.maps.yandex.ru
 corpblog.ostrovok.ru/
 council.gov.ru
@@ -273,6 +274,7 @@ fantlab.ru/forum
 fas.gov.ru
 fedstat.ru
 fermer.ru/forum
+film.ru/
 finam.ru/
 finance.ozon.ru
 findozor.net/forum/
@@ -431,6 +433,7 @@ goldapple.ru/
 golf2club.com/
 gorilka.ru/
 gorodok.bz/
+gorodovoy.ru/
 gorodovoy.ru/
 goskatalog.ru
 gossov.tatarstan.ru/
@@ -616,6 +619,7 @@ ml-club.com/forums/
 m-nn.tsargrad.tv/
 mnogodetok.ru/
 mobileproxy.passport.yandex.net
+mobile-review.com/
 moex.com
 mondeoclub.ru/forums/
 monitor.espec.ws/
@@ -641,6 +645,7 @@ nashtransport.ru/forums/
 nastej.org/forum/
 naydex.net
 netlab.e2k.ru/forum/
+newizv.ru/
 newizv.ru/
 newmap.nn-invest.ru
 ngenix.net/
@@ -723,6 +728,7 @@ planetaexcel.ru/forum/
 plati.market
 platimultiqr.ru
 platiqr.ru
+playground.ru
 pluggedin.ru/
 pnzreg.ru/
 pochtabank.ru/
@@ -786,6 +792,7 @@ rating-avtosalon.ru/
 ratmania.ru/forum/
 rbc.ru
 rbcrealty.ru
+reallystory.mininuniver.ru/
 reddit.com
 redliners.ru/talk/
 redwhite.ru/rw-forum/
@@ -806,6 +813,7 @@ rmmedia.ru/
 roads.ru/forum/
 rodim.ru/index.php
 rolf.ru
+rosbalt.ru/
 rospotrebnadzor.ru
 rosreestr.ru
 rosstat.gov.ru
@@ -835,6 +843,7 @@ rznoblduma.ru/
 s.rbk.ru
 s.rbk.ru
 s0.rbk.ru
+s3.chipdip.ru
 s3.dzeninfra.ru
 sad-i-ogorod.ru/
 sakha.gov.ru/
@@ -913,6 +922,7 @@ st.vkvideo.ru
 staraya-moneta.ru/forum/
 start.practicum.yandex/
 start.ru/
+static.chipdip.ru
 static.dzeninfra.ru
 static.rtbcdn.ru
 static-basket-01.wbbasket.ru
@@ -1105,6 +1115,7 @@ urgens-nn.su/
 ursa-tm.ru/forum/
 userapi.com
 user-storage-01bxc.wb.ru
+u-zonta.ru
 vaz.ee/forum/
 vaz-2106.ru/forum/
 velosamara.ru/forum/
@@ -1149,6 +1160,7 @@ vseinstrumenti.ru
 vskhakasia.ru/
 vsrf.ru/
 vtb.ru/
+vtomske.ru/
 vw-bus.ru/
 vw-golfclub.ru/forum/
 vwts.ru/forum/
@@ -1174,6 +1186,7 @@ woodcraftsman.ru/
 workspace.ru/
 wrk.ru/forums/
 wtatour.ru/
+www1.ru/
 x5.ru/
 x5m.x5.ru
 xapi.ozon.ru
@@ -1217,5 +1230,3 @@ zsperm.ru/
 zspk.gov.ru/
 zsro.ru/
 zsuo.ru/
-static.chipdip.ru
-s3.chipdip.ru
