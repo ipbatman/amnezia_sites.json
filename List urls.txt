@@ -20,6 +20,7 @@
 75.ru/
 a.wb.ru
 a101.ru
+abhazia.com/phpBB2/
 abrau.ru/
 abraudurso-studio.ru/
 academ.club/
@@ -67,11 +68,13 @@ apiok.ru
 appsmail.ru
 apptracer.ru
 aqa.ru/forum/
+arduino.ru/forum
 artefact.culture.ru
 artlebedev.ru/
 arzamas.academy
 as8.ru/forum/
 ascon-spb.ru/
+aspirantura.spb.ru/forum/
 astraclub.ru/forum.php
 astrobl.ru/
 astronomy.ru/forum/
@@ -115,6 +118,7 @@ berforum.ru/
 berizaryad.ru
 bezformata.com
 bgforum.ru/
+biketrials.ru/live/
 biotechnica.ru
 bjdclub.com/index.php
 blog.rupixel.ru/
@@ -135,6 +139,7 @@ bvf.ru/forum/
 calltouch.ru/ 
 cap.ru/
 car72.ru/forum/
+carina-e.ru/
 caves.ru/
 cbr.ru
 cccp3d.ru/
@@ -229,6 +234,7 @@ duma.yar.ru/
 duma72.ru/
 duma-murman.ru/
 dumask.ru/
+duster-clubs.ru/forum/
 dusterclubs.ru/vb/
 dvinaland.ru/
 dzen.ru
@@ -311,10 +317,12 @@ forum.chrysler-dodge.ru/
 forum.club-subaru.com/
 forum.cxem.net/
 forum.detiangeli.ru/
+forum.df2.ru/
 forum.dirt.ru/
 forum.dlink.ru/
 forum.doctorhead.ru/forums/
 forum.donfisher.ru/
+forum.drweb.com/index.php
 forum.dwg.ru/
 forum.ereality.ru/
 forum.escapefromtarkov.com/
@@ -390,6 +398,7 @@ forum4x4club.ru/
 forum-dollplanet.ru/
 forumhouse.ru/forums
 forum-monitor.net.ru/
+forumot.ru/
 forum-people.ru/
 forumrate.ru/
 forums.corsairs-harbour.ru/
@@ -406,6 +415,7 @@ fotora.ru/
 frankmedia.ru
 frenchbulldog.borda.ru/
 freshauto.ru
+fryazino.net/forum/
 fsb.ru/
 fsk.ru
 fssprus.ru
@@ -502,6 +512,7 @@ jeep4x4club.ru/forums/
 jeep-forum.ru/forum/
 jetour-ru.com/
 jetour-ru.com/
+jetta6.ru/
 joomlaforum.ru/
 joyreactor.cc/
 kad.arbitr.ru/
@@ -528,6 +539,7 @@ kirovchanka.ru/forum/
 kirovreg.ru/
 kmpforum.online/
 kolesa-darom.ru
+komne.ru/iforum/
 konkurent.ru/
 konkurent.ru/
 kontur.ru
@@ -592,6 +604,7 @@ master-x.com/
 matushki.ru/
 mauforum.ru/
 max.ru/
+mbclub.ru/
 mc.yandex.ru
 mchs.gov.ru
 mdrussia.ru/
@@ -613,6 +626,7 @@ millstream-wines.ru/
 miloserdie.ru/
 minsoctrud.astrobl.ru/
 mirf.ru/
+mitsubishi-asx.net/forum/
 mixnews.lv
 mkb.ru/
 ml-club.com/forums/
@@ -639,6 +653,7 @@ my.games
 mycdn.me
 mysbertips.ru
 myspar.ru/
+myzafira.ru/forum/index.php
 nacekomie.ru/forum/
 nalog.ru
 nashtransport.ru/forums/
@@ -721,6 +736,7 @@ pgu.rk08.ru/
 phantom.sannata.org/
 photar.ru
 Photoshare.ru
+php.ru/forum/
 pic.rtbcdn.ru
 pik.ru
 pikabu.ru
@@ -731,6 +747,7 @@ platiqr.ru
 playground.ru
 pluggedin.ru/
 pnzreg.ru/
+pobedish.ru/forum/
 pochtabank.ru/
 pogranec.ru/
 points.wb.ru
@@ -938,6 +955,7 @@ stmtag.ru
 stmtag.ru
 stolicaonego.ru/
 stoloto.ru
+stom.ru/
 storage.mds.yandex.net
 strana.com
 stratege.ru/forums/
@@ -1157,6 +1175,7 @@ vremyan.ru/
 vrnoblduma.ru/
 vsehvosty.ru/forum/
 vseinstrumenti.ru
+vsekz.org/index.php
 vskhakasia.ru/
 vsrf.ru/
 vtb.ru/
