@@ -55,6 +55,7 @@ androidinsider.ru/
 anekdot.ru/
 anti-malware.ru/
 aosd.ru/
+api.lemanapro.ru
 api.plus.kinopoisk.ru
 api.vk.com
 apiok.ru
@@ -93,6 +94,7 @@ avito.ru
 avito.st
 avito.st
 avo.ru/
+avtocharge.ru/
 avtomir.ru
 avtonovostidnya.ru/
 b17.ru/forum/
@@ -138,6 +140,9 @@ caves.ru/
 cbr.ru
 cccp3d.ru/
 cdek.ru
+cdn.api.domlenta.ru
+cdn.api.lenta.com
+cdn.lemanapro.ru
 cdn.uxfeedback.ru
 cdn1.ozonusercontent.com
 cdnvideo.ru/
@@ -165,6 +170,7 @@ citroens-club.ru/
 citydrive.ru
 cityduma.tula.ru/
 clck.ru
+clickstream.lenta.tech
 cloud.imgsmail.ru
 cloud.mail.ru
 clstorage.net
@@ -212,6 +218,7 @@ dns-shop.ru
 docs.cntd.ru/
 dogma.ru
 dom.gosuslugi.ru
+domlenta.ru/
 domlenta.ru/
 donland.ru/
 donstroy.moscow
@@ -420,6 +427,7 @@ fsb.ru/
 fsk.ru
 fssprus.ru
 gac.ru/
+gamemag.ru/
 garant.ru/
 garshinka.ru
 gastronom.ru/
@@ -468,6 +476,7 @@ guitarplayer.ru/
 hamkke.borda.ru/
 haval.ru/
 haval-club.ru/
+hde.lenta.com
 hh.ru
 hi-fi.ru/forum/
 hi-fi-forum.net/
@@ -593,6 +602,7 @@ lori.ru
 lsr.ru
 ltdfoto.ru/
 lytkarino.info/forum/
+m.business-gazeta.ru/
 m.sobaka.ru/
 maccentre.ru/board/
 magnit.ru
@@ -875,6 +885,7 @@ sakha.gov.ru/
 sakhalin.gov.ru/
 salam-de-rasc-87.rtbcdn.ru
 samarafishing.ru/board/index.php?action=forum
+samaragovorit.ru/
 samgd.ru/
 samolet.ru
 samregion.ru/
@@ -912,6 +923,8 @@ shophelp.ru/forum/
 sign-forum.ru/
 simferopol.in/
 simplewine.ru/
+sitecdn.api.domlenta.ru
+sitecdn.api.domlenta.ru
 skillfactory.ru/
 smailru.net
 smart-lab.ru
@@ -950,6 +963,7 @@ start.practicum.yandex/
 start.ru/
 static.chipdip.ru
 static.dzeninfra.ru
+static.lemanapro.ru
 static.rtbcdn.ru
 static-basket-01.wbbasket.ru
 static-mon.yandex.net
@@ -1259,5 +1273,3 @@ zsperm.ru/
 zspk.gov.ru/
 zsro.ru/
 zsuo.ru/
-https://gamemag.ru/
-https://avtocharge.ru/
