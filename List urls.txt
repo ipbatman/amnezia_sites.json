@@ -1,13 +1,9 @@
-2gis.ru
-308-club.ru/forum/
-33212.ms.vk.com
 3dnews.ru/
 49gov.ru/
 4brain.ru
 4gameforum.com/
 4x4.tomsk.ru/
 531211.ms.dzen.ru
-551211.ms.dzen.ru
 66.ru/
 75.ru/
 a.wb.ru
@@ -59,6 +55,7 @@ api.lemanapro.ru
 api.plus.kinopoisk.ru
 api.vk.com
 apiok.ru
+appleinsider.ru/
 appsmail.ru
 apptracer.ru
 aqa.ru/forum/
@@ -82,6 +79,7 @@ auto.yuga.ru/
 Autodoc.ru
 autoforum.pro/
 autolada.ru/
+autopilot.ru/
 autopiter.ru
 autoreview.ru/
 auto-rostov.ru/
@@ -136,6 +134,7 @@ cap.ru/
 car72.ru/forum/
 carina-e.ru/
 carper.su/forum/forum.php
+carsweek.ru/
 caves.ru/
 cbr.ru
 cccp3d.ru/
@@ -478,6 +477,7 @@ haval.ru/
 haval-club.ru/
 hde.lenta.com
 hh.ru
+hibiny.ru/
 hi-fi.ru/forum/
 hi-fi-forum.net/
 highlander-autoclub.ru/forum/index.php
@@ -603,6 +603,9 @@ lsr.ru
 ltdfoto.ru/
 lytkarino.info/forum/
 m.business-gazeta.ru/
+m.business-gazeta.ru/
+m.njcar.ru
+m.sobaka.ru/
 m.sobaka.ru/
 maccentre.ru/board/
 magnit.ru
@@ -615,6 +618,7 @@ mari-el.gov.ru/parlament
 market.yandex.ru
 mastergrad.com/
 master-x.com/
+materinstvo.ru/
 matushki.ru/
 mauforum.ru/
 max.ru/
@@ -747,6 +751,7 @@ permkrai.ru/
 pesikot.org/forum/
 pesiq.ru/forum/
 pg12.ru/
+pg12.ru/
 pg21.ru/
 pgu.rk08.ru/
 phantom.sannata.org/
@@ -834,6 +839,7 @@ redwhite.ru/rw-forum/
 reg.ru/
 regforum.ru/forum/
 ren.tv/
+retail.ru/
 retromap.ru
 reviewdetector.ru/index.php
 rf-cheats.ru/forum/
@@ -1228,6 +1234,7 @@ woman.ru/
 woodcraftsman.ru/
 workspace.ru/
 wrk.ru/forums/
+wroom.ru/
 wtatour.ru/
 www1.ru/
 x5.ru/
