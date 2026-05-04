@@ -69,6 +69,7 @@ aspirantura.spb.ru/forum/
 astraclub.ru/forum.php
 astrobl.ru/
 astronomy.ru/forum/
+ateism.ru/forum/
 atorus.ru/
 auchan.ru/
 audio-v-text.silero.ai
@@ -289,13 +290,17 @@ finam.ru/
 finance.ozon.ru
 findozor.net/forum/
 finmarket.ru/
+fish.karelia.ru/phpBB3/
 fishing.ru/talks/
+fishingsib.ru/forum/
 fishki.net/
 fix-price.com/
 fkclub.ru/forum/
 floralworld.ru/forum/
 flowersweb.info/forum/
+fluence-club.ru/forum/index.php
 food.ru/
+ford-trucks.club/
 forester.club/forums/
 forexsystemru.com/
 forum.3dnews.tech/
@@ -311,6 +316,7 @@ forum.astrakhan.ru/
 forum.athlete.ru/
 forum.awd.ru/
 forum.azlk-team.ru/
+forum.balletfriends.ru/
 forum.benzua.com/
 forum.bezmolvie.ru/
 forum.bioware.ru/
@@ -367,8 +373,10 @@ forum.print-forum.ru/
 forum.pushkino.org/
 forum.qrz.ru/
 forum.radeon.ru/
+forum.rastrnet.ru/
 forum.relicvia.ru/
 forum.roerich.info/
+forum.rrock.ru/
 forum.rudtp.ru/
 forum.say7.info/
 forum.screenwriter.ru/
@@ -391,6 +399,7 @@ forum.tobewoman.ru/
 forum.tokiohotel.ru/
 forum.totaldvd.ru/Forums
 forum.trade-print.ru/
+forum.tvoysad.ru/
 forum.ubuntu.ru/
 forum.vgd.ru/
 forum.virtualsoccer.ru/
@@ -554,6 +563,7 @@ kolesa-darom.ru
 komne.ru/iforum/
 konkurent.ru/
 konkurent.ru/
+kontikimaps.ru/
 kontur.ru
 korandovod.ru/forum/
 kortros.ru
@@ -567,6 +577,7 @@ kremlin.ru
 krestyanka.ru/
 krskforum.com/
 krskstate.ru/
+kubikus.ru/forum/
 kubnews.ru/
 kubzsk.ru/
 kudago.com/
@@ -574,6 +585,8 @@ kurganobl.ru/
 kurganoblduma.ru/
 kurskduma.ru/
 kursograf.ru/
+lada.cc/board/
+lada.ru/
 lada-forum.ru/
 lada-granta.net/
 lady.webnice.ru/forum/
@@ -622,6 +635,7 @@ materinstvo.ru/
 matushki.ru/
 mauforum.ru/
 max.ru/
+mazda-auto.ru/index.php
 mbclub.ru/
 mc.yandex.ru
 mchs.gov.ru
@@ -677,6 +691,7 @@ nalog.ru
 nashtransport.ru/forums/
 nastej.org/forum/
 naydex.net
+nelubit.ru/
 netlab.e2k.ru/forum/
 newizv.ru/
 newizv.ru/
@@ -709,6 +724,7 @@ o3.ru
 o3t.ru
 o3team.ru
 odkl.ru
+ohranatruda.ru/ot_forum/
 ok.me
 ok.ru
 oka.fm/
@@ -755,6 +771,7 @@ pg12.ru/
 pg21.ru/
 pgu.rk08.ru/
 phantom.sannata.org/
+phorum.armavir.ru/
 photar.ru
 Photoshare.ru
 php.ru/forum/
@@ -798,6 +815,7 @@ pressa.tv/
 preview.rutube.ru
 price-altai.ru/forum.html
 primorsky.ru/
+priora-clyb.ru/
 priorovod.ru/
 privacy-cs.mail.ru
 privacy-cs.mail.ru
@@ -867,6 +885,7 @@ ru.nhandan.vn/
 ru.ruwiki.ru/
 Ruli.ru
 rum.dzen.ru
+runcity.org/forum/
 rusfishing.ru/forum/
 rusprofile.ru/
 russia.ru/
@@ -952,6 +971,7 @@ spartak.msk.ru/guest/
 spartakforum.ru/
 spaymentsplus.ru
 spbkbran.ru/
+spb-projects.ru/forum/
 spbtalk.ru/
 sport24.ru/
 sportbox.ru/
@@ -985,6 +1005,7 @@ stmtag.ru
 stolicaonego.ru/
 stoloto.ru
 stom.ru/
+stop-narko.info/
 storage.mds.yandex.net
 strana.com
 stratege.ru/forums/
