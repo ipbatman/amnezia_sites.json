@@ -1,4 +1,5 @@
 3dnews.ru/
+110km.ru/
 49gov.ru/
 4brain.ru
 4gameforum.com/
@@ -28,6 +29,7 @@ adslclub.ru/forum/
 adygheya.ru/
 главалнр.рф/
 aeroflot.ru/
+aigenda.ru/
 ailita-shop.ru/
 akashi.vk-portal.net
 Akbmag.ru
@@ -59,6 +61,7 @@ appleinsider.ru/
 appsmail.ru
 apptracer.ru
 aqa.ru/forum/
+archi.ru
 arduino.ru/forum
 artefact.culture.ru
 artlebedev.ru/
@@ -495,6 +498,7 @@ hitv.ru/hitvboard/
 hondamotor.ru/board/index.php?act=idx
 hosting-russia.ru
 hranidengi.com/
+http://a7.ru/
 huggingface.co
 hummerclubrus.ru/index.php?forums/
 huralrk.ru/
@@ -618,6 +622,7 @@ lytkarino.info/forum/
 m.business-gazeta.ru/
 m.business-gazeta.ru/
 m.njcar.ru
+m.njcar.ru/
 m.sobaka.ru/
 m.sobaka.ru/
 maccentre.ru/board/
@@ -759,6 +764,7 @@ pan-nn.ru/
 parlament09.ru/
 partner.yandex.ru
 passatworld.ru/forum.php
+pay.yandex.ru/
 paywb.com
 pchelpforum.ru/
 penta-club.ru/forum/
@@ -798,6 +804,7 @@ povarenok.ru/
 practicum.yandex.ru
 prav.tatarstan.ru/
 pravda.ru/
+pravda.ru/
 pravdnr.ru/
 pravitelstvori.ru/
 pravo.ako.ru/
@@ -813,6 +820,7 @@ president.e-dag.ru/
 president.tatarstan.ru/
 pressa.tv/
 preview.rutube.ru
+priamurmedia.ru/
 price-altai.ru/forum.html
 primorsky.ru/
 priora-clyb.ru/
@@ -923,6 +931,7 @@ sber.ru
 sberbank.com
 sberbank.ru
 sberbank-tele.com
+sberometer.ru/
 sberpay.ru
 sbup.com/seo-forum/
 scaleforum.ru/
@@ -943,6 +952,7 @@ semerkainfo.ru/forum/
 semlepestkov.ru
 serverspace.ru/
 sferum-dev.ru
+shakhty-media.ru/
 shedevrum.ai
 shophelp.ru/forum/
 sign-forum.ru/
@@ -1255,6 +1265,7 @@ woman.ru/
 woodcraftsman.ru/
 workspace.ru/
 wrk.ru/forums/
+wroom.ru/
 wroom.ru/
 wtatour.ru/
 www1.ru/
