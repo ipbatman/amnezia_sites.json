@@ -9,6 +9,7 @@
 75.ru/
 a.wb.ru
 a101.ru
+a7.ru/
 abhazia.com/phpBB2/
 abrau.ru/
 abraudurso-studio.ru/
@@ -42,6 +43,7 @@ allwebs.ru/
 altairegion22.ru/
 altai-republic.ru/
 alternathistory.ru/
+altfishing-club.ru/index
 amd.online
 amediateka.ru
 amk-team.ru/forum/
@@ -80,6 +82,7 @@ auto.kolesa.ru
 auto.mail.ru/
 auto.ru/
 auto.yuga.ru/
+autocenter.uz/forum/
 Autodoc.ru
 autoforum.pro/
 autolada.ru/
@@ -161,7 +164,9 @@ chernish.ru/index.php?name=Forums
 chery.ru/
 chery-club.ru/forum/
 chesnok.media/
+chevrolet-aveo.ru/
 chinamobil.ru/bb/
+china-moto.ru/forum/
 chins.ru/forum.php
 chipdip.ru/
 chipmaker.ru/
@@ -316,6 +321,7 @@ forum.allsochi.info/
 forum.anastasia.ru/
 forum.antivsd.ru/
 forum.astrakhan.ru/
+forum.astrologics.ru/
 forum.athlete.ru/
 forum.awd.ru/
 forum.azlk-team.ru/
@@ -339,6 +345,7 @@ forum.drweb.com/index.php
 forum.dwg.ru/
 forum.ereality.ru/
 forum.escapefromtarkov.com/
+forum.esmasoft.com/
 forum.eve-ru.com/
 forum.f1news.ru/
 forum.foxclub.ru/
@@ -348,6 +355,7 @@ forum.hobbyportal.ru/
 forum.homedistiller.ru/
 forum.igromania.ru/
 forum.il2sturmovik.ru/
+forum.istorichka.ru/cgi-bin/yabb2/YaBB.pl
 forum.ixbt.com/
 forum.kasperskyclub.ru/
 forum.katera.ru/
@@ -369,6 +377,7 @@ forum.nvrsk.ru/
 forum.omskmama.ru/
 forum.onliner.by/
 forum.opel-club.ru/
+forum.patriotcenter.ru/
 forum.plastic-surgeon.ru/
 forum.plus-msk.ru/
 forum.podolsk.ru/
@@ -405,6 +414,7 @@ forum.trade-print.ru/
 forum.tvoysad.ru/
 forum.ubuntu.ru/
 forum.vgd.ru/
+forum.videoediting.ru/
 forum.virtualsoccer.ru/
 forum.warspear-online.com/
 forum.warthunder.ru/
@@ -498,7 +508,6 @@ hitv.ru/hitvboard/
 hondamotor.ru/board/index.php?act=idx
 hosting-russia.ru
 hranidengi.com/
-http://a7.ru/
 huggingface.co
 hummerclubrus.ru/index.php?forums/
 huralrk.ru/
@@ -512,6 +521,7 @@ icon-art.info/phpBB2/
 id.sber.ru
 iguides.ru/
 iimg.su/
+il2.kubannet.ru/forum/
 ili-nnov.ru
 imageban.ru/
 img.hhcdn.ru
@@ -553,6 +563,7 @@ khabkrai.ru/
 khogov.ru/
 khural.org/
 kia-nnmotors.ru/
+kia-rio.net/forum/
 kids.kremlin.ru/
 kidshockey.ru/
 kino.mail.ru/
@@ -562,6 +573,7 @@ kinopoisk.ru
 kion.ru/
 kirovchanka.ru/forum/
 kirovreg.ru/
+kiteforum.pro/
 kmpforum.online/
 kolesa-darom.ru
 komne.ru/iforum/
@@ -762,6 +774,7 @@ p.ozon.ru
 pajero4x4.ru/bbs/phpBB2/
 pan-nn.ru/
 parlament09.ru/
+parrots.ru/
 partner.yandex.ru
 passatworld.ru/forum.php
 pay.yandex.ru/
@@ -825,6 +838,7 @@ price-altai.ru/forum.html
 primorsky.ru/
 priora-clyb.ru/
 priorovod.ru/
+priusforum.ru/forums/
 privacy-cs.mail.ru
 privacy-cs.mail.ru
 prizyvnik.info/
@@ -851,6 +865,7 @@ radikal.cloud/
 radiokot.ru/
 radioscanner.ru/forum/
 ranepa.ru/
+rangefinder.ru/club/
 ras.ru/
 rat.ru/forum/
 ratclub.spb.ru/forum/
@@ -924,6 +939,7 @@ samolet.ru
 samregion.ru/
 sanatatur.ru/forum/
 saratov.gov.ru/
+sat-digest.com/forum/
 saveyou.ru/forum/
 say7.info/
 sbdv.ru
@@ -966,6 +982,7 @@ smart-lab.ru
 smoloblduma.ru/
 smu6.ru
 snowmobile.ru/forum/index.php
+softboard.ru/
 solaris-agat-nn.ru/
 solaris-club.net/forum/
 solo-semena.ru
@@ -1273,6 +1290,7 @@ x5.ru/
 x5m.x5.ru
 xapi.ozon.ru
 x-bikers.ru/forum/
+xc60-club.ru/xcforum/
 xcraft.ru/forum/
 xn--b1agapfwapgcl.xn--p1ai/
 xras.ru/
@@ -1295,6 +1313,7 @@ yudaevschool24.shop/
 yudaevschool24.space/
 zaksobr.kamchatka.ru/
 zakupki.gov.ru
+zenitzone.ru/
 zenno.club/discussion/
 zismo.biz/
 znanierussia.ru/
