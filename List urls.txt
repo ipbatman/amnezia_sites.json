@@ -74,6 +74,7 @@ aspirantura.spb.ru/forum/
 astraclub.ru/forum.php
 astrobl.ru/
 astronomy.ru/forum/
+astrozet.net/forum/
 ateism.ru/forum/
 atorus.ru/
 auchan.ru/
@@ -102,6 +103,7 @@ avo.ru/
 avtocharge.ru/
 avtomir.ru
 avtonovostidnya.ru/
+azbyka.ru/forum/
 b17.ru/forum/
 banki.ru/
 banki.ru/forum/
@@ -135,6 +137,7 @@ brik.org/node/2
 bristol.ru/
 brusnika.ru
 bryanskobl.ru/
+budo.community/
 bvf.ru/forum/
 calltouch.ru/ 
 cap.ru/
@@ -205,6 +208,7 @@ council.gov.ru
 counter.yadro.ru
 cqham.ru/forum/forum.php
 crimea.gov.ru/
+crimea-board.net/index.php
 cs.avito.ru
 csp.yandex.net
 cvr-bogorodsk.edusite.ru/
@@ -351,12 +355,16 @@ forum.f1news.ru/
 forum.foxclub.ru/
 forum.garant.ru/
 forum.good-cook.ru/main.html
+forum.gov-zakupki.ru/
+forum.gvka.ru/
+forum.hdtv.ru/
 forum.hobbyportal.ru/
 forum.homedistiller.ru/
 forum.igromania.ru/
 forum.il2sturmovik.ru/
 forum.istorichka.ru/cgi-bin/yabb2/YaBB.pl
 forum.ixbt.com/
+forum.jawaold.su/
 forum.kasperskyclub.ru/
 forum.katera.ru/
 forum.kerch.com.ru/
@@ -413,6 +421,7 @@ forum.totaldvd.ru/Forums
 forum.trade-print.ru/
 forum.tvoysad.ru/
 forum.ubuntu.ru/
+forum.ucoz.ru/
 forum.vgd.ru/
 forum.videoediting.ru/
 forum.virtualsoccer.ru/
@@ -422,6 +431,7 @@ forum.xumuk.ru/
 forum.yurclub.ru/
 forum.zakon.kz/
 forum.zakonia.ru/
+forum.zoologist.ru/
 forum4x4club.ru/
 forum-dollplanet.ru/
 forumhouse.ru/forums
@@ -497,6 +507,7 @@ guitarplayer.ru/
 hamkke.borda.ru/
 haval.ru/
 haval-club.ru/
+haval-f7-f7x.ru/
 hde.lenta.com
 hh.ru
 hibiny.ru/
@@ -597,6 +608,7 @@ kubikus.ru/forum/
 kubnews.ru/
 kubzsk.ru/
 kudago.com/
+k-ur.ru/forum/
 kurganobl.ru/
 kurganoblduma.ru/
 kurskduma.ru/
@@ -673,6 +685,7 @@ mikrob.ru/
 mil.ru/
 millstream-wines.ru/
 miloserdie.ru/
+minecraftonly.com/forum/
 minsoctrud.astrobl.ru/
 mirf.ru/
 mitsubishi-asx.net/forum/
@@ -773,6 +786,7 @@ ozone.ru
 p.ozon.ru
 pajero4x4.ru/bbs/phpBB2/
 pan-nn.ru/
+paralay.iboards.ru/
 parlament09.ru/
 parrots.ru/
 partner.yandex.ru
@@ -986,6 +1000,7 @@ softboard.ru/
 solaris-agat-nn.ru/
 solaris-club.net/forum/
 solo-semena.ru
+sonata.club/
 sony-club.ru/forum/
 sorento.kia-club.ru/forum/
 sostav.ru
@@ -1172,11 +1187,14 @@ tns-counter.ru
 tochek.net/
 tochka.com/
 tochno-team.ru
+tolkien.ru/forum/
+tolkien.su/forum/
 tomsk.gov.ru/
 top.ucoz.ru/
 top-fwz1.mail.ru
 topwar.ru/
 tourerv.ru/forum/
+toyster.ru/forum/
 trailblazerclub.ru/forum/
 traiv-komplekt.ru/
 trinixy.ru/
@@ -1313,6 +1331,7 @@ yudaevschool24.shop/
 yudaevschool24.space/
 zaksobr.kamchatka.ru/
 zakupki.gov.ru
+zastavkin.com/forum/
 zenitzone.ru/
 zenno.club/discussion/
 zismo.biz/
