@@ -120,6 +120,7 @@ berforum.ru/
 berizaryad.ru
 bezformata.com
 bgforum.ru/
+bglife.ru/
 biketrials.ru/live/
 biotechnica.ru
 bjdclub.com/index.php
@@ -130,6 +131,7 @@ bluesmobil.ru/
 bmwstyle.ru/forum/
 bnkomi.ru/
 board.german242.com/
+boatclub.ru/
 bombler.ru/
 Bookasutp.ru
 boosty.to
@@ -286,6 +288,7 @@ er.ru/
 ermolino-produkty.ru/
 err.lenta.ru
 etalongroup.ru
+eurasica.ru/forums/
 evenkya.gosuslugi.ru/
 Exist.ru
 expert.ru/
@@ -317,6 +320,7 @@ forester.club/forums/
 forexsystemru.com/
 forum.3dnews.tech/
 forum.abok.ru/
+forum.aboutbulgaria.biz/
 forum.adv-rp.com/
 forum.alconar.ru/index.php
 forum.allgaz.ru/
@@ -364,6 +368,7 @@ forum.igromania.ru/
 forum.il2sturmovik.ru/
 forum.istorichka.ru/cgi-bin/yabb2/YaBB.pl
 forum.ixbt.com/
+forum.ja2.su/cgi-bin/yabb/YaBB.pl
 forum.jawaold.su/
 forum.kasperskyclub.ru/
 forum.katera.ru/
@@ -511,6 +516,7 @@ haval-f7-f7x.ru/
 hde.lenta.com
 hh.ru
 hibiny.ru/
+hibiny.ru/
 hi-fi.ru/forum/
 hi-fi-forum.net/
 highlander-autoclub.ru/forum/index.php
@@ -549,6 +555,7 @@ internet-technologies.ru/
 iphones.ru/
 ir-3.ozone.ru
 irkobl.ru/
+irkutsk-4x4.ru/index.php?action=forum
 irzs.ru/
 iv.okcdn.ru
 ivanovoobl.ru/
@@ -617,6 +624,7 @@ lada.cc/board/
 lada.ru/
 lada-forum.ru/
 lada-granta.net/
+lada-vesta.net/
 lady.webnice.ru/forum/
 lamoda.ru/
 land-cruiser.ru/
@@ -631,6 +639,7 @@ level.ru
 library.fa.ru/
 lider-group.ru
 lifehacker.ru/
+linuxforum.ru/
 litres.ru/
 live.skillfactory.ru/
 livejournal.com
@@ -654,6 +663,7 @@ magnit.ru
 magoblduma.ru/
 mail.ru
 major-auto.ru
+mamochki22.ru/forum/
 maps.litera-ru.ru
 maps-yandex-ru.naydex.net
 mari-el.gov.ru/parlament
@@ -754,6 +764,7 @@ o3.ru
 o3t.ru
 o3team.ru
 odkl.ru
+ogoa.ru/
 ohranatruda.ru/ot_forum/
 ok.me
 ok.ru
@@ -780,6 +791,7 @@ ostrovok.ru/
 otr-online.ru/
 out-club.ru/board/
 overclockers.ru/
+owen.ru/forum/forum.php
 ozon.ru
 ozon-dostavka.ru
 ozone.ru
@@ -824,6 +836,7 @@ pogranec.ru/
 points.wb.ru
 pokupki21.ru/
 polis-group.ru
+polosedan.ru/forum/
 portal.mail.ru
 postnauka.org
 povar.ru/
@@ -858,11 +871,14 @@ privacy-cs.mail.ru
 prizyvnik.info/
 prlib.ru
 probirka.org/forum/index.php
+prochepetsk.ru/
 prodota.ru/forum/
 profinance.ru/forum/
 progoroduhta.ru/
+progoroduhta.ru/
 prokoni.ru/forum/
 promalp.ru/
+promebelclub.ru/forum/
 prophotos.ru
 prufy.ru/
 pskov.ru/
@@ -899,6 +915,7 @@ retromap.ru
 reviewdetector.ru/index.php
 rf-cheats.ru/forum/
 rf-sp.ru/forum/
+rgp-forum.ru/
 ria.ru
 riafan.ru
 rkomi.ru/
@@ -942,11 +959,13 @@ s.rbk.ru
 s0.rbk.ru
 s3.chipdip.ru
 s3.dzeninfra.ru
+saabclub.by/forum/
 sad-i-ogorod.ru/
 sakha.gov.ru/
 sakhalin.gov.ru/
 salam-de-rasc-87.rtbcdn.ru
 samarafishing.ru/board/index.php?action=forum
+samaragovorit.ru/
 samaragovorit.ru/
 samgd.ru/
 samolet.ru
@@ -992,6 +1011,7 @@ sitecdn.api.domlenta.ru
 sitecdn.api.domlenta.ru
 skillfactory.ru/
 smailru.net
+smallcar.ru/talk/
 smart-lab.ru
 smoloblduma.ru/
 smu6.ru
@@ -1214,6 +1234,7 @@ ucoz.ru/
 ucrazy.org/
 udmgossovet.ru/
 udmurt.ru/
+ufa1.ru/
 ufacity.info/
 ugrei.net/forum/forums.html
 ulgov.ru/
@@ -1234,6 +1255,7 @@ vaz.ee/forum/
 vaz-2106.ru/forum/
 velosamara.ru/forum/
 verify.yandex.ru
+vestnik-sadovoda.ru/forum/
 vfokuse.mail.ru/
 vino.ru/
 vk.cc
@@ -1279,6 +1301,7 @@ vtomske.ru/
 vw-bus.ru/
 vw-golfclub.ru/forum/
 vwts.ru/forum/
+wasm.in/
 wb.ru
 wb-bank.ru
 wbbasket.ru
@@ -1297,6 +1320,7 @@ wildberries.ru
 winelab.ru/
 wink.ru/
 woman.ru/
+womanstory.ru/
 woodcraftsman.ru/
 workspace.ru/
 wrk.ru/forums/
