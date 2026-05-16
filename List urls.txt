@@ -107,10 +107,12 @@ azbyka.ru/forum/
 b17.ru/forum/
 banki.ru/
 banki.ru/forum/
+barca.ru/forum/
 bashkizi.ru/
 bashkortostan.ru/
 bassclub.ru/forum/
 bbs.nashalife.ru/
+bbs.radiolink.ru/forum/
 beatles.ru/postman/forum.asp
 beeline.ru
 beledi.ru/forum/
@@ -128,13 +130,16 @@ blog.rupixel.ru/
 blog-gk.ru/
 blondie.ru/forum
 bluesmobil.ru/
+bmwpost.ru/forum/
 bmwstyle.ru/forum/
 bnkomi.ru/
 board.german242.com/
 boatclub.ru/
 bombler.ru/
+bonforum.com/
 Bookasutp.ru
 boosty.to
+bpclub.ru/
 brik.org/node/2
 bristol.ru/
 brusnika.ru
@@ -197,6 +202,7 @@ clubvolvo.ru/
 cnews.ru/
 code-class.ru
 coins.su/forum/
+colt-club.ru/forum/
 comon.ru/
 computerra.ru/
 comss.ru/
@@ -209,6 +215,7 @@ corpblog.ostrovok.ru/
 council.gov.ru
 counter.yadro.ru
 cqham.ru/forum/forum.php
+creta-club.net/forum/
 crimea.gov.ru/
 crimea-board.net/index.php
 cs.avito.ru
@@ -307,6 +314,7 @@ findozor.net/forum/
 finmarket.ru/
 fish.karelia.ru/phpBB3/
 fishing.ru/talks/
+fishingkem.ru/forum/
 fishingsib.ru/forum/
 fishki.net/
 fix-price.com/
@@ -328,6 +336,8 @@ forum.allods.ru/
 forum.allsochi.info/
 forum.anastasia.ru/
 forum.antivsd.ru/
+forum.aromarti.ru/
+forum.artinvestment.ru/
 forum.astrakhan.ru/
 forum.astrologics.ru/
 forum.athlete.ru/
@@ -382,9 +392,11 @@ forum.mirf.ru/
 forum.motofan.ru/
 forum.motolodka.ru/
 forum.moya-semya.ru/
+forum.murman.ru/
 forum.nag.ru/
 forum.nedoma.ru/
 forum.neverlands.ru/
+forum.newlcn.com/
 forum.novosti-kosmonavtiki.ru/
 forum.nvrsk.ru/
 forum.omskmama.ru/
@@ -427,9 +439,11 @@ forum.trade-print.ru/
 forum.tvoysad.ru/
 forum.ubuntu.ru/
 forum.ucoz.ru/
+forum.vashdom.ru/
 forum.vgd.ru/
 forum.videoediting.ru/
 forum.virtualsoccer.ru/
+forum.volnistye.ru/
 forum.warspear-online.com/
 forum.warthunder.ru/
 forum.xumuk.ru/
@@ -441,6 +455,7 @@ forum4x4club.ru/
 forum-dollplanet.ru/
 forumhouse.ru/forums
 forum-monitor.net.ru/
+forum-okna.ru/
 forumot.ru/
 forum-people.ru/
 forumrate.ru/
@@ -628,6 +643,7 @@ lada-vesta.net/
 lady.webnice.ru/forum/
 lamoda.ru/
 land-cruiser.ru/
+lanos-club.ru/forum/
 laparfumerie.org/
 lapsha.media/
 lavka.yandex.ru/
@@ -679,6 +695,7 @@ mbclub.ru/
 mc.yandex.ru
 mchs.gov.ru
 mdrussia.ru/
+medhouse.ru/
 media.prosv.ru/
 megamarket.ru
 memoriam.ru/forum/
@@ -1222,6 +1239,7 @@ tr-page.yandex.ru/
 trworkshop.net/forum/
 t-s.kz/
 tsushima.su/forums/
+ttsport.ru/forum/
 tucson-club.ru/forum/
 tulaoblduma.ru/
 tularegion.ru/
@@ -1309,6 +1327,7 @@ wbdevel.net
 wbpay.ru
 wbstatic.net
 wciom.ru/
+websvarka.ru/talk/
 wf-ru-frontend.weborama-tech.ru 
 whoosh-bike.ru
 whoosh-bike.ru/
