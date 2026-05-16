@@ -1,10 +1,12 @@
 3dnews.ru/
 110km.ru/
+35412.ms.vk.com
 49gov.ru/
 4brain.ru
 4gameforum.com/
 4x4.tomsk.ru/
 531211.ms.dzen.ru
+551311.ms.dzen.ru
 66.ru/
 75.ru/
 a.wb.ru
@@ -56,6 +58,7 @@ anekdot.ru/
 anti-malware.ru/
 aosd.ru/
 api.lemanapro.ru
+api.okcdn.ru
 api.plus.kinopoisk.ru
 api.vk.com
 apiok.ru
@@ -79,6 +82,7 @@ ateism.ru/forum/
 atorus.ru/
 auchan.ru/
 audio-v-text.silero.ai
+auth.mail.ru
 auto.kolesa.ru
 auto.mail.ru/
 auto.ru/
@@ -92,6 +96,7 @@ autopiter.ru
 autoreview.ru/
 auto-rostov.ru/
 autosalons.ru/
+avatars.dzeninfra.ru
 avatars.mds.yandex.net
 aviaforum.ru/
 aviasales.ru/
@@ -697,6 +702,7 @@ mchs.gov.ru
 mdrussia.ru/
 medhouse.ru/
 media.prosv.ru/
+media-trend.mail.ru
 megamarket.ru
 memoriam.ru/forum/
 men-s-club.ru/
@@ -885,6 +891,7 @@ priorovod.ru/
 priusforum.ru/forums/
 privacy-cs.mail.ru
 privacy-cs.mail.ru
+privacy-cs.mail.ru
 prizyvnik.info/
 prlib.ru
 probirka.org/forum/index.php
@@ -1005,6 +1012,7 @@ scalemodels.ru/modules/forum/
 school.spbstu.ru/
 scooter-club.ru/forum/
 sdk-api.apptracer.ru
+sdk-api.apptracer.ru
 secrets.tbank.ru
 secrets.tbank.ru/
 securitylab.ru/
@@ -1062,6 +1070,7 @@ ssp.rambler.ru
 st.ozone.ru
 st.top100.ru
 st.vk.com
+st.vkvideo.ru
 st.vkvideo.ru
 staraya-moneta.ru/forum/
 start.practicum.yandex/
@@ -1213,6 +1222,7 @@ tech-mail.ru
 tefal.ru
 tehnari.ru/
 tehnoomsk.ru/
+telemetry.dzen.ru
 teleserial.com/
 test.rutube.ru
 tetrika-school.ru
@@ -1220,6 +1230,8 @@ tforum.uz/
 thg.ru/
 thumb.cloud.mail.ru
 timeweb.com/
+tns-counter.ru
+tns-counter.ru
 tns-counter.ru
 tochek.net/
 tochka.com/
@@ -1271,6 +1283,9 @@ user-storage-01bxc.wb.ru
 u-zonta.ru
 vaz.ee/forum/
 vaz-2106.ru/forum/
+vd235.okcdn.ru
+vd263.okcdn.ru
+vd738.okcdn.ru
 velosamara.ru/forum/
 verify.yandex.ru
 vestnik-sadovoda.ru/forum/
@@ -1301,6 +1316,7 @@ vkuservideo.com
 vkuservideo.net
 vkvd595.okcdn.ru
 vkvideo.ru
+vkvsd263.okcdn.ru
 vlab.su/
 vladmama.ru/forum/
 vmailru.net
