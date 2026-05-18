@@ -33,6 +33,7 @@ adslclub.ru/forum/
 adygheya.ru/
 главалнр.рф/
 aeroflot.ru/
+aeroflot.ru/
 aigenda.ru/
 ailita-shop.ru/
 akashi.vk-portal.net
@@ -99,7 +100,9 @@ auto-rostov.ru/
 autosalons.ru/
 avatars.dzeninfra.ru
 avatars.mds.yandex.net
+avia.tutu.ru/
 aviaforum.ru/
+aviasales.ru/
 aviasales.ru/
 avilon.ru
 avito.ru
@@ -249,6 +252,7 @@ docs.cntd.ru/
 dogma.ru
 dom.gosuslugi.ru
 domlenta.ru/
+domostroynn.ru/
 donland.ru/
 donstroy.moscow
 dota2.ru/forum/
@@ -596,6 +600,7 @@ kamgov.ru/
 kanobu.ru/
 karavaevi.ru/
 kasparovchess.crestbook.com/
+kassir.ru/
 kchr.ru/
 kerzhenskiy.ru
 keyauto.ru
@@ -638,6 +643,7 @@ kubikus.ru/forum/
 kubnews.ru/
 kubzsk.ru/
 kudago.com/
+kupibilet.ru/
 k-ur.ru/forum/
 kurganobl.ru/
 kurganoblduma.ru/
@@ -679,6 +685,7 @@ lytkarino.info/forum/
 m.business-gazeta.ru/
 m.njcar.ru
 m.sobaka.ru/
+m2.ru/
 maccentre.ru/board/
 magnit.ru
 magoblduma.ru/
@@ -1029,6 +1036,7 @@ shedevrum.ai
 shipmodeling.ru/phpbb/
 shophelp.ru/forum/
 sign-forum.ru/
+silver.ru/
 simferopol.in/
 simplewine.ru/
 sitecdn.api.domlenta.ru
@@ -1223,6 +1231,7 @@ teleserial.com/
 test.rutube.ru
 tetrika-school.ru
 tforum.uz/
+theblueprint.ru/
 thg.ru/
 thumb.cloud.mail.ru
 timeweb.com/
@@ -1314,6 +1323,7 @@ vlab.su/
 vladimirka.ru/board/
 vladmama.ru/forum/
 vmailru.net
+vokrugsveta.ru/
 volgograd.ru/
 vologda-oblast.ru/
 vp-1.ozone.ru
