@@ -55,6 +55,7 @@ amurobl.ru/
 amwine.ru/
 an.yandex.ru
 anafor.ru/forums/
+anchem.ru/forum/
 androidinsider.ru/
 anekdot.ru/
 anti-malware.ru/
@@ -89,6 +90,7 @@ auto.kolesa.ru
 auto.mail.ru/
 auto.ru/
 auto.yuga.ru/
+autoby.biz/forum/
 autocenter.uz/forum/
 Autodoc.ru
 autoforum.pro/
@@ -147,6 +149,7 @@ bombler.ru/
 bonforum.com/
 Bookasutp.ru
 boosty.to
+bormotuhi.net/
 bpclub.ru/
 brik.org/node/2
 bristol.ru/
@@ -208,6 +211,7 @@ clubcaptiva.ru/forum/
 club-forester.ru/
 club-nissan.ru/forums/
 clubnote.ru/forum/
+cluborlando.ru/forum/
 club-renault.ru/forum/
 clubvolvo.ru/
 cnews.ru/
@@ -313,6 +317,7 @@ f4.motogon.ru/
 factornews.ru/
 fai.org.ru/forum/
 fanagoria.ru/
+fanfishka.ru/forum/
 fantlab.ru/forum
 fas.gov.ru
 fedstat.ru
@@ -363,6 +368,7 @@ forum.calorizator.ru/
 forum.chrysler-dodge.ru/
 forum.club-subaru.com/
 forum.cxem.net/
+forum.dearheart.ru/
 forum.detiangeli.ru/
 forum.df2.ru/
 forum.dirt.ru/
@@ -459,9 +465,11 @@ forum.volnistye.ru/
 forum.warspear-online.com/
 forum.warthunder.ru/
 forum.xumuk.ru/
+forum.yar-genealogy.ru/
 forum.yurclub.ru/
 forum.zakon.kz/
 forum.zakonia.ru/
+forum.zoohelp33.ru/
 forum.zoologist.ru/
 forum4x4club.ru/
 forum-dollplanet.ru/
@@ -494,6 +502,7 @@ gamemag.ru/
 garant.ru/
 garshinka.ru
 gastronom.ru/
+gaz-24.com/forum/
 gaz69.ru/ipb/
 gazelleclub.ru/forum/
 gazprom.ru/
@@ -595,6 +604,7 @@ jetta6.ru/
 joomlaforum.ru/
 joyreactor.cc/
 kad.arbitr.ru/
+kadrovik-praktik.ru/communication/forum/
 kalmregion.ru/
 kamgov.ru/
 kanobu.ru/
@@ -653,6 +663,7 @@ lada.cc/board/
 lada.ru/
 lada-forum.ru/
 lada-granta.net/
+lada-largus.com/forum
 lada-vesta.net/
 lady.webnice.ru/forum/
 lamoda.ru/
@@ -809,6 +820,7 @@ old.sukhoi.ru/forum/forum.php
 old-games.ru/forum/
 olgino-info.ru/forum/
 omsk.kz/index1.php
+omsk.ru/forums/
 omsk-parlament.ru/
 omskportal.ru/
 oneme.ru
@@ -816,6 +828,7 @@ online.metro-cc.ru/
 opc-club.ru/vb/
 openedu.ru
 oppozit.ru/forum
+optimaclub.ru/
 orel-region.ru/
 orenburg-gov.ru/
 organic-mix.ru
@@ -1015,6 +1028,7 @@ sberpay.ru
 sbup.com/seo-forum/
 scaleforum.ru/
 scalemodels.ru/modules/forum/
+scbist.com/
 school.spbstu.ru/
 scooter-club.ru/forum/
 sdelanounas.ru/
@@ -1044,9 +1058,11 @@ skillfactory.ru/
 smailru.net
 smallcar.ru/talk/
 smart-lab.ru
+s-maxclub.ru/forum/
 smoloblduma.ru/
 smu6.ru
 snowmobile.ru/forum/index.php
+soborno.ru/
 softboard.ru/
 solaris-agat-nn.ru/
 solaris-club.net/forum/
@@ -1208,6 +1224,7 @@ supcourt.ru
 suradmin.ru/
 sushi-karate.ru/
 suzuki-club.ru/
+swadba.by/forum/
 sysadmins.ru/
 tabsbook.ru
 tadviser.ru/
@@ -1246,6 +1263,7 @@ top.ucoz.ru/
 top-fwz1.mail.ru
 topwar.ru/
 tourerv.ru/forum/
+toyotacamry.ru/forum.php
 toyster.ru/forum/
 trailblazerclub.ru/forum/
 traiv-komplekt.ru/
@@ -1294,6 +1312,7 @@ verify.yandex.ru
 vestnik-sadovoda.ru/forum/
 vfokuse.mail.ru/
 vino.ru/
+vistaclub.ru/forum/
 vk.cc
 vk.com
 vk.company
