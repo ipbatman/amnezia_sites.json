@@ -82,6 +82,7 @@ astrobl.ru/
 astronomy.ru/forum/
 astrozet.net/forum/
 ateism.ru/forum/
+atorus.ru
 atorus.ru/
 auchan.ru/
 audio-v-text.silero.ai
@@ -115,6 +116,7 @@ avtomir.ru
 avtonovostidnya.ru/
 azbyka.ru/forum/
 b17.ru/forum/
+bank.yuga.ru/
 banki.ru/
 banki.ru/forum/
 barca.ru/forum/
@@ -162,6 +164,7 @@ cap.ru/
 car72.ru/forum/
 carina-e.ru/
 carper.su/forum/forum.php
+carsweek.ru/
 carsweek.ru/
 casp-geo.ru/
 caves.ru/
@@ -551,6 +554,7 @@ haval-f7-f7x.ru/
 hde.lenta.com
 hh.ru
 hibiny.ru/
+hibiny.ru/
 hi-fi.ru/forum/
 hi-fi-forum.net/
 highlander-autoclub.ru/forum/index.php
@@ -586,7 +590,9 @@ ingos.ru
 ingrad.ru
 ingushetia.ru/
 interfax.ru/
+interfax.ru/
 internet-technologies.ru/
+iphones.ru/
 iphones.ru/
 ir-3.ozone.ru
 irkobl.ru/
@@ -893,6 +899,8 @@ practicum.yandex.ru
 prav.tatarstan.ru/
 pravda.ru/
 pravdnr.ru/
+pravilamag.ru/
+pravilamag.ru/
 pravitelstvori.ru/
 pravo.ako.ru/
 pravo.donland.ru/
@@ -920,6 +928,7 @@ probirka.org/forum/index.php
 prochepetsk.ru/
 prodota.ru/forum/
 profinance.ru/forum/
+progorod43.ru/
 progoroduhta.ru/
 prokoni.ru/forum/
 promalp.ru/
@@ -954,6 +963,7 @@ redliners.ru/talk/
 redwhite.ru/rw-forum/
 reg.ru/
 regforum.ru/forum/
+regions.ru/
 ren.tv/
 retail.ru/
 retromap.ru
@@ -1061,6 +1071,7 @@ smart-lab.ru
 s-maxclub.ru/forum/
 smoloblduma.ru/
 smu6.ru
+snob.ru/
 snowmobile.ru/forum/index.php
 soborno.ru/
 softboard.ru/
@@ -1087,6 +1098,7 @@ sportbox.ru/
 spshka.ru/index.php?action=forum
 sptovarov.ru/
 spvtomske.ru/forum/
+sravni.ru/
 sskkuban.ru
 ssp.rambler.ru
 st.ozone.ru
@@ -1239,6 +1251,7 @@ tatspirtprom.ru/
 taxhelp.ru/forum/index.html
 tbank.ru/
 teach-in.ru
+techinsider.ru/
 tech-mail.ru
 tefal.ru
 tehnari.ru/
