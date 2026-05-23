@@ -5,6 +5,7 @@
 49gov.ru/
 4brain.ru
 4gameforum.com/
+4wd.ru/forum/
 4x4.tomsk.ru/
 531211.ms.dzen.ru
 551311.ms.dzen.ru
@@ -103,6 +104,7 @@ auto-rostov.ru/
 autosalons.ru/
 avatars.dzeninfra.ru
 avatars.mds.yandex.net
+avensis-club.ru/forum/
 avia.tutu.ru/
 aviaforum.ru/
 aviasales.ru/
@@ -112,6 +114,7 @@ avito.ru
 avito.st
 avo.ru/
 avtocharge.ru/
+avtogaz.ru/
 avtomir.ru
 avtonovostidnya.ru/
 azbyka.ru/forum/
@@ -133,6 +136,7 @@ belregion.ru/
 berforum.ru/
 berizaryad.ru
 bezformata.com
+bgforum.ru/
 bgforum.ru/
 bglife.ru/
 biketrials.ru/live/
@@ -167,6 +171,7 @@ carper.su/forum/forum.php
 carsweek.ru/
 carsweek.ru/
 casp-geo.ru/
+catgallery.ru/forums/
 caves.ru/
 cbr.ru
 cccp3d.ru/
@@ -241,6 +246,7 @@ csp.yandex.net
 cvr-bogorodsk.edusite.ru/
 cxhub.ru
 cyberforum.ru/
+daewooclub.ru/daewoo-forum/
 delimobil.ru
 delivery-bt.wildberries.ru
 dgl.ru/
@@ -279,6 +285,7 @@ dumask.ru/
 duster-clubs.ru/forum/
 dusterclubs.ru/vb/
 dvinaland.ru/
+dvride.ru/forum/
 dzen.ru
 dzeninfra.ru
 e.mail.ru
@@ -299,6 +306,7 @@ egida.by/forum/
 egov-buryatia.ru/
 elama.ru
 elantra-club.ru/forum/
+elastoimpex.ru/
 electrik.org/forum/
 electronix.ru/
 elibrary.ru
@@ -356,6 +364,7 @@ forum.anastasia.ru/
 forum.antivsd.ru/
 forum.aromarti.ru/
 forum.artinvestment.ru/
+forum.ascon.ru/
 forum.astrakhan.ru/
 forum.astrologics.ru/
 forum.athlete.ru/
@@ -409,12 +418,14 @@ forum.krasnoturinsk.me/cgi-bin/yabb2/YaBB.pl
 forum.lancerx.ru/
 forum.lissyara.su/
 forum.mirf.ru/
+forum.modelldepo.ru/
 forum.modelsworld.ru/
 forum.motofan.ru/
 forum.motolodka.ru/
 forum.moya-semya.ru/
 forum.murman.ru/
 forum.nag.ru/
+forum.nanya.ru/
 forum.nedoma.ru/
 forum.neverlands.ru/
 forum.newlcn.com/
@@ -467,6 +478,7 @@ forum.virtualsoccer.ru/
 forum.volnistye.ru/
 forum.warspear-online.com/
 forum.warthunder.ru/
+forum.wladimir.su/
 forum.xumuk.ru/
 forum.yar-genealogy.ru/
 forum.yurclub.ru/
@@ -500,7 +512,9 @@ fryazino.net/forum/
 fsb.ru/
 fsk.ru
 fssprus.ru
+fusionguru.ru/forum/
 gac.ru/
+gamebomb.ru/
 gamemag.ru/
 garant.ru/
 garshinka.ru
@@ -542,6 +556,7 @@ govoritnn.ru/
 govvrn.ru/
 goya.rutube.ru
 granelle.ru
+graverstone.ru/
 gsrb.ru/
 gubernator.stavkray.ru/
 gubernator.zo.gov.ru/
@@ -607,6 +622,7 @@ jeep4x4club.ru/forums/
 jeep-forum.ru/forum/
 jetour-ru.com/
 jetta6.ru/
+jolion-haval.ru/
 joomlaforum.ru/
 joyreactor.cc/
 kad.arbitr.ru/
@@ -634,9 +650,13 @@ kinoafisha.info/
 kinonews.ru/
 kinopoisk.ru
 kion.ru/
+kiosks.ru/forum/
 kirovchanka.ru/forum/
 kirovreg.ru/
 kiteforum.pro/
+klavogonki.ru/forum/
+klem.ru/forum/
+klyachin.ru/forum/
 kmpforum.online/
 kolesa-darom.ru
 komne.ru/iforum/
@@ -666,6 +686,7 @@ kurganoblduma.ru/
 kurskduma.ru/
 kursograf.ru/
 lada.cc/board/
+lada.ru/
 lada.ru/
 lada-forum.ru/
 lada-granta.net/
@@ -759,6 +780,7 @@ monitor.espec.ws/
 monocle.ru/
 mos-gorsud.ru/
 moskvichmag.ru/
+moskvich-tuning.ru/
 mosmetro.ru/
 mosoblduma.ru/
 mosreg.ru/
@@ -785,6 +807,7 @@ netlab.e2k.ru/forum/
 neuroleptic.ru/forum/
 newizv.ru/
 newmap.nn-invest.ru
+newxboxone.ru/
 ngenix.net/
 ngs.ru/
 nic.ru/
@@ -794,6 +817,7 @@ niver.ru/index.php
 nn.cian.ru/
 nn.dom.ru
 nn.ru
+nn.tns-e.ru/
 nnov.ngounb.ru
 nnov.ru
 nosmoking.ru/phpBB2/
@@ -833,6 +857,7 @@ oneme.ru
 online.metro-cc.ru/
 opc-club.ru/vb/
 openedu.ru
+opennet.ru/
 oppozit.ru/forum
 optimaclub.ru/
 orel-region.ru/
@@ -857,6 +882,7 @@ partner.yandex.ru
 passatworld.ru/forum.php
 pay.yandex.ru/
 paywb.com
+paz-bus.ru/
 pchelpforum.ru/
 penta-club.ru/forum/
 perm.fas.gov.ru
@@ -1083,6 +1109,7 @@ sony-club.ru/forum/
 sorento.kia-club.ru/forum/
 sostav.ru
 sostav.ru/
+sostav.ru/
 sourcecraft.dev
 sovminlnr.ru/
 sovokup.ru/index.php
@@ -1106,6 +1133,7 @@ st.top100.ru
 st.vk.com
 st.vkvideo.ru
 staraya-moneta.ru/forum/
+starexclub.ru/forum/
 start.practicum.yandex/
 start.ru/
 static.chipdip.ru
@@ -1293,6 +1321,7 @@ turbopages.org
 turizmvnn.ru
 tutu.ru/
 tver.ru/
+uaz.ru/
 uazpatriot.ru/forum/
 ucoz.ru/
 ucrazy.org/
