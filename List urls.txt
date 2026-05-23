@@ -1,5 +1,6 @@
 3dnews.ru/
 110km.ru/
+3008club.ru/
 35412.ms.vk.com
 407club.ru/
 49gov.ru/
@@ -59,6 +60,7 @@ anafor.ru/forums/
 anchem.ru/forum/
 androidinsider.ru/
 anekdot.ru/
+antara-club.ru/
 anti-malware.ru/
 aosd.ru/
 api.lemanapro.ru
@@ -135,6 +137,7 @@ belkacar.ru
 belregion.ru/
 berforum.ru/
 berizaryad.ru
+bestfilez.net/forums/
 bezformata.com
 bgforum.ru/
 bgforum.ru/
@@ -195,6 +198,7 @@ chery.ru/
 chery-club.ru/forum/
 chesnok.media/
 chevrolet-aveo.ru/
+chevrolet-daewoo.ru/forum/
 chinamobil.ru/bb/
 china-moto.ru/forum/
 china-scooter.ru/forum/
@@ -217,6 +221,7 @@ club.season.ru/
 club443.ru/
 clubcaptiva.ru/forum/
 club-forester.ru/
+club-l200.ru/forum/
 club-nissan.ru/forums/
 clubnote.ru/forum/
 cluborlando.ru/forum/
@@ -262,6 +267,7 @@ dnevnik.ru/
 dnr-sovet.su/
 dns-shop.ru
 docs.cntd.ru/
+doctorsforum.ru/
 dogma.ru
 dom.gosuslugi.ru
 domlenta.ru/
@@ -284,6 +290,7 @@ duma-murman.ru/
 dumask.ru/
 duster-clubs.ru/forum/
 dusterclubs.ru/vb/
+dverizamki.org/
 dvinaland.ru/
 dvride.ru/forum/
 dzen.ru
@@ -397,13 +404,16 @@ forum.f1news.ru/
 forum.foxclub.ru/
 forum.garant.ru/
 forum.good-cook.ru/main.html
+forum.gotovim.ru/
 forum.gov-zakupki.ru/
 forum.gvka.ru/
 forum.hdtv.ru/
 forum.hobbyportal.ru/
+forum.homecitrus.ru/
 forum.homedistiller.ru/
 forum.igromania.ru/
 forum.il2sturmovik.ru/
+forum.iracers.ru/
 forum.istorichka.ru/cgi-bin/yabb2/YaBB.pl
 forum.ixbt.com/
 forum.ja2.su/cgi-bin/yabb/YaBB.pl
@@ -456,6 +466,7 @@ forum.skif4x4.ru/
 forum.skoda-club.ru/
 forum.smolensk.ws/
 forum.sources.ru/
+forum.spchat.ru/
 forum.sportbox.ru/index.php
 forum.steelfactor.ru/
 forum.supermamki.ru/index.php
@@ -478,6 +489,7 @@ forum.virtualsoccer.ru/
 forum.volnistye.ru/
 forum.warspear-online.com/
 forum.warthunder.ru/
+forum.web.money/
 forum.wladimir.su/
 forum.xumuk.ru/
 forum.yar-genealogy.ru/
@@ -561,6 +573,7 @@ gsrb.ru/
 gubernator.stavkray.ru/
 gubernator.zo.gov.ru/
 gubernator74.ru/
+guitar.by/forum/
 guitarplayer.ru/
 hamkke.borda.ru/
 haval.ru/
@@ -670,6 +683,7 @@ kovrov33.ru/f2/
 kraken.rambler.ru
 krasnodar.ru/
 krasnoeibeloe.ru/
+krasotulya.ru/love/
 krasotulya.ru/telo/
 kremlin.ru
 krestyanka.ru/
@@ -765,6 +779,7 @@ millstream-wines.ru/
 miloserdie.ru/
 minecraftonly.com/forum/
 minsoctrud.astrobl.ru/
+mir-cnc.ru/
 mirf.ru/
 mitsubishi-asx.net/forum/
 mixnews.lv
@@ -775,6 +790,7 @@ mnogodetok.ru/
 mobileproxy.passport.yandex.net
 mobile-review.com/
 moex.com
+mokka-club.com/forum/
 mondeoclub.ru/forums/
 monitor.espec.ws/
 monocle.ru/
@@ -794,6 +810,7 @@ mvideo.ru/
 my.games
 my300c.ru/forum/
 mycdn.me
+myreptile.ru/forum/
 mysbertips.ru
 myspar.ru/
 myzafira.ru/forum/index.php
@@ -971,6 +988,7 @@ queuev4.vk.com
 r.mradx.net
 r0.mradx.net
 r-19.ru/
+raceyou.ru/
 radikal.cloud/
 radiokot.ru/
 radioscanner.ru/forum/
@@ -1343,6 +1361,7 @@ ursa-tm.ru/forum/
 userapi.com
 user-storage-01bxc.wb.ru
 u-zonta.ru
+uzsat.net/
 valday.com/forum/
 vaz.ee/forum/
 vaz-2106.ru/forum/
