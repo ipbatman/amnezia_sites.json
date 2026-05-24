@@ -10,6 +10,7 @@
 4x4.tomsk.ru/
 531211.ms.dzen.ru
 551311.ms.dzen.ru
+62live.ru/
 66.ru/
 75.ru/
 a.wb.ru
@@ -246,9 +247,11 @@ cqham.ru/forum/forum.php
 creta-club.net/forum/
 crimea.gov.ru/
 crimea-board.net/index.php
+cr-v.su/forums/
 cs.avito.ru
 csp.yandex.net
 cvr-bogorodsk.edusite.ru/
+cx.podolsk.ru/board/
 cxhub.ru
 cyberforum.ru/
 daewooclub.ru/daewoo-forum/
@@ -300,6 +303,7 @@ e1.ru/
 e30club.ru/forum/
 e34.su/forum/
 eao.ru/
+earth-chronicles.ru/
 ecigtalk.org/forum/
 eda.rambler.ru/
 e-dag.ru/
@@ -309,6 +313,7 @@ e-disclosure.ru/
 edu.gounn.ru/
 edu.sravni.ru/
 липецка€область.рф/
+efl-forum.ru/boards/
 egida.by/forum/
 egov-buryatia.ru/
 elama.ru
@@ -382,9 +387,11 @@ forum.benzua.com/
 forum.bezmolvie.ru/
 forum.bioware.ru/
 forum.bits.media/
+forum.bolen-kot.net.ru/
 forum.borovichi.ru/
 forum.calorizator.ru/
 forum.chrysler-dodge.ru/
+forum.ci-bi.ru/
 forum.club-subaru.com/
 forum.cxem.net/
 forum.dearheart.ru/
@@ -400,6 +407,7 @@ forum.ereality.ru/
 forum.escapefromtarkov.com/
 forum.esmasoft.com/
 forum.eve-ru.com/
+forum.exkavator.ru/
 forum.f1news.ru/
 forum.foxclub.ru/
 forum.garant.ru/
@@ -418,6 +426,7 @@ forum.istorichka.ru/cgi-bin/yabb2/YaBB.pl
 forum.ixbt.com/
 forum.ja2.su/cgi-bin/yabb/YaBB.pl
 forum.jawaold.su/
+forum.kamlife.ru/
 forum.kasperskyclub.ru/
 forum.katera.ru/
 forum.kerch.com.ru/
@@ -469,6 +478,7 @@ forum.sources.ru/
 forum.spchat.ru/
 forum.sportbox.ru/index.php
 forum.steelfactor.ru/
+forum.storeland.ru/
 forum.supermamki.ru/index.php
 forum.tetis.ru/
 forum.theprodigy.ru/
@@ -583,6 +593,7 @@ hde.lenta.com
 hh.ru
 hibiny.ru/
 hibiny.ru/
+hibiny.ru/
 hi-fi.ru/forum/
 hi-fi-forum.net/
 highlander-autoclub.ru/forum/index.php
@@ -633,6 +644,7 @@ ivi.tv/
 jaccar.ru/
 jeep4x4club.ru/forums/
 jeep-forum.ru/forum/
+jeepspb.ru/forum/index.php
 jetour-ru.com/
 jetta6.ru/
 jolion-haval.ru/
@@ -667,6 +679,7 @@ kiosks.ru/forum/
 kirovchanka.ru/forum/
 kirovreg.ru/
 kiteforum.pro/
+kkmcom.ru/index.php?action=forum
 klavogonki.ru/forum/
 klem.ru/forum/
 klyachin.ru/forum/
@@ -722,7 +735,9 @@ library.fa.ru/
 lider-group.ru
 lifehacker.ru/
 linuxforum.ru/
+lipetsknews.ru/
 litres.ru/
+liubava.ru/forum/
 live.skillfactory.ru/
 livejournal.com
 lizaalert.org/forum/
@@ -739,6 +754,7 @@ m.njcar.ru
 m.sobaka.ru/
 m2.ru/
 maccentre.ru/board/
+magadanmedia.ru/
 magnit.ru
 magoblduma.ru/
 mail.ru
@@ -794,6 +810,7 @@ mokka-club.com/forum/
 mondeoclub.ru/forums/
 monitor.espec.ws/
 monocle.ru/
+mopedist.ru/forum
 mos-gorsud.ru/
 moskvichmag.ru/
 moskvich-tuning.ru/
@@ -801,6 +818,8 @@ mosmetro.ru/
 mosoblduma.ru/
 mosreg.ru/
 motocitizen.info/
+motoizh.ru/forum/
+moya-planeta.ru/
 msk1.ru/
 msu.ru/
 mts.ru
@@ -944,6 +963,7 @@ pravda.ru/
 pravdnr.ru/
 pravilamag.ru/
 pravilamag.ru/
+pravilamag.ru/
 pravitelstvori.ru/
 pravo.ako.ru/
 pravo.donland.ru/
@@ -969,6 +989,7 @@ prizyvnik.info/
 prlib.ru
 probirka.org/forum/index.php
 prochepetsk.ru/
+prochepetsk.ru/
 prodota.ru/forum/
 profinance.ru/forum/
 progorod43.ru/
@@ -984,6 +1005,7 @@ psychology.net.ru/talk/
 psy-ru.org/
 puzyaka.ru/forum/
 pwonline.ru/forums/
+questzone.ru/forums/
 queuev4.vk.com
 r.mradx.net
 r0.mradx.net
@@ -1026,6 +1048,7 @@ roads.ru/forum/
 rodim.ru/index.php
 rolf.ru
 rosbalt.ru/
+rosbalt.ru/
 rospotrebnadzor.ru
 rosreestr.ru
 rosstat.gov.ru
@@ -1039,6 +1062,7 @@ ru.ruwiki.ru/
 Ruli.ru
 rum.dzen.ru
 runcity.org/forum/
+runhero.ru/
 rusdivx.net/ibf/
 rusfishing.ru/forum/
 rusprofile.ru/
@@ -1059,6 +1083,7 @@ s3.chipdip.ru
 s3.dzeninfra.ru
 saabclub.by/forum/
 sad-i-ogorod.ru/
+safezone.cc/
 sakha.gov.ru/
 sakhalin.gov.ru/
 salam-de-rasc-87.rtbcdn.ru
@@ -1135,11 +1160,13 @@ sozd.duma.gov.ru/
 spartak.msk.ru/guest/
 spartakforum.ru/
 spaymentsplus.ru
+spb-azlk.ru/forums.php
 spbkbran.ru/
 spb-projects.ru/forum/
 spbtalk.ru/
 sport24.ru/
 sportbox.ru/
+sportmaster.ru/
 spshka.ru/index.php?action=forum
 sptovarov.ru/
 spvtomske.ru/forum/
@@ -1301,6 +1328,7 @@ techinsider.ru/
 tech-mail.ru
 tefal.ru
 tehnari.ru/
+tehnoforum.com/
 tehnoomsk.ru/
 telemetry.dzen.ru
 teleserial.com/
@@ -1321,6 +1349,7 @@ tomsk.gov.ru/
 top.ucoz.ru/
 top-fwz1.mail.ru
 topwar.ru/
+tourdom.ru/
 tourerv.ru/forum/
 toyotacamry.ru/forum.php
 toyster.ru/forum/
@@ -1404,6 +1433,7 @@ vladimirka.ru/board/
 vladmama.ru/forum/
 vmailru.net
 vokrugsveta.ru/
+volchat.ru/forum/
 volgograd.ru/
 vologda-oblast.ru/
 vp-1.ozone.ru
