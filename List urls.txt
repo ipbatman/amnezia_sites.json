@@ -187,6 +187,7 @@ cdn.uxfeedback.ru
 cdn1.ozonusercontent.com
 cdnvideo.ru/
 cdnvideo.v.ozone.ru
+cedia-club.ru/forum/
 celica-club.ru/board/
 cells.ru/forum/
 changanauto.ru/
@@ -223,6 +224,7 @@ club443.ru/
 clubcaptiva.ru/forum/
 club-forester.ru/
 club-l200.ru/forum/
+clubmaxima.ru/forum/
 club-nissan.ru/forums/
 clubnote.ru/forum/
 cluborlando.ru/forum/
@@ -372,6 +374,7 @@ forum.alconar.ru/index.php
 forum.allgaz.ru/
 forum.allods.ru/
 forum.allsochi.info/
+forum.amadeus-project.com/
 forum.anastasia.ru/
 forum.antivsd.ru/
 forum.aromarti.ru/
@@ -383,7 +386,6 @@ forum.athlete.ru/
 forum.awd.ru/
 forum.azlk-team.ru/
 forum.balletfriends.ru/
-forum.benzua.com/
 forum.bezmolvie.ru/
 forum.bioware.ru/
 forum.bits.media/
@@ -393,6 +395,7 @@ forum.calorizator.ru/
 forum.chrysler-dodge.ru/
 forum.ci-bi.ru/
 forum.club-subaru.com/
+forum.c-o-k.ru/
 forum.cxem.net/
 forum.dearheart.ru/
 forum.detiangeli.ru/
@@ -466,9 +469,11 @@ forum.relicvia.ru/
 forum.roerich.info/
 forum.rrock.ru/
 forum.rudtp.ru/
+forum.rus-etrain.ru/
 forum.say7.info/
 forum.screenwriter.ru/
 forum.sevastopol.info/
+forum.shelek.ru/
 forum.sibmama.ru/
 forum.sibnet.ru/
 forum.skif4x4.ru/
@@ -525,6 +530,7 @@ forumsdrom.ru/
 forumuuu.com/
 forum-volgograd.ru/
 forum-wec.com/
+forumyuristov.ru/
 foto.ru/forums/general
 fotora.ru/
 frankmedia.ru
@@ -580,12 +586,12 @@ goya.rutube.ru
 granelle.ru
 graverstone.ru/
 gsrb.ru/
-gu-st.ru
 gubernator.stavkray.ru/
 gubernator.zo.gov.ru/
 gubernator74.ru/
 guitar.by/forum/
 guitarplayer.ru/
+gu-st.ru
 hamkke.borda.ru/
 haval.ru/
 haval-club.ru/
@@ -741,6 +747,7 @@ litres.ru/
 liubava.ru/forum/
 live.skillfactory.ru/
 livejournal.com
+livinghistory.ru/
 lizaalert.org/forum/
 lkforum.ru/
 lki.ru/
@@ -756,6 +763,7 @@ m.sobaka.ru/
 m2.ru/
 maccentre.ru/board/
 magadanmedia.ru/
+magia-frpg.ru/
 magnit.ru
 magoblduma.ru/
 mail.ru
@@ -795,6 +803,7 @@ mil.ru/
 millstream-wines.ru/
 miloserdie.ru/
 minecraftonly.com/forum/
+mineralforum.ru/
 minsoctrud.astrobl.ru/
 mir-cnc.ru/
 mirf.ru/
@@ -818,6 +827,7 @@ moskvich-tuning.ru/
 mosmetro.ru/
 mosoblduma.ru/
 mosreg.ru/
+moto59.ru/forums/
 motocitizen.info/
 motoizh.ru/forum/
 moya-planeta.ru/
@@ -845,6 +855,7 @@ neuroleptic.ru/forum/
 newizv.ru/
 newmap.nn-invest.ru
 newxboxone.ru/
+nfs-nl.ru/
 ngenix.net/
 ngs.ru/
 nic.ru/
@@ -936,6 +947,7 @@ photar.ru
 Photoshare.ru
 php.ru/forum/
 phpbbguru.net/community/
+phpforum.su/
 pic.rtbcdn.ru
 pik.ru
 pikabu.ru
@@ -944,6 +956,7 @@ plati.market
 platimultiqr.ru
 platiqr.ru
 playground.ru
+playtruck.2bb.ru/
 pluggedin.ru/
 pnzreg.ru/
 pobeda-club.ru/
@@ -1048,6 +1061,7 @@ rmmedia.ru/
 roads.ru/forum/
 rodim.ru/index.php
 rolf.ru
+romanticcollection.ru/forum/
 rosbalt.ru/
 rosbalt.ru/
 rospotrebnadzor.ru
@@ -1083,6 +1097,7 @@ s0.rbk.ru
 s3.chipdip.ru
 s3.dzeninfra.ru
 saabclub.by/forum/
+saabnet.ru/forum/
 sad-i-ogorod.ru/
 safezone.cc/
 sakha.gov.ru/
@@ -1307,6 +1322,7 @@ sun9-97.userapi.com
 sun9-98.userapi.com
 sun9-99.userapi.com
 supcourt.ru
+supra-club.ru/board/
 suradmin.ru/
 sushi-karate.ru/
 suzuki-club.ru/
