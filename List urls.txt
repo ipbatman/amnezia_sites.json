@@ -9,7 +9,6 @@
 4wd.ru/forum/
 4x4.tomsk.ru/
 531211.ms.dzen.ru
-551311.ms.dzen.ru
 62live.ru/
 66.ru/
 75.ru/
@@ -46,6 +45,7 @@ alania.gov.ru/
 alfabank.ru/
 algoritmika.org
 alkoteka.com/
+all-sbor.net/forum/
 allwebs.ru/
 altairegion22.ru/
 altai-republic.ru/
@@ -259,6 +259,7 @@ cyberforum.ru/
 daewooclub.ru/daewoo-forum/
 delimobil.ru
 delivery-bt.wildberries.ru
+desantura.ru/forum/
 dgl.ru/
 dharma.org.ru/board/
 diablozone.net/forum/
@@ -323,6 +324,7 @@ elantra-club.ru/forum/
 elastoimpex.ru/
 electrik.org/forum/
 electronix.ru/
+electrosvyaz.com/forum/
 elibrary.ru
 elite-games.ru/conference/
 Emex.ru
@@ -397,6 +399,7 @@ forum.ci-bi.ru/
 forum.club-subaru.com/
 forum.c-o-k.ru/
 forum.cxem.net/
+forum.darievna.ru/
 forum.dearheart.ru/
 forum.detiangeli.ru/
 forum.df2.ru/
@@ -406,6 +409,7 @@ forum.doctorhead.ru/forums/
 forum.donfisher.ru/
 forum.drweb.com/index.php
 forum.dwg.ru/
+forum.e-plastic.ru/
 forum.ereality.ru/
 forum.escapefromtarkov.com/
 forum.esmasoft.com/
@@ -430,12 +434,14 @@ forum.ixbt.com/
 forum.ja2.su/cgi-bin/yabb/YaBB.pl
 forum.jawaold.su/
 forum.kamlife.ru/
+forum.kaspersky.com/
 forum.kasperskyclub.ru/
 forum.katera.ru/
 forum.kerch.com.ru/
 forum.kia-club.ru/
 forum.klerk.ru/
 forum.korabli.su/
+forum.kpe.ru/
 forum.krasnoturinsk.me/cgi-bin/yabb2/YaBB.pl
 forum.lancerx.ru/
 forum.lissyara.su/
@@ -484,6 +490,7 @@ forum.spchat.ru/
 forum.sportbox.ru/index.php
 forum.steelfactor.ru/
 forum.storeland.ru/
+forum.superkarate.ru/
 forum.supermamki.ru/index.php
 forum.tetis.ru/
 forum.theprodigy.ru/
@@ -574,6 +581,7 @@ gorodovoy.ru/
 goskatalog.ru
 gossov.tatarstan.ru/
 gosuslugi.ru
+goths.ru/tox/
 gov.karelia.ru/
 gov.khogov.ru/
 gov39.ru/
@@ -606,6 +614,7 @@ hi-fi-forum.net/
 highlander-autoclub.ru/forum/index.php
 historica.ru/
 hitv.ru/hitvboard/
+holod-konsultant.ru/
 homemasters.ru/forums/
 hondamotor.ru/board/index.php?act=idx
 hosting-russia.ru
@@ -657,6 +666,7 @@ jetta6.ru/
 jolion-haval.ru/
 joomlaforum.ru/
 joyreactor.cc/
+juke.ru/
 kad.arbitr.ru/
 kadrovik-praktik.ru/communication/forum/
 kalmregion.ru/
@@ -831,6 +841,7 @@ moto59.ru/forums/
 motocitizen.info/
 motoizh.ru/forum/
 moya-planeta.ru/
+m-power.ru/forum/
 msk1.ru/
 msu.ru/
 mts.ru
@@ -1019,6 +1030,7 @@ psychology.net.ru/talk/
 psy-ru.org/
 puzyaka.ru/forum/
 pwonline.ru/forums/
+python.su/forum/
 questzone.ru/forums/
 queuev4.vk.com
 r.mradx.net
@@ -1138,6 +1150,7 @@ semenasad.ru
 semena-sibsad.ru/
 semerkainfo.ru/forum/
 semlepestkov.ru
+serjik.ru/forum/
 serverspace.ru/
 sferum-dev.ru
 shakhty-media.ru/
@@ -1348,6 +1361,7 @@ tehnari.ru/
 tehnoforum.com/
 tehnoomsk.ru/
 telemetry.dzen.ru
+tele-satinfo.ru/forumru/
 teleserial.com/
 test.rutube.ru
 tetrika-school.ru
@@ -1453,6 +1467,8 @@ vokrugsveta.ru/
 volchat.ru/forum/
 volgograd.ru/
 vologda-oblast.ru/
+volvocars.club/
+vorotaforum.ru/
 vp-1.ozone.ru
 vremyan.ru/
 vrnoblduma.ru/
