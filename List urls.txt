@@ -38,6 +38,7 @@ aeroflot.ru/
 aeroflot.ru/
 aigenda.ru/
 ailita-shop.ru/
+aimp.ru/forum/
 akashi.vk-portal.net
 Akbmag.ru
 akzs.ru/
@@ -144,6 +145,7 @@ bgforum.ru/
 bgforum.ru/
 bglife.ru/
 biketrials.ru/live/
+biopole.info/forum/
 biotechnica.ru
 bjdclub.com/index.php
 blog.rupixel.ru/
@@ -393,6 +395,7 @@ forum.bioware.ru/
 forum.bits.media/
 forum.bolen-kot.net.ru/
 forum.borovichi.ru/
+forum.buhsoft.ru/
 forum.calorizator.ru/
 forum.chrysler-dodge.ru/
 forum.ci-bi.ru/
@@ -417,6 +420,7 @@ forum.eve-ru.com/
 forum.exkavator.ru/
 forum.f1news.ru/
 forum.foxclub.ru/
+forum.frosat.net/
 forum.garant.ru/
 forum.good-cook.ru/main.html
 forum.gotovim.ru/
@@ -428,11 +432,13 @@ forum.homecitrus.ru/
 forum.homedistiller.ru/
 forum.igromania.ru/
 forum.il2sturmovik.ru/
+forum.integral.ru/
 forum.iracers.ru/
 forum.istorichka.ru/cgi-bin/yabb2/YaBB.pl
 forum.ixbt.com/
 forum.ja2.su/cgi-bin/yabb/YaBB.pl
 forum.jawaold.su/
+forum.kalush.info/
 forum.kamlife.ru/
 forum.kaspersky.com/
 forum.kasperskyclub.ru/
@@ -443,9 +449,11 @@ forum.klerk.ru/
 forum.korabli.su/
 forum.kpe.ru/
 forum.krasnoturinsk.me/cgi-bin/yabb2/YaBB.pl
+forum.krishna.ru/forum.php
 forum.lancerx.ru/
 forum.lissyara.su/
 forum.mirf.ru/
+forum.mma.su/forum.php
 forum.modelldepo.ru/
 forum.modelsworld.ru/
 forum.motofan.ru/
@@ -505,6 +513,7 @@ forum.tvoysad.ru/
 forum.ubuntu.ru/
 forum.ucoz.ru/
 forum.vashdom.ru/
+forum.vcfm.ru/
 forum.vgd.ru/
 forum.videoediting.ru/
 forum.virtualsoccer.ru/
@@ -541,6 +550,7 @@ forumyuristov.ru/
 foto.ru/forums/general
 fotora.ru/
 frankmedia.ru
+freepony.ru/
 frenchbulldog.borda.ru/
 freshauto.ru
 fryazino.net/forum/
@@ -549,6 +559,7 @@ fsk.ru
 fssprus.ru
 fusionguru.ru/forum/
 gac.ru/
+galloper.ru/forum/
 gamebomb.ru/
 gamemag.ru/
 garant.ru/
@@ -647,6 +658,7 @@ ingushetia.ru/
 interfax.ru/
 interfax.ru/
 internet-technologies.ru/
+ipbmafia.ru/
 iphones.ru/
 iphones.ru/
 ir-3.ozone.ru
@@ -750,6 +762,7 @@ lenoblzaks.ru/
 level.ru
 library.fa.ru/
 lider-group.ru
+lifecz.ru/
 lifehacker.ru/
 linuxforum.ru/
 lipetsknews.ru/
@@ -783,6 +796,7 @@ maps.litera-ru.ru
 maps-yandex-ru.naydex.net
 mari-el.gov.ru/parlament
 market.yandex.ru
+massage.ru/forum/
 mastergrad.com/
 master-x.com/
 materinstvo.ru/
@@ -825,6 +839,7 @@ m-nn.tsargrad.tv/
 mnogodetok.ru/
 mobileproxy.passport.yandex.net
 mobile-review.com/
+modern-talking.su/forum.html
 moex.com
 mokka-club.com/forum/
 mondeoclub.ru/forums/
@@ -873,6 +888,7 @@ nic.ru/
 nismo-club.ru/forum/
 niva4x4.ru/
 niver.ru/index.php
+nkj.ru/forum/
 nn.cian.ru/
 nn.dom.ru
 nn.ru
@@ -1491,6 +1507,7 @@ wbpay.ru
 wbstatic.net
 wciom.ru/
 websvarka.ru/talk/
+wedjat.ru/forum/
 wf-ru-frontend.weborama-tech.ru 
 whoosh-bike.ru
 wibes.ru
