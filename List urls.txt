@@ -254,6 +254,7 @@ crimea-board.net/index.php
 cr-v.su/forums/
 cs.avito.ru
 csp.yandex.net
+cube-club.ru/forum/
 cvr-bogorodsk.edusite.ru/
 cx.podolsk.ru/board/
 cxhub.ru
@@ -351,6 +352,7 @@ fantlab.ru/forum
 fas.gov.ru
 fedstat.ru
 fermer.ru/forum
+fialka.tomsk.ru/forum/
 film.ru/
 finam.ru/
 finance.ozon.ru
@@ -430,6 +432,7 @@ forum.hdtv.ru/
 forum.hobbyportal.ru/
 forum.homecitrus.ru/
 forum.homedistiller.ru/
+forum.hostobzor.ru/
 forum.igromania.ru/
 forum.il2sturmovik.ru/
 forum.integral.ru/
@@ -451,9 +454,11 @@ forum.kpe.ru/
 forum.krasnoturinsk.me/cgi-bin/yabb2/YaBB.pl
 forum.krishna.ru/forum.php
 forum.lancerx.ru/
+forum.lazarevka.ru/
 forum.lissyara.su/
 forum.mirf.ru/
 forum.mma.su/forum.php
+forum.mobiset.ru/
 forum.modelldepo.ru/
 forum.modelsworld.ru/
 forum.motofan.ru/
@@ -479,6 +484,7 @@ forum.pushkino.org/
 forum.qrz.ru/
 forum.radeon.ru/
 forum.rastrnet.ru/
+forum.realyoga.ru/phpBB2/
 forum.relicvia.ru/
 forum.roerich.info/
 forum.rrock.ru/
@@ -498,6 +504,7 @@ forum.spchat.ru/
 forum.sportbox.ru/index.php
 forum.steelfactor.ru/
 forum.storeland.ru/
+forum.sublimaster.ru/
 forum.superkarate.ru/
 forum.supermamki.ru/index.php
 forum.tetis.ru/
@@ -571,6 +578,7 @@ gazelleclub.ru/forum/
 gazprom.ru/
 gazprombank.ru/
 geely-motors.com/
+gentra-club.ru/
 geobasket.ru
 getz-club.ru/forum/
 gipernn.ru/
@@ -626,6 +634,7 @@ highlander-autoclub.ru/forum/index.php
 historica.ru/
 hitv.ru/hitvboard/
 holod-konsultant.ru/
+homeflowers.ru/yabbse/
 homemasters.ru/forums/
 hondamotor.ru/board/index.php?act=idx
 hosting-russia.ru
@@ -670,6 +679,7 @@ iv.okcdn.ru
 ivanovoobl.ru/
 ivi.tv/
 jaccar.ru/
+japan-sumo.ru/forum/
 jeep4x4club.ru/forums/
 jeep-forum.ru/forum/
 jeepspb.ru/forum/index.php
@@ -677,6 +687,7 @@ jetour-ru.com/
 jetta6.ru/
 jolion-haval.ru/
 joomlaforum.ru/
+joomla-support.ru/
 joyreactor.cc/
 juke.ru/
 kad.arbitr.ru/
@@ -826,6 +837,7 @@ mikrob.ru/
 mil.ru/
 millstream-wines.ru/
 miloserdie.ru/
+mindmachine.ru/forum/
 minecraftonly.com/forum/
 mineralforum.ru/
 minsoctrud.astrobl.ru/
@@ -954,6 +966,7 @@ paralay.iboards.ru/
 parlament09.ru/
 parrots.ru/
 partner.yandex.ru
+partnersearch.ru/business/
 passatworld.ru/forum.php
 pay.yandex.ru/
 paywb.com
@@ -1176,6 +1189,7 @@ shophelp.ru/forum/
 sign-forum.ru/
 silver.ru/
 simferopol.in/
+simplemachines.ru/
 simplewine.ru/
 sitecdn.api.domlenta.ru
 skillfactory.ru/
@@ -1189,6 +1203,7 @@ snob.ru/
 snowmobile.ru/forum/index.php
 soborno.ru/
 softboard.ru/
+software-testing.ru/forum/
 solaris-agat-nn.ru/
 solaris-club.net/forum/
 solo-semena.ru
@@ -1222,6 +1237,7 @@ st.ozone.ru
 st.top100.ru
 st.vk.com
 st.vkvideo.ru
+stalker-portal.ru/forums
 staraya-moneta.ru/forum/
 starexclub.ru/forum/
 start.practicum.yandex/
@@ -1531,6 +1547,7 @@ xapi.ozon.ru
 x-bikers.ru/forum/
 xc60-club.ru/xcforum/
 xcraft.ru/forum/
+xn--80atagjmciocf.xn--p1ai/
 xn--b1agapfwapgcl.xn--p1ai/
 xras.ru/
 xray.mail.ru
