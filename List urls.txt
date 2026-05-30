@@ -1618,3 +1618,8 @@ zsperm.ru/
 zspk.gov.ru/
 zsro.ru/
 zsuo.ru/
+https://dom.ru/
+https://cdn-b2c.dom.ru
+https://lk-mf.web-api.dom.ru
+https://mod.calltouch.ru
+https://web-api.dom.ru
