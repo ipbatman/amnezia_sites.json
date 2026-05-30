@@ -23,6 +23,7 @@ accord-russia.ru/index.php
 ad.adriver.ru
 ad.mail.ru
 adm44.ru/
+adme.media/
 admgor.nnov.ru
 admhmao.ru/
 admin-smolensk.ru/
@@ -84,6 +85,7 @@ ascon-spb.ru/
 aspirantura.spb.ru/forum/
 astraclub.ru/forum.php
 astrobl.ru/
+astronomer.ru/forum/
 astronomy.ru/forum/
 astrozet.net/forum/
 ateism.ru/forum/
@@ -123,6 +125,7 @@ avtomir.ru
 avtonovostidnya.ru/
 azbyka.ru/forum/
 b17.ru/forum/
+bank.yuga.ru/
 bank.yuga.ru/
 banki.ru/
 banki.ru/forum/
@@ -176,6 +179,7 @@ carina-e.ru/
 carper.su/forum/forum.php
 carsweek.ru/
 carsweek.ru/
+carsweek.ru/
 casp-geo.ru/
 catgallery.ru/forums/
 caves.ru/
@@ -227,6 +231,7 @@ clubcaptiva.ru/forum/
 club-forester.ru/
 club-l200.ru/forum/
 clubmaxima.ru/forum/
+club-mayak.ru/forum/
 club-nissan.ru/forums/
 clubnote.ru/forum/
 cluborlando.ru/forum/
@@ -252,6 +257,7 @@ creta-club.net/forum/
 crimea.gov.ru/
 crimea-board.net/index.php
 cr-v.su/forums/
+cryptopro.ru/forum2/
 cs.avito.ru
 csp.yandex.net
 cube-club.ru/forum/
@@ -366,6 +372,7 @@ fishki.net/
 fix-price.com/
 fkclub.ru/forum/
 floralworld.ru/forum/
+floristic.ru/forum/
 flowersweb.info/forum/
 fluence-club.ru/forum/index.php
 food.ru/
@@ -380,6 +387,7 @@ forum.alconar.ru/index.php
 forum.allgaz.ru/
 forum.allods.ru/
 forum.allsochi.info/
+forum.alyno.ru/phpBB2/
 forum.amadeus-project.com/
 forum.anastasia.ru/
 forum.antivsd.ru/
@@ -392,13 +400,16 @@ forum.athlete.ru/
 forum.awd.ru/
 forum.azlk-team.ru/
 forum.balletfriends.ru/
+forum.bestgamer.ru/
 forum.bezmolvie.ru/
 forum.bioware.ru/
 forum.bits.media/
+forum.bizlog.ru/
 forum.bolen-kot.net.ru/
 forum.borovichi.ru/
 forum.buhsoft.ru/
 forum.calorizator.ru/
+forum.cdrrhq.ru/
 forum.chrysler-dodge.ru/
 forum.ci-bi.ru/
 forum.club-subaru.com/
@@ -523,6 +534,8 @@ forum.vashdom.ru/
 forum.vcfm.ru/
 forum.vgd.ru/
 forum.videoediting.ru/
+forum.videon.spb.ru/
+forum.vinyetka.ru/
 forum.virtualsoccer.ru/
 forum.volnistye.ru/
 forum.warspear-online.com/
@@ -612,6 +625,7 @@ govvrn.ru/
 goya.rutube.ru
 granelle.ru
 graverstone.ru/
+greek.ru/forum/
 gsrb.ru/
 gubernator.stavkray.ru/
 gubernator.zo.gov.ru/
@@ -671,6 +685,7 @@ ipbmafia.ru/
 iphones.ru/
 iphones.ru/
 ir-3.ozone.ru
+irecommend.ru/
 irkobl.ru/
 irkutsk-4x4.ru/index.php?action=forum
 irkutskmedia.ru/
@@ -709,6 +724,7 @@ kia-nnmotors.ru/
 kia-rio.net/forum/
 kids.kremlin.ru/
 kidshockey.ru/
+kijanka.org/forum/
 kino.mail.ru/
 kinoafisha.info/
 kinoafisha.info/
@@ -736,6 +752,7 @@ kovrov33.ru/f2/
 kraken.rambler.ru
 krasnodar.ru/
 krasnoeibeloe.ru/
+krasnogorsk.info/inside/modules/newbb/
 krasotulya.ru/love/
 krasotulya.ru/telo/
 kremlin.ru
@@ -759,6 +776,7 @@ lada-forum.ru/
 lada-granta.net/
 lada-largus.com/forum
 lada-vesta.net/
+lady.mail.ru/
 lady.webnice.ru/forum/
 lamoda.ru/
 land-cruiser.ru/
@@ -805,6 +823,7 @@ major-auto.ru
 mamochki22.ru/forum/
 maps.litera-ru.ru
 maps-yandex-ru.naydex.net
+marathonec.ru/
 mari-el.gov.ru/parlament
 market.yandex.ru
 massage.ru/forum/
@@ -846,6 +865,7 @@ mirf.ru/
 mitsubishi-asx.net/forum/
 mixnews.lv
 mkb.ru/
+mkset.ru/
 ml-club.com/forums/
 m-nn.tsargrad.tv/
 mnogodetok.ru/
@@ -953,6 +973,7 @@ organic-mix.ru
 ostrogozhsk.ru/forum/
 ostrovok.ru/
 otr-online.ru/
+ourtravels.ru/
 out-club.ru/board/
 overclockers.ru/
 owen.ru/forum/forum.php
@@ -984,6 +1005,7 @@ pgu.rk08.ru/
 phantom.sannata.org/
 phorum.armavir.ru/
 photar.ru
+photo-monster.ru/forum/
 Photoshare.ru
 php.ru/forum/
 phpbbguru.net/community/
@@ -1007,6 +1029,7 @@ points.wb.ru
 pokupki21.ru/
 polis-group.ru
 polosedan.ru/forum/
+popcornnews.ru/
 portal.mail.ru
 postnauka.org
 povar.ru/
@@ -1071,6 +1094,7 @@ radiokot.ru/
 radioscanner.ru/forum/
 ranepa.ru/
 rangefinder.ru/club/
+raritet-cd.ru/forum/
 ras.ru/
 rat.ru/forum/
 ratclub.spb.ru/forum/
@@ -1181,6 +1205,7 @@ semerkainfo.ru/forum/
 semlepestkov.ru
 serjik.ru/forum/
 serverspace.ru/
+sevastopolmedia.ru/
 sferum-dev.ru
 shakhty-media.ru/
 shedevrum.ai
@@ -1197,6 +1222,7 @@ smailru.net
 smallcar.ru/talk/
 smart-lab.ru
 s-maxclub.ru/forum/
+smeshariki-mir.ru/forum/
 smoloblduma.ru/
 smu6.ru
 snob.ru/
@@ -1211,6 +1237,7 @@ sonata.club/
 sony-club.ru/forum/
 sorento.kia-club.ru/forum/
 sostav.ru
+sostav.ru/
 sostav.ru/
 sostav.ru/
 sourcecraft.dev
@@ -1452,6 +1479,7 @@ urgens-nn.su/
 ursa-tm.ru/forum/
 userapi.com
 user-storage-01bxc.wb.ru
+ussurmedia.ru/
 u-zonta.ru
 uzsat.net/
 valday.com/forum/
@@ -1464,6 +1492,7 @@ velosamara.ru/forum/
 verify.yandex.ru
 vestnik-sadovoda.ru/forum/
 vfokuse.mail.ru/
+viewfinder.ru/forum/
 vino.ru/
 vistaclub.ru/forum/
 vk.cc
@@ -1495,6 +1524,7 @@ vlab.su/
 vladimirka.ru/board/
 vladmama.ru/forum/
 vmailru.net
+vodkomotornik.ru/forum/
 vokrugsveta.ru/
 volchat.ru/forum/
 volgograd.ru/
@@ -1548,6 +1578,7 @@ x-bikers.ru/forum/
 xc60-club.ru/xcforum/
 xcraft.ru/forum/
 xn--80atagjmciocf.xn--p1ai/
+xn--b1agapfwapgcl.xn--p1ai/
 xn--b1agapfwapgcl.xn--p1ai/
 xras.ru/
 xray.mail.ru
