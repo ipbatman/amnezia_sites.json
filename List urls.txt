@@ -1657,3 +1657,16 @@ zsperm.ru/
 zspk.gov.ru/
 zsro.ru/
 zsuo.ru/
+https://td.enplus.ru/
+https://static.stoloto.ru
+https://api.stoloto.ru
+https://rosstat.gov.ru/
+https://vashkontrol.ru
+https://stat.sputnik.ru
+https://cnt.sputnik.ru
+https://gosmonitor.ru
+https://www.fedstat.ru
+https://bs.serving-sys.ru
+https://dmp.sbermarketing.ru
+https://privacy-cs.mail.ru
+https://ext.clickstream.sberbank.ru
