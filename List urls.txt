@@ -72,6 +72,7 @@ aosd.ru/
 api.lemanapro.ru
 api.okcdn.ru
 api.plus.kinopoisk.ru
+api.stoloto.ru
 api.vk.com
 apiok.ru
 appleinsider.ru/
@@ -172,6 +173,7 @@ brik.org/node/2
 bristol.ru/
 brusnika.ru
 bryanskobl.ru/
+bs.serving-sys.ru
 budo.community/
 bvf.ru/forum/
 calltouch.ru/
@@ -189,8 +191,10 @@ cdek.ru
 cdn.api.domlenta.ru
 cdn.api.lenta.com
 cdn.lemanapro.ru
+cdn.sportmaster.ru
 cdn.uxfeedback.ru
 cdn1.ozonusercontent.com
+cdn-asset.ura.news
 cdn-b2c.dom.ru
 cdnvideo.ru/
 cdnvideo.v.ozone.ru
@@ -239,6 +243,7 @@ cluborlando.ru/forum/
 club-renault.ru/forum/
 clubvolvo.ru/
 cnews.ru/
+cnt.sputnik.ru
 code-class.ru
 coins.su/forum/
 colt-club.ru/forum/
@@ -252,6 +257,7 @@ copy-club.ru/
 core-renderer-tiles.maps.yandex.ru
 corpblog.ostrovok.ru/
 council.gov.ru
+counter.yadro.ru
 counter.yadro.ru
 cp-club.ru/
 cqham.ru/forum/forum.php
@@ -281,6 +287,7 @@ digital.rk08.ru/
 digitalocean.ru/
 diorama.ru/forum/
 distschool.ru/
+dmp.sbermarketing.ru
 dnevnik.ru/
 dnr-sovet.su/
 dns-shop.ru
@@ -355,6 +362,8 @@ eurasica.ru/forums/
 evenkya.gosuslugi.ru/
 Exist.ru
 expert.ru/
+ext.clickstream.sberbank.ru
+ext-cloudcdn-rurov09mskix-01.cdn.yandex.net
 f4.motogon.ru/
 factornews.ru/
 fai.org.ru/forum/
@@ -362,6 +371,7 @@ fanagoria.ru/
 fanfishka.ru/forum/
 fantlab.ru/forum
 fas.gov.ru
+fedstat.ru
 fedstat.ru
 fermer.ru/forum
 fialka.tomsk.ru/forum/
@@ -632,6 +642,7 @@ gorilka.ru/
 gorodok.bz/
 gorodovoy.ru/
 goskatalog.ru
+gosmonitor.ru
 gossov.tatarstan.ru/
 gosuslugi.ru
 goths.ru/tox/
@@ -750,6 +761,7 @@ kijanka.org/forum/
 kino.mail.ru/
 kinoafisha.info/
 kinonews.ru/
+kinonews.ru/
 kinopoisk.ru
 kion.ru/
 kiosks.ru/forum/
@@ -829,6 +841,7 @@ lkforum.ru/
 lki.ru/
 lk-mf.web-api.dom.ru
 log.rutube.ru
+log.strm.yandex.ru
 log.strm.yandex.ru
 lori.ru
 lsr.ru
@@ -923,6 +936,7 @@ msu.ru/
 mts.ru
 multiqr.ru
 multiqrpay.ru
+music-divkit.music.yandex.net
 mvideo.ru/
 my.games
 my300c.ru/forum/
@@ -1061,6 +1075,7 @@ polis-group.ru
 polosedan.ru/forum/
 popcornnews.ru/
 portal.mail.ru
+posthog.livelib.ru
 postnauka.org
 povar.ru/
 povarenok.ru/
@@ -1089,6 +1104,7 @@ primorsky.ru/
 priora-clyb.ru/
 priorovod.ru/
 priusforum.ru/forums/
+privacy-cs.mail.ru
 privacy-cs.mail.ru
 prizyvnik.info/
 prlib.ru
@@ -1161,6 +1177,7 @@ rosbalt.ru/
 rospotrebnadzor.ru
 rosreestr.ru
 rosstat.gov.ru
+rosstat.gov.ru/
 rostaxi.org
 rpgrussia.com/
 rsdn.org/forum/list
@@ -1187,8 +1204,11 @@ rwb.ru
 ryazan.gov.ru/
 rzd.ru
 rznoblduma.ru/
+s.livelib.ru
+s.livelib.ru
 s.rbk.ru
 s0.rbk.ru
+s1.livelib.ru
 s3.chipdip.ru
 s3.dzeninfra.ru
 saabclub.by/forum/
@@ -1286,6 +1306,7 @@ spigotmc.ru/
 sport24.ru/
 sportbox.ru/
 sportmaster.ru/
+sportmaster.ru/
 spread-wings.ru/phorum/
 spshka.ru/index.php?action=forum
 sptovarov.ru/
@@ -1302,10 +1323,12 @@ staraya-moneta.ru/forum/
 starexclub.ru/forum/
 start.practicum.yandex/
 start.ru/
+stat.sputnik.ru
 static.chipdip.ru
 static.dzeninfra.ru
 static.lemanapro.ru
 static.rtbcdn.ru
+static.stoloto.ru
 static-basket-01.wbbasket.ru
 static-mon.yandex.net
 static-storage.net
@@ -1444,6 +1467,7 @@ tatarstan.ru/
 tatspirtprom.ru/
 taxhelp.ru/forum/index.html
 tbank.ru/
+td.enplus.ru/
 teach-in.ru
 techinsider.ru/
 tech-mail.ru
@@ -1492,6 +1516,7 @@ turbopages.org
 turizmvnn.ru
 tutu.ru/
 tver.ru/
+u.livelib.ru
 uaz.ru/
 uazpatriot.ru/forum/
 ucoz.ru/
@@ -1506,6 +1531,7 @@ ulov.ru/forum/
 umschool.net
 unistroy.org
 unsorted.me/forum.php
+ura.news/
 uralweb.ru/
 uralweb.ru/
 urent.ru
@@ -1517,6 +1543,7 @@ ussurmedia.ru/
 u-zonta.ru
 uzsat.net/
 valday.com/forum/
+vashkontrol.ru
 vaz.ee/forum/
 vaz-2106.ru/forum/
 vd235.okcdn.ru
@@ -1617,7 +1644,6 @@ xc60-club.ru/xcforum/
 xcraft.ru/forum/
 xn--80atagjmciocf.xn--p1ai/
 xn--b1agapfwapgcl.xn--p1ai/
-xn--b1agapfwapgcl.xn--p1ai/
 xras.ru/
 xray.mail.ru
 ya.cc
@@ -1631,6 +1657,7 @@ yaplakal.com/
 yapokupayu.ru
 yarportal.ru/
 yarregion.ru/
+yastatic-net.ru
 ydaev.online/
 yudaevdesign.store/
 yudaevschool.ru/
@@ -1657,16 +1684,3 @@ zsperm.ru/
 zspk.gov.ru/
 zsro.ru/
 zsuo.ru/
-https://td.enplus.ru/
-https://static.stoloto.ru
-https://api.stoloto.ru
-https://rosstat.gov.ru/
-https://vashkontrol.ru
-https://stat.sputnik.ru
-https://cnt.sputnik.ru
-https://gosmonitor.ru
-https://www.fedstat.ru
-https://bs.serving-sys.ru
-https://dmp.sbermarketing.ru
-https://privacy-cs.mail.ru
-https://ext.clickstream.sberbank.ru
