@@ -1684,3 +1684,8 @@ zsperm.ru/
 zspk.gov.ru/
 zsro.ru/
 zsuo.ru/
+https://cdn10.vedomosti.ru
+https://cdn5.vedomosti.ru
+https://www.yuga.ru/
+https://img.yuga.ru
+https://st-ok.cdn-vk.ru
