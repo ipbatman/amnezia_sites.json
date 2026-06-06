@@ -202,6 +202,7 @@ cdn.api.domlenta.ru
 cdn.api.lenta.com
 cdn.kanobu.ru
 cdn.lemanapro.ru
+cdn.perxis.ru/
 cdn.sportmaster.ru
 cdn.uxfeedback.ru
 cdn1.ozonusercontent.com
@@ -729,6 +730,7 @@ image.sendsay.ru
 imageban.ru/
 img.hhcdn.ru
 img.imgsmail.ru
+img.perxis.ru 
 img.smi2.net
 img.yuga.ru
 imgs2.imgsmail.ru
@@ -1011,6 +1013,7 @@ nn.cian.ru/
 nn.dom.ru
 nn.ru
 nn.tns-e.ru/
+nnmotors-nn-haval.ru/
 nnov.kp.ru/
 nnov.ngounb.ru
 nnov.ru
@@ -1062,6 +1065,7 @@ otr-online.ru/
 ourtravels.ru/
 out-club.ru/board/
 overclockers.ru/
+overclockers.ru/
 owen.ru/forum/forum.php
 ozon.ru
 ozon-dostavka.ru
@@ -1083,6 +1087,7 @@ pddclub.ru/
 penta-club.ru/forum/
 perm.fas.gov.ru
 permkrai.ru/
+perxis-widgets.website.yandexcloud.net 
 pesikot.org/forum/
 pesiq.ru/forum/
 pet-help.ru/forum/
@@ -1171,6 +1176,7 @@ pskov.ru/
 pspx.ru/forum/index.php
 psychology.net.ru/talk/
 psy-ru.org/
+public.s7cdn.online
 puzyaka.ru/forum/
 pwonline.ru/forums/
 python.su/forum/
@@ -1233,6 +1239,7 @@ rosreestr.ru
 rosstat.gov.ru
 rosstat.gov.ru/
 rostaxi.org
+rotor.overclockers.ru
 rpgrussia.com/
 rs.mail.ru
 rs.mail.ru
@@ -1285,6 +1292,7 @@ s15.stc.yc.kpcdn.net
 s16.stc.yc.kpcdn.net
 s3.chipdip.ru
 s3.dzeninfra.ru
+s7.ru/
 saabclub.by/forum/
 saab-club.su/forum/
 saabnet.ru/forum/
@@ -1641,6 +1649,7 @@ vd738.okcdn.ru
 velosamara.ru/forum/
 vendbay.ru/index.php?action=forum
 verify.yandex.ru
+vestinn.ru/
 vestnik-sadovoda.ru/forum/
 vfokuse.mail.ru/
 viewfinder.ru/forum/
