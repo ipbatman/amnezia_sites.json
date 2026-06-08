@@ -111,6 +111,7 @@ auth.mail.ru
 auto.kolesa.ru
 auto.mail.ru/
 auto.ru/
+auto.ru/
 auto.yuga.ru/
 autoby.biz/forum/
 autocenter.uz/forum/
@@ -122,6 +123,7 @@ autopilot.ru/
 autopiter.ru
 autoreview.ru/
 auto-rostov.ru/
+autoru.static-storage.net/
 autosalons.ru/
 avatars.dzeninfra.ru
 avatars.mds.yandex.net
@@ -158,6 +160,7 @@ berforum.ru/
 berizaryad.ru
 bestfilez.net/forums/
 bezformata.com
+bfm.ru/
 bgforum.ru/
 bglife.ru/
 biketrials.ru/live/
@@ -200,6 +203,7 @@ cccp3d.ru/
 cdek.ru
 cdn.api.domlenta.ru
 cdn.api.lenta.com
+cdn.bfm.ru
 cdn.kanobu.ru
 cdn.lemanapro.ru
 cdn.perxis.ru/
@@ -211,6 +215,7 @@ cdn5.vedomosti.ru
 cdn-asset.ura.news
 cdn-b2c.dom.ru
 cdnfiles.rg.ru
+cdnn21.img.ria.ru
 cdn-rtb.sape.ru
 cdnstatic.rg.ru
 cdnvideo.ru/
@@ -394,6 +399,7 @@ fedstat.ru
 feeds.kommersant.ru
 fermer.ru/forum
 fialka.tomsk.ru/forum/
+files.1mi.media
 film.ru/
 finam.ru/
 finance.mail.ru/
@@ -639,6 +645,8 @@ gastronom.ru/
 gaz-24.com/forum/
 gaz69.ru/ipb/
 gazelleclub.ru/forum/
+gazeta.press
+gazeta.ru/
 gazprom.ru/
 gazprombank.ru/
 geely-motors.com/
@@ -728,6 +736,7 @@ il2.kubannet.ru/forum/
 ili-nnov.ru
 image.sendsay.ru
 imageban.ru/
+img.gazeta.ru
 img.hhcdn.ru
 img.imgsmail.ru
 img.perxis.ru 
@@ -1103,6 +1112,7 @@ php.ru/forum/
 phpbbguru.net/community/
 phpforum.su/
 pic.rtbcdn.ru
+pics.utro.ru
 pik.ru
 pikabu.ru
 planetaexcel.ru/forum/
@@ -1222,6 +1232,7 @@ rf-sp.ru/forum/
 rg.ru/
 rgp-forum.ru/
 ria.ru
+ria.ru/
 riafan.ru
 risografist.3bb.ru/
 rkomi.ru/
@@ -1233,6 +1244,7 @@ roads.ru/forum/
 rodim.ru/index.php
 rolf.ru
 romanticcollection.ru/forum/
+rosbalt.ru/
 rosbalt.ru/
 rospotrebnadzor.ru
 rosreestr.ru
@@ -1267,6 +1279,7 @@ rwb.ru
 ryazan.gov.ru/
 rzd.ru
 rznoblduma.ru/
+s.bfm.ru
 s.livelib.ru
 s.livelib.ru
 s.livelib.ru
@@ -1401,7 +1414,9 @@ sptovarov.ru/
 spvtomske.ru/forum/
 sravni.ru/
 sskkuban.ru
+sso.auto.ru
 ssp.rambler.ru
+st.avto.ru
 st.gogov.ru
 st.ozone.ru
 st.top100.ru
@@ -1415,6 +1430,7 @@ start.ru/
 stat.sputnik.ru
 static.chipdip.ru
 static.dzeninfra.ru
+static.gazeta.ru
 static.lemanapro.ru
 static.rtbcdn.ru
 static.santehnika-online.ru
@@ -1637,6 +1653,7 @@ ursa-tm.ru/forum/
 userapi.com
 user-storage-01bxc.wb.ru
 ussurmedia.ru/
+utro.ru/
 u-zonta.ru
 uzsat.net/
 valday.com/forum/
@@ -1691,6 +1708,7 @@ volgograd.ru/
 vologda-oblast.ru/
 volvocars.club/
 vorotaforum.ru/
+vp.rambler.ru
 vp-1.ozone.ru
 vremyan.ru/
 vrnoblduma.ru/
