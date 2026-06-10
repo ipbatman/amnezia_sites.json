@@ -1,6 +1,7 @@
 3dnews.ru/
 107klub.com/
 110km.ru/
+1tv.ru/
 3008club.ru/
 35412.ms.vk.com
 3deshnik.ru/forum/
@@ -22,6 +23,7 @@ a7.ru/
 abhazia.com/phpBB2/
 abrau.ru/
 abraudurso-studio.ru/
+abt.s3.yandex.net
 academ.club/
 accord-russia.ru/index.php
 ad.adriver.ru
@@ -41,6 +43,7 @@ adslclub.ru/forum/
 adygheya.ru/
 главалнр.рф/
 aeroflot.ru/
+agat-haval.ru/
 aif.ru/
 aif-s3.aif.ru
 aigenda.ru/
@@ -75,6 +78,7 @@ anekdot.ru/
 antara-club.ru/
 anti-malware.ru/
 aosd.ru/
+api.1tv.ru
 api.lemanapro.ru
 api.okcdn.ru
 api.plus.kinopoisk.ru
@@ -89,6 +93,7 @@ archi.ru
 archive.simpsons.org.ru/
 arduino.ru/forum
 artefact.culture.ru
+artlebedev.ru/
 artlebedev.ru/
 arzamas.academy
 as8.ru/forum/
@@ -115,6 +120,7 @@ auto.ru/
 auto.yuga.ru/
 autoby.biz/forum/
 autocenter.uz/forum/
+autocentr-haval.ru/
 Autodoc.ru
 autofill.yandex.ru
 autoforum.pro/
@@ -137,6 +143,8 @@ avito.st
 avo.ru/
 avtocharge.ru/
 avtogaz.ru/
+avtohous.ru/
+avtoliga-group.ru/
 avtomir.ru
 avtonovostidnya.ru/
 azbyka.ru/forum/
@@ -184,6 +192,7 @@ bormotuhi.net/
 bpclub.ru/
 brik.org/node/2
 bristol.ru/
+browser-updater.yandex.net
 brusnika.ru
 bryanskobl.ru/
 bs.serving-sys.ru
@@ -204,11 +213,15 @@ cdek.ru
 cdn.api.domlenta.ru
 cdn.api.lenta.com
 cdn.bfm.ru
+cdn.direct.i-dgtl.ru
 cdn.kanobu.ru
 cdn.lemanapro.ru
+cdn.perxis.ru
 cdn.perxis.ru/
+cdn.ren.tv
 cdn.sportmaster.ru
 cdn.uxfeedback.ru
+cdn.vesti.ru
 cdn1.ozonusercontent.com
 cdn10.vedomosti.ru
 cdn5.vedomosti.ru
@@ -218,6 +231,7 @@ cdnfiles.rg.ru
 cdnn21.img.ria.ru
 cdn-rtb.sape.ru
 cdnstatic.rg.ru
+cdn-storage-media.tass.ru
 cdnvideo.ru/
 cdnvideo.v.ozone.ru
 cedia-club.ru/forum/
@@ -379,6 +393,7 @@ emu-land.net/forum/
 epp.genproc.gov.ru/
 er.ru/
 ermolino-produkty.ru/
+err.lenta.ru
 err.lenta.ru
 etalongroup.ru
 eurasica.ru/forums/
@@ -725,6 +740,7 @@ i.gogov.ru
 i.hh.ru
 iamcook.ru/
 icdn.lenta.ru
+icdn.lenta.ru
 ichip.ru/
 icon-art.info/phpBB2/
 id.dom.ru
@@ -736,9 +752,11 @@ il2.kubannet.ru/forum/
 ili-nnov.ru
 image.sendsay.ru
 imageban.ru/
+img.artlebedev.ru
 img.gazeta.ru
 img.hhcdn.ru
 img.imgsmail.ru
+img.perxis.ru
 img.perxis.ru 
 img.smi2.net
 img.yuga.ru
@@ -754,6 +772,7 @@ ingos.ru
 ingrad.ru
 ingushetia.ru/
 inmyroom.ru/
+interfax.ru/
 interfax.ru/
 internet-technologies.ru/
 ipbmafia.ru/
@@ -781,6 +800,7 @@ joomlaforum.ru/
 joomla-support.ru/
 joyreactor.cc/
 js.gogov.ru
+jsn.24smi.net
 juke.ru/
 kad.arbitr.ru/
 kadrovik-praktik.ru/communication/forum/
@@ -839,6 +859,7 @@ kremlin.ru
 krestyanka.ru/
 krskforum.com/
 krskstate.ru/
+ktv-ray.ru/
 kubikus.ru/forum/
 kubnews.ru/
 kubzsk.ru/
@@ -866,10 +887,12 @@ laparfumerie.org/
 lapsha.media/
 lasers.org.ru/forum/
 lavka.yandex.ru/
+lcab.talk-me.ru
 lektorium.tv/
 lemanapro.ru/
 lenobl.ru/
 lenoblzaks.ru/
+lenta.ru/
 level.ru
 library.fa.ru/
 lider-group.ru
@@ -891,6 +914,7 @@ lk-mf.web-api.dom.ru
 log.rutube.ru
 log.strm.yandex.ru
 log.strm.yandex.ru
+login.artlebedev.ru
 lori.ru
 lsr.ru
 ltdfoto.ru/
@@ -937,6 +961,7 @@ meta.hostingradio.ru
 metalrus.ru/forum/
 meteoinfo.ru
 meteum.ai
+metricus.artlebedev.ru
 metrika.yandex.ru
 metronn.ru/
 mid.ru/
@@ -962,6 +987,7 @@ m-nn.tsargrad.tv/
 mnogodetok.ru/
 mobileproxy.passport.yandex.net
 mobile-review.com/
+mod.calltouch.ru
 mod.calltouch.ru
 modern-talking.su/forum.html
 moex.com
@@ -1008,6 +1034,7 @@ netlab.e2k.ru/forum/
 neuroleptic.ru/forum/
 newizv.ru/
 newmap.nn-invest.ru
+news.gnezdo.ru
 news.gnezdo.ru
 newxboxone.ru/
 nfs-nl.ru/
@@ -1133,6 +1160,7 @@ pokupki21.ru/
 polis-group.ru
 polosedan.ru/forum/
 popcornnews.ru/
+popcornnews.ru/
 portal.mail.ru
 portal.mail.ru
 posthog.livelib.ru
@@ -1222,6 +1250,7 @@ redwhite.ru/rw-forum/
 reg.ru/
 regforum.ru/forum/
 regions.ru/
+ren.tv/
 ren.tv/
 resizer.mail.ru
 retail.ru/
@@ -1414,6 +1443,7 @@ sptovarov.ru/
 spvtomske.ru/forum/
 sravni.ru/
 sskkuban.ru
+sso.artlebedev.ru
 sso.auto.ru
 ssp.rambler.ru
 st.avto.ru
@@ -1428,6 +1458,7 @@ starexclub.ru/forum/
 start.practicum.yandex/
 start.ru/
 stat.sputnik.ru
+static.1tv.ru
 static.chipdip.ru
 static.dzeninfra.ru
 static.gazeta.ru
@@ -1567,12 +1598,14 @@ sysadmins.ru/
 tabsbook.ru
 tadviser.ru/
 tag.digitaltarget.ru
+tag.digitaltarget.ru
 taimyr24.ru/
 talan.ru 
 tambov.gov.ru/
 tamtam.chat
 tantana.su/
 tapochek.net/
+tass.ru/
 tatarstan.ru/
 tatspirtprom.ru/
 taxhelp.ru/forum/index.html
@@ -1630,6 +1663,7 @@ tutu.ru/
 tver.ru/
 u.livelib.ru
 u.livelib.ru
+uaas.yandex.ru
 uaz.ru/
 uazpatriot.ru/forum/
 ucoz.ru/
@@ -1656,6 +1690,7 @@ ussurmedia.ru/
 utro.ru/
 u-zonta.ru
 uzsat.net/
+v1.popcornnews.ru
 valday.com/forum/
 vashkontrol.ru
 vaz.ee/forum/
@@ -1666,9 +1701,11 @@ vd738.okcdn.ru
 velosamara.ru/forum/
 vendbay.ru/index.php?action=forum
 verify.yandex.ru
+vesti.ru/
 vestinn.ru/
 vestnik-sadovoda.ru/forum/
 vfokuse.mail.ru/
+vgtrk.ru/
 viewfinder.ru/forum/
 vino.ru/
 vistaclub.ru/forum/
@@ -1708,6 +1745,7 @@ volgograd.ru/
 vologda-oblast.ru/
 volvocars.club/
 vorotaforum.ru/
+vp.rambler.ru
 vp.rambler.ru
 vp-1.ozone.ru
 vremyan.ru/
