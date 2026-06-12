@@ -13,6 +13,7 @@
 4wd.ru/forum/
 4x4.tomsk.ru/
 531211.ms.dzen.ru
+5koleso.ru/
 62live.ru/
 66.ru/
 75.ru/
@@ -214,6 +215,7 @@ cdn.api.domlenta.ru
 cdn.api.lenta.com
 cdn.bfm.ru
 cdn.direct.i-dgtl.ru
+cdn.hsmedia.ru
 cdn.kanobu.ru
 cdn.lemanapro.ru
 cdn.perxis.ru
@@ -224,6 +226,7 @@ cdn.uxfeedback.ru
 cdn.vesti.ru
 cdn1.ozonusercontent.com
 cdn10.vedomosti.ru
+cdn2-static.ntv.ru
 cdn5.vedomosti.ru
 cdn-asset.ura.news
 cdn-b2c.dom.ru
@@ -433,6 +436,7 @@ floralworld.ru/forum/
 floristic.ru/forum/
 flowersweb.info/forum/
 fluence-club.ru/forum/index.php
+fontanka.ru/
 food.ru/
 ford-trucks.club/
 forester.club/forums/
@@ -738,6 +742,7 @@ hv-info.ru/gepatit-forum/
 hyperauto.ru
 i.gogov.ru
 i.hh.ru
+i.uralweb.ru
 iamcook.ru/
 icdn.lenta.ru
 icdn.lenta.ru
@@ -767,6 +772,7 @@ im-konsalting.ru/
 imtw.ru/
 info.2gis.ru
 info-forum.ru/
+informer.yandex.ru
 infrance.su/forum/
 ingos.ru
 ingrad.ru
@@ -788,6 +794,7 @@ iv.kommersant.ru
 iv.okcdn.ru
 ivanovoobl.ru/
 ivi.tv/
+j.uralweb.ru
 jaccar.ru/
 japan-sumo.ru/forum/
 jeep4x4club.ru/forums/
@@ -930,6 +937,8 @@ magnit.ru
 magoblduma.ru/
 mail.ru
 major-auto.ru
+maly.iui.ubsystem.ru
+maly.ru/
 mamochki22.ru/forum/
 maps.litera-ru.ru
 maps-yandex-ru.naydex.net
@@ -1047,6 +1056,7 @@ niver.ru/index.php
 nkj.ru/forum/
 nn.cian.ru/
 nn.dom.ru
+nn.rbc.ru/
 nn.ru
 nn.tns-e.ru/
 nnmotors-nn-haval.ru/
@@ -1064,11 +1074,13 @@ nso.ru/
 nspk.ru
 nsrd.ru/
 ntv.ru/
+ntv.ru/
 nulled.cc/
 o001oo.ru/
 o3.ru
 o3t.ru
 o3team.ru
+oboz.info/
 odkl.ru
 ogoa.ru/
 ohranatruda.ru/ot_forum/
@@ -1129,6 +1141,7 @@ pesiq.ru/forum/
 pet-help.ru/forum/
 pg12.ru/
 pg21.ru/
+pg21.ru/ 
 pgu.rk08.ru/
 phantom.sannata.org/
 phorum.armavir.ru/
@@ -1242,6 +1255,7 @@ ratclub.spb.ru/forum/
 rating-avtosalon.ru/
 ratmania.ru/forum/
 rbc.ru
+rbc.ru/
 rbcrealty.ru
 reallystory.mininuniver.ru/
 reddit.com
@@ -1313,6 +1327,8 @@ s.livelib.ru
 s.livelib.ru
 s.livelib.ru
 s.rbk.ru
+s.rbk.ru
+s0.rbk.ru
 s0.rbk.ru
 s01.stc.yc.kpcdn.net
 s02.stc.yc.kpcdn.net
@@ -1334,6 +1350,7 @@ s15.stc.yc.kpcdn.net
 s16.stc.yc.kpcdn.net
 s3.chipdip.ru
 s3.dzeninfra.ru
+s3.wi-fi.ru
 s7.ru/
 saabclub.by/forum/
 saab-club.su/forum/
@@ -1450,6 +1467,7 @@ st.avto.ru
 st.gogov.ru
 st.ozone.ru
 st.top100.ru
+st.uralweb.ru
 st.vk.com
 st.vkvideo.ru
 stalker-portal.ru/forums
@@ -1460,6 +1478,7 @@ start.ru/
 stat.sputnik.ru
 static.1tv.ru
 static.chipdip.ru
+static.dev.maly.ru
 static.dzeninfra.ru
 static.gazeta.ru
 static.lemanapro.ru
@@ -1468,6 +1487,7 @@ static.santehnika-online.ru
 static.smi2.net
 static.stoloto.ru
 static1-repo.aif.ru
+static2.ntv.ru
 static-basket-01.wbbasket.ru
 static-mon.yandex.net
 static-storage.net
@@ -1679,6 +1699,7 @@ umschool.net
 unistroy.org
 unsorted.me/forum.php
 ura.news/
+uralweb.ru/
 uralweb.ru/
 uralweb.ru/
 urent.ru
