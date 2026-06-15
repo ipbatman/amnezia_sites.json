@@ -185,6 +185,7 @@ bmwstyle.ru/forum/
 bnkomi.ru/
 board.german242.com/
 boatclub.ru/
+bolshoi.ru/
 bombler.ru/
 bonforum.com/
 Bookasutp.ru
@@ -309,12 +310,14 @@ cryptopro.ru/forum2/
 cs.avito.ru
 csp.yandex.net
 cube-club.ru/forum/
+culturaltracking.ru
 cvr-bogorodsk.edusite.ru/
 cx.podolsk.ru/board/
 cxhub.ru
 cyberforum.ru/
 daewooclub.ru/daewoo-forum/
 darkside.ru/forum/
+data.nalog.ru
 delimobil.ru
 delivery-bt.wildberries.ru
 desantura.ru/forum/
@@ -1034,6 +1037,7 @@ mysbertips.ru
 myspar.ru/
 myzafira.ru/forum/index.php
 nacekomie.ru/forum/
+nalog.gov.ru
 nalog.ru
 nashtransport.ru/forums/
 nastej.org/forum/
@@ -1176,6 +1180,7 @@ popcornnews.ru/
 popcornnews.ru/
 portal.mail.ru
 portal.mail.ru
+pos.gosuslugi.ru
 posthog.livelib.ru
 posthog.livelib.ru
 postnauka.org
@@ -1400,6 +1405,7 @@ semena-sibsad.ru/
 semerkainfo.ru/forum/
 semlepestkov.ru
 sentry.inmyroom.pro
+sentry.xn--80ahmohdapg.xn--80asehdb
 serjik.ru/forum/
 serverspace.ru/
 sevastopolmedia.ru/
@@ -1486,6 +1492,7 @@ static.rtbcdn.ru
 static.santehnika-online.ru
 static.smi2.net
 static.stoloto.ru
+static.yoomoney.ru
 static1-repo.aif.ru
 static2.ntv.ru
 static-basket-01.wbbasket.ru
@@ -1714,6 +1721,7 @@ uzsat.net/
 v1.popcornnews.ru
 valday.com/forum/
 vashkontrol.ru
+vashkontrol.ru
 vaz.ee/forum/
 vaz-2106.ru/forum/
 vd235.okcdn.ru
@@ -1835,6 +1843,7 @@ yarportal.ru/
 yarregion.ru/
 yastatic-net.ru
 ydaev.online/
+yoomoney.ru
 yudaevdesign.store/
 yudaevschool.ru/
 yudaevschool24.shop/
@@ -1861,12 +1870,3 @@ zsperm.ru/
 zspk.gov.ru/
 zsro.ru/
 zsuo.ru/
-https://www.bolshoi.ru/
-https://culturaltracking.ru
-https://sentry.xn--80ahmohdapg.xn--80asehdb
-https://www.nalog.gov.ru
-https://data.nalog.ru
-https://vashkontrol.ru
-https://static.yoomoney.ru
-https://yoomoney.ru
-https://pos.gosuslugi.ru
