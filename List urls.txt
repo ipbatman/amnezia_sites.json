@@ -226,6 +226,7 @@ cdn.sportmaster.ru
 cdn.uxfeedback.ru
 cdn.vesti.ru
 cdn1.ozonusercontent.com
+cdn1.ozonusercontent.com
 cdn10.vedomosti.ru
 cdn2-static.ntv.ru
 cdn5.vedomosti.ru
@@ -238,6 +239,7 @@ cdnstatic.rg.ru
 cdn-storage-media.tass.ru
 cdnvideo.ru/
 cdnvideo.v.ozone.ru
+cdnvideo.v.ozone.ru 
 cedia-club.ru/forum/
 celica-club.ru/board/
 cells.ru/forum/
@@ -787,6 +789,7 @@ internet-technologies.ru/
 ipbmafia.ru/
 ipbskins.ru/forums/
 iphones.ru/
+ir.ozone.ru
 ir-3.ozone.ru
 irecommend.ru/
 irkobl.ru/
@@ -1435,6 +1438,7 @@ smu6.ru
 snob.ru/
 snowmobile.ru/forum/index.php
 soborno.ru/
+sobory.ru/
 softboard.ru/
 software-testing.ru/forum/
 solaris-agat-nn.ru/
@@ -1471,6 +1475,7 @@ sso.auto.ru
 ssp.rambler.ru
 st.avto.ru
 st.gogov.ru
+st.ozone.ru
 st.ozone.ru
 st.top100.ru
 st.uralweb.ru
@@ -1619,6 +1624,7 @@ supcourt.ru
 supra-club.ru/board/
 suradmin.ru/
 sushi-karate.ru/
+suzdalrest.ru/
 suzuki-club.ru/
 swadba.by/forum/
 sysadmins.ru/
