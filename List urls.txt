@@ -134,6 +134,7 @@ autoru.static-storage.net/
 autosalons.ru/
 avatars.dzeninfra.ru
 avatars.mds.yandex.net
+avatars.mds.yandex.net
 avensis-club.ru/forum/
 avia.tutu.ru/
 aviaforum.ru/
@@ -417,6 +418,7 @@ fanagoria.ru/
 fanfishka.ru/forum/
 fantlab.ru/forum
 fas.gov.ru
+favicon.yandex.net
 fedstat.ru
 fedstat.ru
 feeds.kommersant.ru
@@ -942,6 +944,7 @@ magia-frpg.ru/
 magnit.ru
 magoblduma.ru/
 mail.ru
+mail.yandex.ru
 major-auto.ru
 maly.iui.ubsystem.ru
 maly.ru/
@@ -960,6 +963,7 @@ mauforum.ru/
 max.ru/
 mazda-auto.ru/index.php
 mbclub.ru/
+mc.yandex.ru
 mc.yandex.ru
 mcdn.imgsmail.ru
 mchs.gov.ru
@@ -1236,6 +1240,7 @@ pspx.ru/forum/index.php
 psychology.net.ru/talk/
 psy-ru.org/
 public.s7cdn.online
+push.yandex.ru
 puzyaka.ru/forum/
 pwonline.ru/forums/
 python.su/forum/
@@ -1274,6 +1279,7 @@ regforum.ru/forum/
 regions.ru/
 ren.tv/
 ren.tv/
+resize.yandex.net
 resizer.mail.ru
 retail.ru/
 retromap.ru
@@ -1623,6 +1629,7 @@ sun9-99.userapi.com
 supcourt.ru
 supra-club.ru/board/
 suradmin.ru/
+surveys.yandex.ru
 sushi-karate.ru/
 suzdalrest.ru/
 suzuki-club.ru/
@@ -1847,6 +1854,8 @@ yaplakal.com/
 yapokupayu.ru
 yarportal.ru/
 yarregion.ru/
+yastatic.net
+yastatic.net
 yastatic-net.ru
 ydaev.online/
 yoomoney.ru
