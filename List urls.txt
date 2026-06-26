@@ -150,6 +150,7 @@ avtoliga-group.ru/
 avtomir.ru
 avtonovostidnya.ru/
 azbyka.ru/forum/
+b.efind.ru
 b17.ru/forum/
 b2.mail.ru
 bank.yuga.ru/
@@ -372,6 +373,7 @@ e.mail.ru
 e1.ru/
 e30club.ru/forum/
 e34.su/forum/
+eandc.ru/
 eao.ru/
 earth-chronicles.ru/
 ecigtalk.org/forum/
@@ -383,6 +385,7 @@ e-disclosure.ru/
 edu.gounn.ru/
 edu.sravni.ru/
 липецка€область.рф/
+efind.ru/
 efl-forum.ru/boards/
 egida.by/forum/
 egov-buryatia.ru/
@@ -1056,6 +1059,7 @@ newizv.ru/
 newmap.nn-invest.ru
 news.gnezdo.ru
 news.gnezdo.ru
+new-science.ru/
 newxboxone.ru/
 nfs-nl.ru/
 ngenix.net/
@@ -1112,6 +1116,7 @@ oneme.ru
 online.metro-cc.ru/
 opc-club.ru/vb/
 openedu.ru
+opennet.ru/
 opennet.ru/
 oppozit.ru/forum
 optimaclub.ru/
@@ -1172,6 +1177,7 @@ platimultiqr.ru
 platiqr.ru
 playground.ru
 playtruck.2bb.ru/
+pluggedin.ru/
 pluggedin.ru/
 pnzreg.ru/
 pobeda-club.ru/
@@ -1417,6 +1423,7 @@ sentry.inmyroom.pro
 sentry.xn--80ahmohdapg.xn--80asehdb
 serjik.ru/forum/
 serverspace.ru/
+sevastopol.su/
 sevastopolmedia.ru/
 sevastopolmedia.ru/
 sferum-dev.ru
@@ -1497,8 +1504,10 @@ static.1tv.ru
 static.chipdip.ru
 static.dev.maly.ru
 static.dzeninfra.ru
+static.efind.ru
 static.gazeta.ru
 static.lemanapro.ru
+static.me-talk.ru
 static.rtbcdn.ru
 static.santehnika-online.ru
 static.smi2.net
@@ -1728,6 +1737,7 @@ ursa-tm.ru/forum/
 userapi.com
 user-storage-01bxc.wb.ru
 ussurmedia.ru/
+ut.efind.ru
 utro.ru/
 u-zonta.ru
 uzsat.net/
@@ -1803,6 +1813,7 @@ vw-bus.ru/
 vw-golfclub.ru/forum/
 vwts.ru/forum/
 vyshyvanka.ucoz.ru/forum/
+vzpp-s.ru/
 warbirds.tomsk.ru/phpBB3/
 wasm.in/
 wb.ru
