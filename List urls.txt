@@ -210,6 +210,7 @@ carina-e.ru/
 carper.su/forum/forum.php
 carsweek.ru/
 casp-geo.ru/
+catalog.api.2gis.ru 
 catgallery.ru/forums/
 caves.ru/
 cbr.ru
@@ -336,6 +337,7 @@ diesel.elcat.kg/
 digital.rk08.ru/
 digitalocean.ru/
 diorama.ru/forum/
+disk.2gis.com
 distschool.ru/
 dmp.sbermarketing.ru
 dnevnik.ru/
@@ -351,6 +353,7 @@ domostroynn.ru/
 donland.ru/
 donstroy.moscow
 dota2.ru/forum/
+download.2gis.com/
 dp.ru/
 drom.ru
 dront.ru/
@@ -752,6 +755,8 @@ hondamotor.ru/board/index.php?act=idx
 horist.ru/forum/
 hosting-russia.ru
 hranidengi.com/
+hstatic.2gis.com
+hstatic.2gis.com
 huggingface.co
 hummerclubrus.ru/index.php?forums/
 huralrk.ru/
@@ -786,6 +791,7 @@ imho.ws/
 im-konsalting.ru/
 imtw.ru/
 info.2gis.ru
+info.2gis.ru
 info-forum.ru/
 informer.yandex.ru
 infrance.su/forum/
@@ -812,6 +818,7 @@ ivanovoobl.ru/
 ivi.tv/
 j.uralweb.ru
 jaccar.ru/
+jam.api.2gis.com 
 japan-sumo.ru/forum/
 jeep4x4club.ru/forums/
 jeep-forum.ru/forum/
@@ -959,6 +966,7 @@ major-auto.ru
 maly.iui.ubsystem.ru
 maly.ru/
 mamochki22.ru/forum/
+mapgl.2gis.com
 maps.litera-ru.ru
 maps-yandex-ru.naydex.net
 marathonec.ru/
@@ -1014,6 +1022,7 @@ m-nn.tsargrad.tv/
 mnogodetok.ru/
 mobileproxy.passport.yandex.net
 mobile-review.com/
+mobile-weather.api.2gis.ru
 mod.calltouch.ru
 modern-talking.su/forum.html
 moex.com
@@ -1351,6 +1360,7 @@ s06.stc.yc.kpcdn.net
 s07.stc.yc.kpcdn.net
 s08.stc.yc.kpcdn.net
 s09.stc.yc.kpcdn.net
+s1.bss.2gis.com
 s1.livelib.ru
 s10.stc.yc.kpcdn.net
 s11.stc.yc.kpcdn.net
@@ -1644,6 +1654,7 @@ swadba.by/forum/
 sysadmins.ru/
 tabsbook.ru
 tadviser.ru/
+tag.a.mts.ru
 tag.digitaltarget.ru
 tag.digitaltarget.ru
 taimyr24.ru/
@@ -1677,6 +1688,10 @@ tforum.uz/
 theblueprint.ru/
 thg.ru/
 thumb.cloud.mail.ru
+tile0.maps.2gis.com
+tile1.maps.2gis.com
+tile2.maps.2gis.com
+tile3.maps.2gis.com
 timeweb.com/
 tns-counter.ru
 tns-counter.ru
@@ -1861,7 +1876,6 @@ xn--80atagjmciocf.xn--p1ai/
 xn--b1agapfwapgcl.xn--p1ai/
 xras.ru/
 xray.mail.ru
-xray.mail.ru
 ya.cc
 ya.ru
 yaklass.ru
@@ -1874,12 +1888,9 @@ yapokupayu.ru
 yarportal.ru/
 yarregion.ru/
 yastatic.net
-yastatic.net
-yastatic.net
 yastatic-net.ru
 ydaev.online/
 yoomoney.ru
-yoomoney.ru/
 yudaevdesign.store/
 yudaevschool.ru/
 yudaevschool24.shop/
