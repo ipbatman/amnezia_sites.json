@@ -83,6 +83,7 @@ api.1tv.ru
 api.lemanapro.ru
 api.okcdn.ru
 api.plus.kinopoisk.ru
+api.smartik.ru
 api.stoloto.ru
 api.vc.ru 
 api.vk.com
@@ -100,6 +101,7 @@ arzamas.academy
 as8.ru/forum/
 ascon-spb.ru/
 aspirantura.spb.ru/forum/
+assets.photar.ru
 assets-prod.inmyroom.ru
 astraclub.ru/forum.php
 astrobl.ru/
@@ -203,6 +205,7 @@ bvf.ru/forum/
 calltouch.ru/
 cap.ru/
 car72.ru/forum/
+card-oil.ru/
 carina-e.ru/
 carper.su/forum/forum.php
 carsweek.ru/
@@ -214,10 +217,13 @@ cccp3d.ru/
 cdek.ru
 cdn.api.domlenta.ru
 cdn.api.lenta.com
+cdn.apiweb.rolf.ru
+cdn.apiweb.rolf.ru/
 cdn.bfm.ru
 cdn.direct.i-dgtl.ru
 cdn.hsmedia.ru
 cdn.kanobu.ru
+cdn.kod.ru 
 cdn.lemanapro.ru
 cdn.perxis.ru
 cdn.perxis.ru/
@@ -425,6 +431,7 @@ feeds.kommersant.ru
 fermer.ru/forum
 fialka.tomsk.ru/forum/
 files.1mi.media
+film.ru/
 film.ru/
 finam.ru/
 finance.mail.ru/
@@ -683,6 +690,7 @@ getz-club.ru/forum/
 gipernn.ru/
 gisclub.tv/
 gismeteo.ru/
+gismeteo.ru/
 gk-mic.ru
 gk-usi.ru
 glava.kbr.ru/
@@ -772,6 +780,7 @@ img.imgsmail.ru
 img.perxis.ru
 img.smi2.net
 img.yuga.ru
+img.zr.ru
 imgs2.imgsmail.ru
 imho.ws/
 im-konsalting.ru/
@@ -798,6 +807,7 @@ irkutskmedia.ru/
 irzs.ru/
 iv.kommersant.ru
 iv.okcdn.ru
+iv.okcdn.ru 
 ivanovoobl.ru/
 ivi.tv/
 j.uralweb.ru
@@ -849,6 +859,7 @@ klavogonki.ru/forum/
 klem.ru/forum/
 klyachin.ru/forum/
 kmpforum.online/
+kod.ru/
 kod.ru/
 kolesa-darom.ru
 kommersant.ru/
@@ -928,6 +939,7 @@ lknpd.nalog.ru/
 log.rutube.ru
 log.strm.yandex.ru
 login.artlebedev.ru
+logistics.ru/
 lori.ru
 lsr.ru
 ltdfoto.ru/
@@ -1070,6 +1082,7 @@ nnov.kp.ru/
 nnov.ngounb.ru
 nnov.ru
 node6.vito.sber.ru
+node-sber1-az1-24.jivo.ru
 nosmoking.ru/phpBB2/
 notdrink.ru/
 novocherkassk.net/
@@ -1092,6 +1105,7 @@ ogoa.ru/
 ohranatruda.ru/ot_forum/
 ok.me
 ok.ru
+oka.fm/
 oka.fm/
 okcdn.ru
 okko.tv/
@@ -1151,6 +1165,7 @@ pgu.rk08.ru/
 phantom.sannata.org/
 phorum.armavir.ru/
 photar.ru
+photar.ru/
 photo-monster.ru/forum/
 Photoshare.ru
 php.ru/forum/
@@ -1288,6 +1303,7 @@ rmmedia.ru/
 roads.ru/forum/
 rodim.ru/index.php
 rolf.ru
+rolf.ru
 romanticcollection.ru/forum/
 rosbalt.ru/
 rospotrebnadzor.ru
@@ -1410,12 +1426,14 @@ simferopol.in/
 simplemachines.ru/
 simplewine.ru/
 simpsons.org.ru/
+site.yandex.net
 sitecdn.api.domlenta.ru
 skillfactory.ru/
 smailru.net
 small-aqua.ru/forum/
 smallcar.ru/talk/
 smartcaptcha.cloud.yandex.ru
+smartik.ru/
 smart-lab.ru
 s-maxclub.ru/forum/
 smeshariki-mir.ru/forum/
@@ -1460,6 +1478,7 @@ sso.artlebedev.ru
 sso.auto.ru
 ssp.rambler.ru
 st.avto.ru
+st.gismeteo.st
 st.gogov.ru
 st.ozone.ru
 st.ozone.ru
@@ -1480,6 +1499,7 @@ static.dev.maly.ru
 static.dzeninfra.ru
 static.efind.ru
 static.gazeta.ru
+static.kod.ru
 static.lemanapro.ru
 static.me-talk.ru
 static.rtbcdn.ru
@@ -1572,6 +1592,7 @@ sun9-61.userapi.com
 sun9-62.userapi.com
 sun9-63.userapi.com
 sun9-64.userapi.com
+sun9-64.vkuserphoto.ru
 sun9-65.userapi.com
 sun9-66.userapi.com
 sun9-67.userapi.com
@@ -1595,6 +1616,7 @@ sun9-82.userapi.com
 sun9-83.userapi.com
 sun9-84.userapi.com
 sun9-85.userapi.com
+sun9-85.vkuserphoto.ru 
 sun9-86.userapi.com
 sun9-87.userapi.com
 sun9-88.userapi.com
@@ -1874,6 +1896,7 @@ znanierussia.ru/
 zo.gov.ru/
 zonazakona.ru/forum/
 zoon.ru/
+zr.ru/
 zr.ru/
 zsamur.ru/
 zskaluga.ru/
