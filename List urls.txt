@@ -92,6 +92,7 @@ appleinsider.ru/
 appsmail.ru
 apptracer.ru
 aqa.ru/forum/
+archaeolog.ru/
 archi.ru
 archive.simpsons.org.ru/
 arduino.ru/forum
@@ -303,6 +304,7 @@ consultant29.ru/
 content-watch.ru/
 coop-land.ru/
 copy-club.ru/
+core-renderer-tiles.maps.yandex.net 
 core-renderer-tiles.maps.yandex.ru
 corpblog.ostrovok.ru/
 council.gov.ru
@@ -1429,6 +1431,7 @@ sferum-dev.ru
 shakhty-media.ru/
 shedevrum.ai
 shipmodeling.ru/phpbb/
+shm.ru/
 shophelp.ru/forum/
 sign-forum.ru/
 silver.ru/
