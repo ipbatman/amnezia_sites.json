@@ -27,10 +27,8 @@ abhazia.com/phpBB2/
 abrau.ru/
 abraudurso-studio.ru/
 abt.s3.yandex.net
-abt.s3.yandex.net/
 academ.club/
 accord-russia.ru/index.php
-acdn.t-static.ru 
 acdn.t-static.ru 
 ad.adriver.ru
 ad.mail.ru
@@ -427,6 +425,7 @@ ermolino-produkty.ru/
 err.lenta.ru
 error-hub.tinkoff.ru 
 esa-res.online.sberbank.ru
+esia.gosuslugi.ru
 etalongroup.ru
 etomesto.ru/
 eurasica.ru/forums/
@@ -729,6 +728,7 @@ goskatalog.ru/
 gosmonitor.ru
 gossov.tatarstan.ru/
 gosuslugi.ru
+gosuslugi.ru/
 goths.ru/tox/
 gov.karelia.ru/
 gov.khogov.ru/
@@ -748,6 +748,7 @@ gubernator.zo.gov.ru/
 gubernator74.ru/
 guitar.by
 guitarplayer.ru/
+gu-st.ru
 gu-st.ru
 hamkke.borda.ru/
 haval.ru/
