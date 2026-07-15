@@ -1950,3 +1950,6 @@ zsperm.ru/
 zspk.gov.ru/
 zsro.ru/
 zsuo.ru/
+https://rutracker.org
+https://rutor.is/
+https://rutor.info/
