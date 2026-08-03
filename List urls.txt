@@ -212,6 +212,7 @@ car72.ru/forum/
 card-oil.ru/
 carina-e.ru/
 carper.su/forum/forum.php
+cars.solaris-agat-nn.ru/
 carsweek.ru/
 casp-geo.ru/
 catalog.api.2gis.ru 
@@ -788,6 +789,7 @@ ichip.ru/
 icon-art.info/phpBB2/
 id.dom.ru
 id.sber.ru
+id.tbank.ru
 identity.kp.house
 iguides.ru/
 iimg.su/
@@ -1001,6 +1003,7 @@ mauforum.ru/
 max.ru/
 mazda-auto.ru/index.php
 mbclub.ru/
+mbukckschkalovsk.ru/
 mc.yandex.ru
 mcdn.imgsmail.ru
 mchs.gov.ru
@@ -1365,6 +1368,9 @@ russianfood.com/
 russian-hockey.ru/forum/
 russianitaly.com/forum/
 rustore.ru/
+rutor.info/
+rutor.is/
+rutracker.org
 rutube.ru
 rv.mail.ru
 rwb.ru
@@ -1531,6 +1537,7 @@ start.practicum.yandex/
 start.ru/
 stat.sputnik.ru
 static.1tv.ru
+static.calltouch.ru
 static.chipdip.ru
 static.dev.maly.ru
 static.dzeninfra.ru
@@ -1709,6 +1716,7 @@ tehnoomsk.ru/
 telemetry.dzen.ru
 tele-satinfo.ru/forumru/
 teleserial.com/
+tenet.ru/
 test.rutube.ru
 testcopy.ru/forum/
 tetrika-school.ru
@@ -1756,6 +1764,7 @@ turbopages.org
 turizmvnn.ru
 tutu.ru/
 tver.ru/
+twentysix.ru/
 u.livelib.ru
 u.livelib.ru
 uaas.yandex.ru
@@ -1950,10 +1959,3 @@ zsperm.ru/
 zspk.gov.ru/
 zsro.ru/
 zsuo.ru/
-https://rutracker.org
-https://rutor.is/
-https://rutor.info/
-https://twentysix.ru/
-http://mbukckschkalovsk.ru/
-https://tenet.ru/
-https://static.calltouch.ru
