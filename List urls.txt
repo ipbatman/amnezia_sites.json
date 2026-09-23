@@ -42,6 +42,7 @@ admoblkaluga.ru/
 admrzn.ru/
 admtyumen.ru/
 ads.adfox.ru
+ads.vk.com
 adslclub.ru/forum/
 adygheya.ru/
 главалнр.рф/
@@ -329,6 +330,7 @@ crimea-board.net/index.php
 cr-v.su/forums/
 cryptopro.ru/forum2/
 cs.avito.ru
+cs9-11v4.vkuseraudio.ru
 csp.yandex.net
 cube-club.ru/forum/
 culturaltracking.ru
@@ -974,6 +976,7 @@ log.api-maps.yandex.ru
 log.rutube.ru
 log.strm.yandex.ru
 login.artlebedev.ru
+login.vk.ru
 logistics.ru/
 lori.ru
 lsr.ru
