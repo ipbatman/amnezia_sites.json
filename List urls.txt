@@ -30,6 +30,7 @@ abt.s3.yandex.net
 academ.club/
 accord-russia.ru/index.php
 acdn.t-static.ru 
+acollector.wb.ru
 ad.adriver.ru
 ad.mail.ru
 adm44.ru/
@@ -260,6 +261,7 @@ cedia-club.ru/forum/
 celica-club.ru/board/
 cells.ru/forum/
 changanauto.ru/
+chat.wildberries.ru
 chayka.org.ru/forum/
 chechnya.gov.ru/
 checks.botfaqtor.ru
@@ -979,6 +981,7 @@ login.artlebedev.ru
 login.vk.ru
 logistics.ru/
 lori.ru
+loyalty-balances.wildberries.ru
 lsr.ru
 ltdfoto.ru/
 lytkarino.info/forum/
@@ -1802,6 +1805,8 @@ urent.ru
 urgens-nn.su/
 ursa-tm.ru/forum/
 userapi.com
+user-features.wb.ru
+user-storage-01.wb.ru
 user-storage-01bxc.wb.ru
 ussurmedia.ru/
 ut.efind.ru
@@ -1894,6 +1899,7 @@ wbbasket.ru
 wbdevel.net
 wbpay.ru
 wbstatic.net
+wbx-bell-v3.wildberries.ru
 wciom.ru/
 web2web.tbank.ru 
 web-api.dom.ru
