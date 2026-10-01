@@ -1640,6 +1640,7 @@ st.uralweb.ru
 st.vk.com
 st.vk.ru
 st.vkvideo.ru
+st1-18.vk.ru
 stalker-portal.ru/forums
 staraya-moneta.ru/forum
 starexclub.ru/forum
@@ -1882,6 +1883,7 @@ tile1.maps.2gis.com
 tile2-sdk.maps.2gis.com
 tile2.maps.2gis.com
 tile3.maps.2gis.com
+tiles.api-maps.yandex.ru
 timeweb.com
 tns-counter.ru
 tochek.net
