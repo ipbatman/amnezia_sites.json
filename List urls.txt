@@ -92,6 +92,7 @@ altai-republic.ru
 altairegion22.ru
 alternathistory.ru
 altfishing-club.ru/index
+amc.yandex.ru
 amd.online
 amediateka.ru
 amk-team.ru/forum
@@ -108,7 +109,10 @@ anti-malware.ru
 aosd.ru
 api-maps.yandex.ru
 api.1tv.ru
+api.acquisition-gwe.plus.kinopoisk.ru
+api.ivi.ru
 api.lemanapro.ru
+api.mindbox.ru
 api.okcdn.ru
 api.plus.kinopoisk.ru
 api.smartik.ru
@@ -116,6 +120,7 @@ api.stoloto.ru
 api.vc.ru
 api.vk.com
 api.weather.yandex.ru
+api2.ivi.ru
 apiok.ru
 app.mail.ru
 appleinsider.ru
@@ -185,6 +190,7 @@ azbyka.ru/forum
 b.efind.ru
 b17.ru/forum
 b2.mail.ru
+balancer-vod.1tv.ru
 bank.yuga.ru
 banki.ru
 banki.ru/forum
@@ -355,6 +361,7 @@ counter.yadro.ru
 cp-club.ru
 cp-filin.mail.ru
 cqham.ru/forum/forum.php
+cr-frontend.weborama-tech.ru
 cr-v.su/forums
 creta-club.net/forum
 crimea-board.net/index.php
@@ -375,6 +382,7 @@ cs9-11v4.vkuseraudio.ru
 cs9.pikabu.ru
 csp.yandex.net
 cspreport.mail.ru
+cstatic-ru-cv.weborama-tech.ru
 cube-club.ru/forum
 culturaltracking.ru
 cvr-bogorodsk.edusite.ru
@@ -417,6 +425,7 @@ dp.ru
 drom.ru
 dront.ru
 ds-frontend.weborama-tech.ru
+ds-parent.dfs.ivi.ru
 dtf.ru
 dubna.net/forum
 dukandiet.ru/forum
@@ -790,6 +799,7 @@ govoritnn.ru
 govvrn.ru
 goya.rutube.ru
 granelle.ru
+graphql.kinopoisk.ru
 graverstone.ru
 greek.ru/forum
 gsrb.ru
@@ -880,6 +890,7 @@ irzs.ru
 iv.kommersant.ru
 iv.okcdn.ru
 ivanovoobl.ru
+ivi.ru
 ivi.tv
 j.uralweb.ru
 jaccar.ru
@@ -1052,6 +1063,7 @@ massage.ru/forum
 master-x.com
 mastergrad.com
 materinstvo.ru
+matomo.datago.ru
 matushki.ru
 mauforum.ru
 max.ru
@@ -1263,6 +1275,8 @@ ok.me
 ok.ru
 oka.fm
 okcdn.ru
+okko-msk-cdp3.playfamily.ru
+okko-msk2-cdp2.playfamily.ru
 okko.tv
 okmarket.ru
 old-games.ru/forum
@@ -1303,6 +1317,7 @@ partner.yandex.ru
 partnersearch.ru/business
 passatworld.ru/forum.php
 pay.yandex.ru
+payment-widget.plus.kinopoisk.ru
 payment.gosuslugi.ru
 paywb.com
 paz-bus.ru
@@ -1468,6 +1483,7 @@ rkursk.ru
 rma-d.ru
 rmmedia.ru
 roads.ru/forum
+rocket.ivi.ru
 rodim.ru/index.php
 rolf.ru
 romanticcollection.ru/forum
@@ -1531,6 +1547,7 @@ s14.stc.yc.kpcdn.net
 s15.stc.yc.kpcdn.net
 s16.stc.yc.kpcdn.net
 s3.chipdip.ru
+s3.dfs.ivi.ru
 s3.dzeninfra.ru
 s3.wi-fi.ru
 s7.ru
@@ -1622,6 +1639,7 @@ softboard.ru
 software-testing.ru/forum
 solaris-agat-nn.ru
 solaris-club.net/forum
+solea-parent.dfs.ivi.ru
 solo-semena.ru
 sonata.club
 sony-club.ru/forum
@@ -1650,6 +1668,8 @@ sravni.ru
 sskkuban.ru
 sso.artlebedev.ru
 sso.auto.ru
+sso.kinopoisk.ru
+sso.passport.yandex.ru
 ssp.rambler.ru
 st-ok.cdn-vk.ru
 st.avto.ru
@@ -1667,8 +1687,10 @@ staraya-moneta.ru/forum
 starexclub.ru/forum
 start.practicum.yandex
 start.ru
+stat.playfamily.ru
 stat.radar.imgsmail.ru
 stat.sputnik.ru
+statad.ru
 static-basket-01.wbbasket.ru
 static-basket-08.wbbasket.ru
 static-maps.yandex.ru
@@ -1682,6 +1704,7 @@ static.dev.maly.ru
 static.dzeninfra.ru
 static.efind.ru
 static.gazeta.ru
+static.kino.1tv.ru
 static.kod.ru
 static.lemanapro.ru
 static.maps.2gis.com
@@ -1709,6 +1732,8 @@ stop-narko.info
 storage.mds.yandex.net
 strana.com
 stratege.ru/forums
+stream.1tv.ru
+stream.datago.ru
 strm-mar-238.strm.yandex.net
 styles.api.2gis.com
 sudrf.ru
@@ -1901,6 +1926,7 @@ tforum.uz
 theblueprint.ru
 thg.ru
 thumb.cloud.mail.ru
+thumbs.dfs.ivi.ru
 tile0.maps.2gis.com
 tile1.maps.2gis.com
 tile2-sdk.maps.2gis.com
@@ -2063,8 +2089,10 @@ wbpay.ru
 wbstatic.net
 wbx-bell-v3.wildberries.ru
 wciom.ru
+wcm.weborama-tech.ru
 weather.rambler.ru
 web-api.dom.ru
+web-static.mindbox.ru
 web.api.vk.ru
 web2web.tbank.ru
 websbol.ant.sberbank.ru
