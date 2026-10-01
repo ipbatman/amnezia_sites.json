@@ -23,6 +23,7 @@
 66.ru
 75.ru
 811417.selcdn.ru
+942211.log.rutube.ru
 a-131421-1-62-0nm12d-000.pms.mail.ru
 a-139384-42-598-0nm12d-000.pms.mail.ru
 a-57499-56-600-0nm12d-000.pms.mail.ru
@@ -141,10 +142,12 @@ astronomer.ru/forum
 astronomy.ru/forum
 astrozet.net/forum
 ateism.ru/forum
+atlas.rambler.ru
 atorus.ru
 auchan.ru
 audio-v-text.silero.ai
 auth.mail.ru
+auth.rambler.ru
 auto-rostov.ru
 auto.kolesa.ru
 auto.mail.ru
@@ -208,6 +211,7 @@ biketrials.ru/live
 biopole.info/forum
 biotechnica.ru
 bjdclub.com/index.php
+bl.rutube.ru
 blocked.botfaqtor.ru
 blog-gk.ru
 blog.rupixel.ru
@@ -252,7 +256,9 @@ cdek.ru
 cdn-asset.ura.news
 cdn-b2c.dom.ru
 cdn-rtb.sape.ru
+cdn-s01.rambler.ru
 cdn-storage-media.tass.ru
+cdn-store.rambler.ru
 cdn.api.domlenta.ru
 cdn.api.lenta.com
 cdn.apiweb.rolf.ru
@@ -368,6 +374,7 @@ cs6.pikabu.ru
 cs9-11v4.vkuseraudio.ru
 cs9.pikabu.ru
 csp.yandex.net
+cspreport.mail.ru
 cube-club.ru/forum
 culturaltracking.ru
 cvr-bogorodsk.edusite.ru
@@ -456,6 +463,7 @@ electronix.ru/forum
 electrosvyaz.com/forum
 elibrary.ru
 elite-games.ru/conference
+embeds.rambler.ru
 Emex.ru
 employer-reviews-front.hh.ru
 emu-land.net/forum
@@ -496,6 +504,7 @@ film.ru
 finam.ru
 finance.mail.ru
 finance.ozon.ru
+finance.rambler.ru
 findozor.net/forum
 finforums.ru
 fingerprint.t-static.ru
@@ -1025,6 +1034,7 @@ magadanmedia.ru
 magia-frpg.ru
 magnit.ru
 magoblduma.ru
+mail.rambler.ru
 mail.ru
 mail.yandex.ru
 major-auto.ru
@@ -1204,7 +1214,10 @@ neuroleptic.ru/forum
 new-science.ru
 newizv.ru
 newmap.nn-invest.ru
+news-stage.store.rambler.ru
 news.gnezdo.ru
+news.rambler.ru
+news.store.rambler.ru
 newxboxone.ru
 nfs-nl.ru
 ngenix.net
@@ -1298,6 +1311,7 @@ pddclub.ru
 penta-club.ru/forum
 perm.fas.gov.ru
 permkrai.ru
+peroxide.rambler.ru
 perxis-widgets.website.yandexcloud.net
 pesikot.org/forum
 pesiq.ru/forum
@@ -1384,6 +1398,7 @@ promalp.ru
 promebelclub.ru/forum
 promoimages.datacloudmail.ru
 prophotos.ru
+proxy.imgsmail.ru
 prufy.ru
 ps.t-static.ru
 pskov.ru
@@ -1394,6 +1409,7 @@ public.s7cdn.online
 push.yandex.ru
 puzyaka.ru/forum
 pwonline.ru/forums
+px31676a54070c479dc.telecid.ru
 python.su/forum
 qth.spb.ru/forum
 questzone.ru/forums
@@ -1409,6 +1425,7 @@ radikal.cloud
 radiokot.ru
 radioscanner.ru/forum
 railunion.net
+rambler.ru
 ranepa.ru
 rangefinder.ru/club
 raritet-cd.ru/forum
@@ -1420,6 +1437,7 @@ rating-avtosalon.ru
 ratmania.ru/forum
 rbc.ru
 rbcrealty.ru
+rcm.rambler.ru
 real-time-poi.maps.yandex.ru
 reallystory.mininuniver.ru
 reddit.com
@@ -1443,6 +1461,7 @@ rgp-forum.ru
 ria.ru
 riafan.ru
 risografist.3bb.ru
+river-ntv-ihome-d486.rtbcdn.ru
 rkomi.ru
 rks-development.ru
 rkursk.ru
@@ -1502,6 +1521,7 @@ s07.stc.yc.kpcdn.net
 s08.stc.yc.kpcdn.net
 s09.stc.yc.kpcdn.net
 s1.bss.2gis.com
+s1.eda.ru
 s1.livelib.ru
 s10.stc.yc.kpcdn.net
 s11.stc.yc.kpcdn.net
@@ -1562,6 +1582,7 @@ semenagavrish.ru
 semenasad.ru
 semerkainfo.ru/forum
 semlepestkov.ru
+sentry-saas.rambler-co.ru
 sentry.inmyroom.pro
 sentry.xn--80ahmohdapg.xn--80asehdb
 serjik.ru/forum
@@ -1665,7 +1686,9 @@ static.kod.ru
 static.lemanapro.ru
 static.maps.2gis.com
 static.me-talk.ru
+static.rambler.ru
 static.rtbcdn.ru
+static.rutube.ru
 static.santehnika-online.ru
 static.smi2.net
 static.stoloto.ru
@@ -1902,6 +1925,7 @@ toy-soldiers.ru/forum
 toyotacamry.ru/forum.php
 toyster.ru/forum
 tr-page.yandex.ru
+trafffgen.rambler.ru
 trailblazerclub.ru/forum
 traiv-komplekt.ru
 trinixy.ru
@@ -2039,6 +2063,7 @@ wbpay.ru
 wbstatic.net
 wbx-bell-v3.wildberries.ru
 wciom.ru
+weather.rambler.ru
 web-api.dom.ru
 web.api.vk.ru
 web2web.tbank.ru
