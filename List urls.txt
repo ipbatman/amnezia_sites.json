@@ -70,6 +70,7 @@ ads.adfox.ru
 ads.vk.com
 ads.vk.ru
 adslclub.ru/forum
+adx.videonow.ru
 adygheya.ru
 aeroflot.ru
 agat-haval.ru
@@ -110,6 +111,7 @@ aosd.ru
 api-maps.yandex.ru
 api.1tv.ru
 api.acquisition-gwe.plus.kinopoisk.ru
+api.gipernn.ru
 api.ivi.ru
 api.lemanapro.ru
 api.mindbox.ru
@@ -350,6 +352,7 @@ comss.ru
 consultant.ru
 consultant29.ru
 content-watch.ru
+content.adriver.ru
 coop-land.ru
 copy-club.ru
 core-renderer-tiles.maps.yandex.net
@@ -487,6 +490,7 @@ esia.gosuslugi.ru
 etalongroup.ru
 etomesto.ru
 eurasica.ru/forums
+ev.adriver.ru
 evenkya.gosuslugi.ru
 event-relay.yoomoney.ru
 Exist.ru
@@ -502,6 +506,7 @@ fanfishka.ru/forum
 fantlab.ru/forum
 fas.gov.ru
 favicon.yandex.net
+fcgi4.gnezdo.ru
 fecdn.tradedealer.net
 fedstat.ru
 feeds.kommersant.ru
@@ -841,16 +846,32 @@ hyperauto.ru
 i.gogov.ru
 i.hh.ru
 i.uralweb.ru
+i1.gipernn.ru
+i2.gipernn.ru
+i4.gipernn.ru
+i6.gipernn.ru
+i7.gipernn.ru
+i9.gipernn.ru
+ia.gipernn.ru
 iamcook.ru
+ic.gipernn.ru
 icdn.lenta.ru
 ichip.ru
 icon-art.info/phpBB2
 id.dom.ru
+id.gipernn.ru
 id.sber.ru
 id.tbank.ru
 identity.kp.house
+ie.gipernn.ru
+if.gipernn.ru
+ig.gipernn.ru
 iguides.ru
+ii.gipernn.ru
 iimg.su
+ij.gipernn.ru
+ik.gipernn.ru
+il.gipernn.ru
 il2.kubannet.ru/forum
 ili-nnov.ru
 im-konsalting.ru
@@ -867,6 +888,7 @@ img.zr.ru
 imgs2.imgsmail.ru
 imho.ws
 imtw.ru
+in.gipernn.ru
 info-forum.ru
 info.2gis.ru
 informer.yandex.ru
@@ -877,6 +899,7 @@ ingushetia.ru
 inmyroom.ru
 interfax.ru
 internet-technologies.ru
+io.gipernn.ru
 ipbmafia.ru
 ipbskins.ru/forums
 iphones.ru
@@ -887,11 +910,13 @@ irkobl.ru
 irkutsk-4x4.ru/index.php?action=forum
 irkutskmedia.ru
 irzs.ru
+is.gipernn.ru
 iv.kommersant.ru
 iv.okcdn.ru
 ivanovoobl.ru
 ivi.ru
 ivi.tv
+iy.gipernn.ru
 j.uralweb.ru
 jaccar.ru
 jam.api.2gis.com
@@ -1048,6 +1073,7 @@ magoblduma.ru
 mail.rambler.ru
 mail.ru
 mail.yandex.ru
+mailkill.ru
 major-auto.ru
 maly.iui.ubsystem.ru
 maly.ru
@@ -1078,6 +1104,8 @@ medhouse.ru
 media-trend.mail.ru
 media.prosv.ru
 media.reformal.ru
+mediametrics.ru
+mediatoday.ru
 megamarket.ru
 memoriam.ru/forum
 men-s-club.ru
@@ -1649,6 +1677,7 @@ sourcecraft.dev
 sovminlnr.ru
 sovokup.ru/index.php
 sozd.duma.gov.ru
+sp.linkssp.ru
 spartak.msk.ru/guest
 spartakforum.ru
 spaymentsplus.ru
@@ -1656,7 +1685,9 @@ spb-azlk.ru/forums.php
 spb-projects.ru/forum
 spbkbran.ru
 spbtalk.ru
+special.interfax.ru
 spigotmc.ru
+sport-interfax.ru
 sport24.ru
 sportbox.ru
 sportmaster.ru
@@ -1670,6 +1701,7 @@ sso.artlebedev.ru
 sso.auto.ru
 sso.kinopoisk.ru
 sso.passport.yandex.ru
+ssp-rtb.sape.ru
 ssp.rambler.ru
 st-ok.cdn-vk.ru
 st.avto.ru
