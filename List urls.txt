@@ -267,6 +267,7 @@ cbr.ru
 cccp3d.ru
 cdek.ru
 cdn-asset.ura.news
+cdn-assets.trx.tradedealer.ru
 cdn-b2c.dom.ru
 cdn-rtb.sape.ru
 cdn-s01.rambler.ru
@@ -371,6 +372,7 @@ cp-filin.mail.ru
 cqham.ru/forum/forum.php
 cr-frontend.weborama-tech.ru
 cr-v.su/forums
+credit.tradedealer.ru
 creta-club.net/forum
 crimea-board.net/index.php
 crimea.gov.ru
@@ -498,6 +500,8 @@ eurasica.ru/forums
 ev.adriver.ru
 evenkya.gosuslugi.ru
 event-relay.yoomoney.ru
+event.tradedealer.ru
+evolute.ru
 Exist.ru
 expert.ru
 ext-cloudcdn-rurov09mskix-01.cdn.yandex.net
@@ -819,6 +823,7 @@ gubernator.zo.gov.ru
 gubernator74.ru
 guitar.by
 guitarplayer.ru
+gw2.botfaqtor.ru
 hamkke.borda.ru
 haval-club.ru
 haval-clubs.ru/forums
@@ -890,6 +895,7 @@ img.perxis.ru
 img.smi2.net
 img.yuga.ru
 img.zr.ru
+imgproxy-v2.tradedealer.ru
 imgs2.imgsmail.ru
 imho.ws
 imtw.ru
@@ -1635,12 +1641,14 @@ semlepestkov.ru
 sentry-saas.rambler-co.ru
 sentry.inmyroom.pro
 sentry.xn--80ahmohdapg.xn--80asehdb
+seres.ru
 serjik.ru/forum
 serverspace.ru
 sevastopol.su
 sevastopolmedia.ru
 sferum-dev.ru
 shakhty-media.ru
+shared-backend.tradedealer.ru
 shedevrum.ai
 shipmodeling.ru/phpbb
 shm.ru
@@ -2055,6 +2063,7 @@ uralweb.ru
 urent.ru
 urgens-nn.su
 ursa-tm.ru/forum
+user-dna-backend.tradedealer.ru
 user-features.wb.ru
 user-storage-01.wb.ru
 user-storage-01bxc.wb.ru
