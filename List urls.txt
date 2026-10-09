@@ -87,6 +87,7 @@ Akbmag.ru
 akzs.ru
 alania.gov.ru
 alfabank.ru
+alfastrah.ru
 algoritmika.org
 alkoteka.com
 all-sbor.net/forum
@@ -110,6 +111,7 @@ androidinsider.ru
 anekdot.ru
 antara-club.ru
 anti-malware.ru
+antonksan.ru
 aosd.ru
 api-maps.yandex.ru
 api.1tv.ru
@@ -143,6 +145,7 @@ artlebedev.ru
 arzamas.academy
 as8.ru/forum
 ascon-spb.ru
+asn-news.ru
 aspirantura.spb.ru/forum
 assets-prod.inmyroom.ru
 assets.photar.ru
@@ -406,6 +409,7 @@ day.ru
 delimobil.ru
 delivery-bt.wildberries.ru
 desantura.ru/forum
+dev.vk.ru
 dgl.ru
 dharma.org.ru/board
 dia-club.ru/forum_ru
@@ -545,6 +549,7 @@ flowersweb.info/forum
 fluence-club.ru/forum/index.php
 fontanka.ru
 food.ru
+forbes.ru
 ford-trucks.club
 forester.club/forums
 forexsystemru.com
@@ -872,6 +877,7 @@ id.dom.ru
 id.gipernn.ru
 id.sber.ru
 id.tbank.ru
+id.vk.ru
 identity.kp.house
 ie.gipernn.ru
 if.gipernn.ru
@@ -985,6 +991,7 @@ kommersant.ru
 komne.ru/iforum
 konkurent.ru
 kontikimaps.ru
+kontur-extern.ru
 kontur.ru
 korandovod.ru/forum
 kortros.ru
@@ -1441,6 +1448,7 @@ priusforum.ru/forums
 privacy-cs.mail.ru
 prizyvnik.info
 prlib.ru
+prlog.ru
 probirka.org/forum/index.php
 prochepetsk.ru
 prodota.ru/forum
@@ -1454,6 +1462,10 @@ promoimages.datacloudmail.ru
 prophotos.ru
 proxy.imgsmail.ru
 prufy.ru
+prv0.lori-images.net
+prv1.lori-images.net
+prv2.lori-images.net
+prv3.lori-images.net
 ps.t-static.ru
 pskov.ru
 pspx.ru/forum/index.php
@@ -1512,6 +1524,7 @@ rf-cheats.ru/forum
 rf-sp.ru/forum
 rg.ru
 rgp-forum.ru
+rgs.ru
 ria.ru
 riafan.ru
 risografist.3bb.ru
@@ -1616,6 +1629,7 @@ sberazs.ru
 sberbank-tele.com
 sberbank.com
 sberbank.ru
+sberbankins.ru
 sberometer.ru
 sberpay.ru
 sbup.com/seo-forum
@@ -1670,6 +1684,7 @@ smartcaptcha.cloud.yandex.ru
 smartik.ru
 smeshariki-mir.ru/forum
 smi2.ru
+smmhero.ru
 smoloblduma.ru
 smu6.ru
 snob.ru
@@ -1678,6 +1693,7 @@ soborno.ru
 sobory.ru
 softboard.ru
 software-testing.ru/forum
+soglasie.ru
 solaris-agat-nn.ru
 solaris-club.net/forum
 solea-parent.dfs.ivi.ru
@@ -1783,16 +1799,25 @@ strm-mar-238.strm.yandex.net
 styles.api.2gis.com
 sudrf.ru
 summerstage.ru
+sun1-14.vkuserphoto.ru
 sun1-15.vkuserphoto.ru
 sun1-16.vkuserphoto.ru
 sun1-17.vkuserphoto.ru
+sun1-18.vkuserphoto.ru
 sun1-19.vkuserphoto.ru
+sun1-21.vkuserphoto.ru
+sun1-23.vkuserphoto.ru
+sun1-24.vkuserphoto.ru
 sun1-25.vkuserphoto.ru
 sun1-26.vkuserphoto.ru
 sun1-27.vkuserphoto.ru
+sun1-29.vkuserphoto.ru
 sun1-30.vkuserphoto.ru
 sun1-54.vkuserphoto.ru
+sun1-55.vkuserphoto.ru
+sun1-84.vkuserphoto.ru
 sun1-86.vkuserphoto.ru
+sun1-94.vkuserphoto.ru
 sun1-95.vkuserphoto.ru
 sun2-16.vkuserphoto.ru
 sun2-17.vkuserphoto.ru
@@ -1851,6 +1876,7 @@ sun9-34.vkuserphoto.ru
 sun9-35.userapi.com
 sun9-36.userapi.com
 sun9-37.userapi.com
+sun9-37.vkuserphoto.ru
 sun9-38.userapi.com
 sun9-39.userapi.com
 sun9-4.userapi.com
@@ -1867,14 +1893,18 @@ sun9-45.userapi.com
 sun9-46.userapi.com
 sun9-47.userapi.com
 sun9-48.userapi.com
+sun9-48.vkuserphoto.ru
 sun9-49.userapi.com
 sun9-49.vkuserphoto.ru
 sun9-5.userapi.com
 sun9-5.vkuserphoto.ru
 sun9-50.userapi.com
+sun9-50.vkuserphoto.ru
 sun9-51.userapi.com
+sun9-51.vkuserphoto.ru
 sun9-52.userapi.com
 sun9-53.userapi.com
+sun9-53.vkuserphoto.ru
 sun9-54.userapi.com
 sun9-55.userapi.com
 sun9-55.vkuserphoto.ru
@@ -1897,8 +1927,11 @@ sun9-63.vkuserphoto.ru
 sun9-64.userapi.com
 sun9-64.vkuserphoto.ru
 sun9-65.userapi.com
+sun9-65.vkuserphoto.ru
 sun9-66.userapi.com
+sun9-66.vkuserphoto.ru
 sun9-67.userapi.com
+sun9-67.vkuserphoto.ru
 sun9-68.userapi.com
 sun9-68.vkuserphoto.ru
 sun9-69.userapi.com
@@ -1923,6 +1956,7 @@ sun9-78.vkuserphoto.ru
 sun9-79.userapi.com
 sun9-79.vkuserphoto.ru
 sun9-8.userapi.com
+sun9-8.vkuserphoto.ru
 sun9-80.userapi.com
 sun9-80.vkuserphoto.ru
 sun9-81.userapi.com
@@ -1932,6 +1966,7 @@ sun9-82.vkuserphoto.ru
 sun9-83.userapi.com
 sun9-83.vkuserphoto.ru
 sun9-84.userapi.com
+sun9-84.vkuserphoto.ru
 sun9-85.userapi.com
 sun9-85.vkuserphoto.ru
 sun9-86.userapi.com
@@ -2078,6 +2113,7 @@ vashkontrol.ru
 vaz-2106.ru/forum
 vaz.ee/forum
 vc.ru
+vd206.okcdn.ru
 vd235.okcdn.ru
 vd263.okcdn.ru
 vd305.okcdn.ru
@@ -2085,7 +2121,9 @@ vd377.okcdn.ru
 vd503.okcdn.ru
 vd601.okcdn.ru
 vd618.okcdn.ru
+vd714.okcdn.ru
 vd738.okcdn.ru
+velantra.ru
 velosamara.ru/forum
 velostrana.ru
 vendbay.ru/index.php?action=forum
