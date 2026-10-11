@@ -1249,6 +1249,7 @@ msu.ru
 mts.ru
 multiqr.ru
 multiqrpay.ru
+museum.cbr.ru
 music-divkit.music.yandex.net
 mvideo.ru
 my.games
@@ -1276,6 +1277,7 @@ news-stage.store.rambler.ru
 news.gnezdo.ru
 news.rambler.ru
 news.store.rambler.ru
+newsnn.ru
 newxboxone.ru
 nfs-nl.ru
 ngenix.net
@@ -1367,6 +1369,7 @@ payment-widget.plus.kinopoisk.ru
 payment.gosuslugi.ru
 paywb.com
 paz-bus.ru
+pc.ru
 pchelpforum.ru
 pddclub.ru
 penta-club.ru/forum
@@ -1846,6 +1849,7 @@ sun9-18.userapi.com
 sun9-18.vkuserphoto.ru
 sun9-19.userapi.com
 sun9-2.userapi.com
+sun9-2.vkuserphoto.ru
 sun9-20.userapi.com
 sun9-21.userapi.com
 sun9-22.userapi.com
@@ -1890,6 +1894,7 @@ sun9-43.userapi.com
 sun9-44.userapi.com
 sun9-44.vkuserphoto.ru
 sun9-45.userapi.com
+sun9-45.vkuserphoto.ru
 sun9-46.userapi.com
 sun9-47.userapi.com
 sun9-48.userapi.com
@@ -1941,6 +1946,7 @@ sun9-7.vkuserphoto.ru
 sun9-70.userapi.com
 sun9-70.vkuserphoto.ru
 sun9-71.userapi.com
+sun9-71.vkuserphoto.ru
 sun9-72.userapi.com
 sun9-72.vkuserphoto.ru
 sun9-73.userapi.com
