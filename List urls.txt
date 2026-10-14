@@ -396,6 +396,7 @@ cs9.pikabu.ru
 csp.yandex.net
 cspreport.mail.ru
 cstatic-ru-cv.weborama-tech.ru
+cstor.nn2.ru
 cube-club.ru/forum
 culturaltracking.ru
 cvr-bogorodsk.edusite.ru
@@ -762,6 +763,7 @@ freepascal.ru/forum
 freepony.ru
 frenchbulldog.borda.ru
 freshauto.ru
+frontend.vh.yandex.ru
 fryazino.net/forum
 fsb.ru
 fsk.ru
@@ -1746,6 +1748,7 @@ st.vk.com
 st.vk.ru
 st.vkvideo.ru
 st1-18.vk.ru
+st1-55.vk.ru
 stalker-portal.ru/forums
 staraya-moneta.ru/forum
 starexclub.ru/forum
@@ -1799,6 +1802,7 @@ stratege.ru/forums
 stream.1tv.ru
 stream.datago.ru
 strm-mar-238.strm.yandex.net
+strm.yandex.ru
 styles.api.2gis.com
 sudrf.ru
 summerstage.ru
