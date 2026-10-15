@@ -107,6 +107,7 @@ akashi.vk-portal.net
 Akbmag.ru
 akzs.ru
 alania.gov.ru
+alb.reddit.com
 alfabank.ru
 alfastrah.ru
 algoritmika.org
@@ -223,6 +224,7 @@ avtomir.ru
 avtonovostidnya.ru
 azbyka.ru/forum
 b.efind.ru
+b.thumbs.redditmedia.com
 b17.ru/forum
 b2.mail.ru
 balancer-vod.1tv.ru
@@ -518,6 +520,7 @@ elibrary.ru
 elite-games.ru/conference
 embeds.rambler.ru
 Emex.ru
+emoji.redditmedia.com
 employer-reviews-front.hh.ru
 emu-land.net/forum
 enterprise.api-maps.yandex.ru
@@ -541,6 +544,7 @@ expert.ru
 ext-cloudcdn-rurov09mskix-01.cdn.yandex.net
 ext.clickstream.sberbank.ru
 ext.clickstream.sbrf.ru
+external-preview.redd.it
 f4.motogon.ru
 factornews.ru
 fai.org.ru/forum
@@ -849,6 +853,7 @@ government.ru
 govoritnn.ru
 govvrn.ru
 goya.rutube.ru
+gql-realtime.reddit.com
 granelle.ru
 graphql.kinopoisk.ru
 graverstone.ru
@@ -1159,6 +1164,7 @@ master-x.com
 mastergrad.com
 materinstvo.ru
 matomo.datago.ru
+matrix.redditspace.com
 matushki.ru
 mauforum.ru
 max.ru
@@ -1498,6 +1504,7 @@ premier.one
 president.e-dag.ru
 president.tatarstan.ru
 pressa.tv
+preview.redd.it
 preview.rutube.ru
 priamurmedia.ru
 price-altai.ru/forum.html
@@ -1568,6 +1575,7 @@ rcm.rambler.ru
 real-time-poi.maps.yandex.ru
 reallystory.mininuniver.ru
 reddit.com
+redditstatic.com
 redliners.ru/talk
 redwhite.ru/rw-forum
 reformal.ru
@@ -1865,6 +1873,7 @@ stream.datago.ru
 strm-mar-238.strm.yandex.net
 strm.yandex.ru
 styles.api.2gis.com
+styles.redditmedia.com
 sudrf.ru
 summerstage.ru
 sun1-14.vkuserphoto.ru
@@ -2327,6 +2336,7 @@ vw-golfclub.ru/forum
 vwts.ru/forum
 vyshyvanka.ucoz.ru/forum
 vzpp-s.ru
+w3-reporting.reddit.com
 warbirds.tomsk.ru/phpBB3
 wasm.in
 wb-bank.ru
