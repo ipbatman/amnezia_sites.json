@@ -54,6 +54,7 @@
 4wd.ru/forum
 4x4.tomsk.ru
 5003069521791993526271.cm.a.mts.ru
+5034361641793375764257.cm.a.mts.ru
 5041796221792292706312.cm.a.mts.ru
 5062386071792292478113.cm.a.mts.ru
 5173453991791993584131.cm.a.mts.ru
@@ -104,6 +105,7 @@
 8530915531792292870177.cm.a.mts.ru
 8590403781792295151259.cm.a.mts.ru
 8780520031746868365951.cm.a.mts.ru
+89ff0bf6ee67fb30dc7231af1e315575.rt.avito.ru
 9053091831791993706294.cm.a.mts.ru
 9109211291792210643386.cm.a.mts.ru
 9186080451792228968895.cm.a.mts.ru
@@ -163,6 +165,7 @@ admtyumen.ru
 ads-media.wildberries.ru
 ads-storage.avito.ru
 ads.adfox.ru
+ads.gpm-ssp.ru
 ads.vk.com
 ads.vk.ru
 adslclub.ru/forum
@@ -211,11 +214,13 @@ api-maps.yandex.ru
 api.1tv.ru
 api.a.mts.ru
 api.acquisition-gwe.plus.kinopoisk.ru
+api.acquisition-gwe.plus.yandex.ru
 api.consultnn.ru
 api.gipernn.ru
 api.ivi.ru
 api.lemanapro.ru
 api.mindbox.ru
+api.music.yandex.ru
 api.ok.ru
 api.okcdn.ru
 api.passport.yandex.ru
@@ -483,6 +488,7 @@ consultant.ru
 consultant29.ru
 content-watch.ru
 content.adriver.ru
+content.prlib.ru
 coop-land.ru
 copy-club.ru
 core-pht-proxy.maps.yandex.ru
@@ -1084,6 +1090,7 @@ installments.wildberries.ru
 interfax.ru
 internet-technologies.ru
 io.gipernn.ru
+ip-check.ru
 ip.cdnstroy.ru
 ip.gipernn.ru
 ipbmafia.ru
@@ -1440,6 +1447,7 @@ mow-static-cdn.geobasket.ru
 mow-videofeedback-08-cdn-08.geobasket.ru
 mow-videonme-cdn-46.geobasket.ru
 moya-planeta.ru
+ms.vkvideo.ru
 msk1.ru
 msu.ru
 mts.ru
@@ -1447,8 +1455,10 @@ multiqr.ru
 multiqrpay.ru
 museum.cbr.ru
 music-divkit.music.yandex.net
+music.yandex.ru
 mvideo.ru
 my.games
+my.justhost.ru
 my300c.ru/forum
 mybirds.ru/forums
 mycdn.me
@@ -1456,7 +1466,9 @@ myreptile.ru/forum
 mysbertips.ru
 myspar.ru
 myzafira.ru/forum/index.php
+n1.smartbtn.ru
 n1s1.hsmedia.ru
+n2.smartbtn.ru
 nacekomie.ru/forum
 nalog.gov.ru
 nalog.ru
@@ -1570,6 +1582,7 @@ partnersearch.ru/business
 passatworld.ru/forum.php
 pay.yandex.ru
 payment-widget.plus.kinopoisk.ru
+payment-widget.plus.yandex.ru
 payment.gosuslugi.ru
 paywb.com
 paz-bus.ru
@@ -1602,6 +1615,7 @@ pico-de-orizaba.day.ru
 pics.utro.ru
 pik.ru
 pikabu.ru
+pixel.adlooxtracking.ru
 pixel.dsp.onetarget.ru
 pl-res.online.sberbank.ru
 planetaexcel.ru/forum
@@ -1691,6 +1705,7 @@ push.yandex.ru
 puzyaka.ru/forum
 pwonline.ru/forums
 px31676a54070c479dc.telecid.ru
+px538.telecid.ru
 python.su/forum
 qth.spb.ru/forum
 questzone.ru/forums
@@ -1904,6 +1919,7 @@ smailru.net
 small-aqua.ru/forum
 smallcar.ru/talk
 smart-lab.ru
+smartbtn.ru
 smartcaptcha.cloud.yandex.ru
 smartik.ru
 smeshariki-mir.ru/forum
@@ -1984,6 +2000,7 @@ stat.radar.imgsmail.ru
 stat.sputnik.ru
 statad.ru
 static-basket-01.wbbasket.ru
+static-basket-02.wb.ru
 static-basket-08.wbbasket.ru
 static-maps.yandex.ru
 static-mon.yandex.net
@@ -2015,6 +2032,7 @@ static1-repo.aif.ru
 static2.ntv.ru
 stats.avito.ru
 stats.consultnn.ru
+stats.prlib.ru
 stats.vk-portal.net
 stavinvest.ru
 stavminprom.ru
@@ -2403,13 +2421,19 @@ vd377.okcdn.ru
 vd484.okcdn.ru
 vd503.okcdn.ru
 vd559.okcdn.ru
+vd568.okcdn.ru
 vd575.okcdn.ru
+vd577.okcdn.ru
 vd586.okcdn.ru
 vd601.okcdn.ru
 vd618.okcdn.ru
+vd622.okcdn.ru
+vd629.okcdn.ru
 vd645.okcdn.ru
+vd667.okcdn.ru
 vd669.okcdn.ru
 vd714.okcdn.ru
+vd736.okcdn.ru
 vd738.okcdn.ru
 velantra.ru
 velosamara.ru/forum
@@ -2449,6 +2473,7 @@ vkuservideo.net
 vkvd199.okcdn.ru
 vkvd200.okcdn.ru
 vkvd203.okcdn.ru
+vkvd204.okcdn.ru
 vkvd205.okcdn.ru
 vkvd207.okcdn.ru
 vkvd218.okcdn.ru
@@ -2459,8 +2484,10 @@ vkvd288.okcdn.ru
 vkvd293.okcdn.ru
 vkvd294.okcdn.ru
 vkvd302.okcdn.ru
+vkvd314.okcdn.ru
 vkvd331.okcdn.ru
 vkvd333.okcdn.ru
+vkvd334.okcdn.ru
 vkvd335.okcdn.ru
 vkvd337.okcdn.ru
 vkvd339.okcdn.ru
@@ -2488,6 +2515,7 @@ vkvd430.okcdn.ru
 vkvd433.okcdn.ru
 vkvd434.okcdn.ru
 vkvd436.okcdn.ru
+vkvd437.okcdn.ru
 vkvd438.okcdn.ru
 vkvd440.okcdn.ru
 vkvd442.okcdn.ru
@@ -2502,6 +2530,7 @@ vkvd478.okcdn.ru
 vkvd479.okcdn.ru
 vkvd480.okcdn.ru
 vkvd481.okcdn.ru
+vkvd482.okcdn.ru
 vkvd484.okcdn.ru
 vkvd485.okcdn.ru
 vkvd486.okcdn.ru
@@ -2535,6 +2564,7 @@ vkvd563.okcdn.ru
 vkvd575.okcdn.ru
 vkvd576.okcdn.ru
 vkvd579.okcdn.ru
+vkvd580.okcdn.ru
 vkvd581.okcdn.ru
 vkvd583.okcdn.ru
 vkvd584.okcdn.ru
@@ -2557,6 +2587,7 @@ vkvd625.okcdn.ru
 vkvd626.okcdn.ru
 vkvd629.okcdn.ru
 vkvd631.okcdn.ru
+vkvd633.okcdn.ru
 vkvd635.okcdn.ru
 vkvd637.okcdn.ru
 vkvd638.okcdn.ru
