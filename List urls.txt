@@ -22,6 +22,7 @@
 3194493801787457584981.cm.a.mts.ru
 3204027091791993453154.cm.a.mts.ru
 33212.ms.vk.ru
+34212.ms.vk.ru
 3518251331791993543177.cm.a.mts.ru
 35212.ms.vk.ru
 35412.ms.vk.com
@@ -2090,6 +2091,7 @@ sun1-95.vkuserphoto.ru
 sun2-1.vkuserphoto.ru
 sun2-10.vkuserphoto.ru
 sun2-11.vkuserphoto.ru
+sun2-12.vkuserphoto.ru
 sun2-13.vkuserphoto.ru
 sun2-15.vkuserphoto.ru
 sun2-16.vkuserphoto.ru
@@ -2549,6 +2551,7 @@ vkvd524.okcdn.ru
 vkvd527.okcdn.ru
 vkvd528.okcdn.ru
 vkvd531.okcdn.ru
+vkvd533.okcdn.ru
 vkvd534.okcdn.ru
 vkvd535.okcdn.ru
 vkvd540.okcdn.ru
