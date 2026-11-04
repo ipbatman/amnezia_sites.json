@@ -266,6 +266,7 @@ api.vc.ru
 api.vk.com
 api.vk.ru
 api.vkvideo.ru
+api.vp.rambler.ru
 api.weather.yandex.ru
 api2.ivi.ru
 apiok.ru
@@ -532,6 +533,7 @@ consultant.ru
 consultant29.ru
 content-watch.ru
 content.adriver.ru
+content.foto.my.mail.ru
 content.prlib.ru
 content.profinansy.ru
 coop-land.ru
@@ -558,6 +560,7 @@ cryptopro.ru/forum2
 cs.avito.ru
 cs.ifedata.ru
 cs.pikabu.ru
+cs11.pikabu.ru
 cs12.pikabu.ru
 cs13.pikabu.ru
 cs14.pikabu.ru
@@ -595,6 +598,7 @@ day.ru
 decibelka.ru
 delimobil.ru
 delivery-bt.wildberries.ru
+demos.ru
 desantura.ru/forum
 dev.vk.ru
 dgl.ru
@@ -724,6 +728,7 @@ feeds.kommersant.ru
 fermer.ru/forum
 fialka.tomsk.ru/forum
 files.1mi.media
+files.stroyinf.ru
 filin.mail.ru
 film.ru
 finam.ru
@@ -1232,6 +1237,7 @@ kortros.ru
 kovernino.bezformata.com
 kovrov33.ru/f2
 kp.ru
+kraken-mdt.rambler.ru
 kraken.rambler.ru
 krasnodar.ru
 krasnoeibeloe.ru
@@ -1797,6 +1803,7 @@ ratmania.ru/forum
 rbc.ru
 rbcrealty.ru
 rcm.rambler.ru
+rcmjs.rambler.ru
 real-time-poi.maps.yandex.ru
 reallystory.mininuniver.ru
 reddit.com
@@ -1877,6 +1884,7 @@ s.bfm.ru
 s.livelib.ru
 s.rbk.ru
 s0.rbk.ru
+s006.radikal.ru
 s01.stc.yc.kpcdn.net
 s02.stc.yc.kpcdn.net
 s03.stc.yc.kpcdn.net
@@ -1995,6 +2003,7 @@ snowmobile.ru/forum/index.php
 sntr.avito.ru
 soborno.ru
 sobory.ru
+socialmart.ru
 socket.avito.ru
 softboard.ru
 software-testing.ru/forum
@@ -2054,6 +2063,7 @@ st.vk.ru
 st.vkvideo.ru
 st1-18.vk.ru
 st1-55.vk.ru
+st1-84.vk.ru
 stalker-portal.ru/forums
 staraya-moneta.ru/forum
 starexclub.ru/forum
@@ -2116,6 +2126,7 @@ stream.1tv.ru
 stream.datago.ru
 strm-mar-238.strm.yandex.net
 strm.yandex.ru
+stroyprosto.ru
 styles.api.2gis.com
 styles.redditmedia.com
 sudrf.ru
@@ -2453,6 +2464,7 @@ unikdoc.rusarchives.ru
 unistroy.org
 unsorted.me/forum.php
 upload.lori.ru
+uptime-info.yandex.ru
 ura.news
 uralweb.ru
 urent.ru
