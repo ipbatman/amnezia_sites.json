@@ -1,3 +1,4 @@
+1010--9a60320c-921b-4e8e-9218-3237996fcafe.stbid.ru
 107klub.com
 110km.ru
 12voltrk.ru
@@ -5,6 +6,7 @@
 1314118021792292513972.cm.a.mts.ru
 1428284951793447855380.cm.a.mts.ru
 1573955061793763817913.cm.a.mts.ru
+1765469891794065257241.cm.a.mts.ru
 1779162481791993487279.cm.a.mts.ru
 1799432021793448037074.cm.a.mts.ru
 1987097921792293517236.cm.a.mts.ru
@@ -23,10 +25,12 @@
 2836908851793764354873.cm.a.mts.ru
 2916629791792321501641.cm.a.mts.ru
 2932601011793764205666.cm.a.mts.ru
+2d43e9a0-369a-4fc5-a16e-7165d7271e2f.selstorage.ru
 2gis.ru
 3008club.ru
 3063265341792293687479.cm.a.mts.ru
 3070609241792293237976.cm.a.mts.ru
+3072277611794065254677.cm.a.mts.ru
 3073886811791993449152.cm.a.mts.ru
 3173254961793763817020.cm.a.mts.ru
 3188079561792303721549.cm.a.mts.ru
@@ -40,6 +44,7 @@
 35212.ms.vk.ru
 35412.ms.vk.com
 3550227851793448055340.cm.a.mts.ru
+3599732531794065266768.cm.a.mts.ru
 3690560231792321759067.cm.a.mts.ru
 3752572711792292483703.cm.a.mts.ru
 3823120651792294456328.cm.a.mts.ru
@@ -68,6 +73,8 @@
 4674230411793448025387.cm.a.mts.ru
 4755270711792292666833.cm.a.mts.ru
 4802581741792295078223.cm.a.mts.ru
+4812283381794065260922.cm.a.mts.ru
+4814314031794065262091.cm.a.mts.ru
 4834713331793448060834.cm.a.mts.ru
 4889586121792293190405.cm.a.mts.ru
 49gov.ru
@@ -100,6 +107,7 @@
 6066973551792321460605.cm.a.mts.ru
 6103943641792294643838.cm.a.mts.ru
 6227713061793447993629.cm.a.mts.ru
+6239065311794065249634.cm.a.mts.ru
 62live.ru
 6338550251793763451789.cm.a.mts.ru
 6339427091792295445925.cm.a.mts.ru
@@ -117,6 +125,7 @@
 6989085501793448026364.cm.a.mts.ru
 7145601321793447899258.cm.a.mts.ru
 7221156291791993697141.cm.a.mts.ru
+7269286231794065263766.cm.a.mts.ru
 7303479441792292373148.cm.a.mts.ru
 7310281111792293690366.cm.a.mts.ru
 7321099061792295442837.cm.a.mts.ru
@@ -149,6 +158,7 @@
 8530915531792292870177.cm.a.mts.ru
 8566963201793448075829.cm.a.mts.ru
 8590403781792295151259.cm.a.mts.ru
+8675989951794065250826.cm.a.mts.ru
 8685724781793447986423.cm.a.mts.ru
 8780520031746868365951.cm.a.mts.ru
 8796048491793447948952.cm.a.mts.ru
@@ -168,6 +178,7 @@
 942211.log.rutube.ru
 9448802391792292501649.cm.a.mts.ru
 9512209871792292664801.cm.a.mts.ru
+9527813721794065242439.cm.a.mts.ru
 9851348421793447853390.cm.a.mts.ru
 9862554271792294769187.cm.a.mts.ru
 9921476521793764259319.cm.a.mts.ru
@@ -216,6 +227,7 @@ a-72969187-6-575-0nm12d-000.pms.mail.ru
 a-72969233-6-1-0nm12d-000.pms.mail.ru
 a-72969315-6-575-0nm12d-000.pms.mail.ru
 a.dns-shop.ru
+a.lotus-dsp.ru
 a.wb.ru
 a101.ru
 a7.ru
@@ -316,6 +328,7 @@ api.vp.rambler.ru
 api.weather.yandex.ru
 api2.ivi.ru
 apiok.ru
+apisdk.live.vkvideo.ru
 aplus.qwen.ai
 app.mail.ru
 appleinsider.ru
@@ -391,6 +404,7 @@ b.efind.ru
 b.thumbs.redditmedia.com
 b17.ru/forum
 b2.mail.ru
+balahnakarton.ru
 balakhna.ru
 balancer-vod.1tv.ru
 bank.yuga.ru
@@ -527,6 +541,7 @@ chat-prod.wildberries.ru
 chat.deepseek.com
 chat.dns-shop.ru
 chat.qwen.ai
+chat.stoloto.ru
 chat.wildberries.ru
 chats.profinansy.ru
 chayka.org.ru/forum
@@ -616,6 +631,7 @@ cryptopro.ru/forum2
 cs.avito.ru
 cs.ifedata.ru
 cs.pikabu.ru
+cs10.pikabu.ru
 cs11.pikabu.ru
 cs12.pikabu.ru
 cs13.pikabu.ru
@@ -632,6 +648,7 @@ cs4.pikabu.ru
 cs45.pikabu.ru
 cs5.pikabu.ru
 cs6.pikabu.ru
+cs7.pikabu.ru
 cs8.pikabu.ru
 cs9-11v4.vkuseraudio.ru
 cs9.pikabu.ru
@@ -688,6 +705,7 @@ donstroy.moscow
 dota2.ru/forum
 download.2gis.com
 dp.ru
+drevlit.ru
 drom.ru
 dront.ru
 ds-frontend.weborama-tech.ru
@@ -780,6 +798,7 @@ fas.gov.ru
 favicon.yandex.net
 fc928f12c74f282209e2126de3c63a80.rt.avito.ru
 fcgi4.gnezdo.ru
+fcgi7.gnezdo.ru
 fe-static.deepseek.com
 fecdn.tradedealer.net
 fedstat.ru
@@ -1115,6 +1134,8 @@ hif-leim.deepseek.com
 highlander-autoclub.ru/forum/index.php
 historica.ru
 history.ru
+hit.x81p4z.ru
+hitcrypt.x81p4z.ru
 hitv.ru/hitvboard
 hmr-assets.cdn-vk.ru
 holod-konsultant.ru
@@ -1340,6 +1361,7 @@ laparfumerie.org
 lapsha.media
 lasers.org.ru/forum
 lavka.yandex.ru
+lavra.ru
 lcab.talk-me.ru
 lektorium.tv
 lemanapro.ru
@@ -1460,6 +1482,7 @@ mil.ru
 millstream-wines.ru
 miloserdie.ru
 mincifry-cert.vk.ru
+mincifry-cert.vkvideo.ru
 mindmachine.ru/forum
 minecraftonly.com/forum
 mineralforum.ru
@@ -1851,6 +1874,7 @@ r.mradx.net
 r.mtdata.ru
 r0.mradx.net
 r3-test.vk.ru
+r3-test.vkvideo.ru
 r3.mail.ru
 raceyou.ru
 radikal.cloud
@@ -2101,6 +2125,7 @@ spb.electrogor.ru
 spbkbran.ru
 spbtalk.ru
 special.interfax.ru
+special.pikabu.ru
 spigotmc.ru
 splitter.wb.ru
 sport-interfax.ru
@@ -2589,6 +2614,7 @@ vd575.okcdn.ru
 vd577.okcdn.ru
 vd586.okcdn.ru
 vd601.okcdn.ru
+vd603.okcdn.ru
 vd618.okcdn.ru
 vd622.okcdn.ru
 vd629.okcdn.ru
@@ -2759,6 +2785,8 @@ vkvd605.okcdn.ru
 vkvd609.okcdn.ru
 vkvd610.okcdn.ru
 vkvd611.okcdn.ru
+vkvd612.okcdn.ru
+vkvd614.okcdn.ru
 vkvd618.okcdn.ru
 vkvd621.okcdn.ru
 vkvd622.okcdn.ru
@@ -2773,6 +2801,7 @@ vkvd637.okcdn.ru
 vkvd638.okcdn.ru
 vkvd639.okcdn.ru
 vkvd641.okcdn.ru
+vkvd642.okcdn.ru
 vkvd647.okcdn.ru
 vkvd649.okcdn.ru
 vkvd651.okcdn.ru
@@ -2902,6 +2931,7 @@ www1.ru
 x-bikers.ru/forum
 x5.ru
 x5m.x5.ru
+x81p4z.ru
 xapi.ozon.ru
 xc60-club.ru/xcforum
 xcraft.ru/forum
