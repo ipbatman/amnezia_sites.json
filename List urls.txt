@@ -1,5 +1,6 @@
 1.downloader.disk.yandex.ru
 1010--9a60320c-921b-4e8e-9218-3237996fcafe.stbid.ru
+1020486261795237253440.cm.a.mts.ru
 107klub.com
 110km.ru
 12voltrk.ru
@@ -16,6 +17,11 @@
 1794144356-2614687137894150334--4281531822127531336.cu.dzen.ru
 1794144359-2614687137894150334--4281531822127531336.cu.dzen.ru
 1794144360-2614687137894150334--4281531822127531336.cu.dzen.ru
+1795256000--2300894634317576232--7254784955520877527.cu.dzen.ru
+1795256024--2300894634317576232--7254784955520877527.cu.dzen.ru
+1795256026--2300894634317576232--7254784955520877527.cu.dzen.ru
+1795256029--2300894634317576232--7254784955520877527.cu.dzen.ru
+1795256030--2300894634317576232--7254784955520877527.cu.dzen.ru
 1799432021793448037074.cm.a.mts.ru
 1987097921792293517236.cm.a.mts.ru
 1tv.ru
@@ -26,6 +32,7 @@
 2158545061792301583250.cm.a.mts.ru
 23112.ms.vk.ru
 24112.ms.vk.ru
+2425388491795256011431.cm.a.mts.ru
 2459336851791993501111.cm.a.mts.ru
 25112.ms.vk.ru
 2517667051792293187706.cm.a.mts.ru
@@ -69,6 +76,8 @@
 3985938111792295809331.cm.a.mts.ru
 3deshnik.ru/forum
 3dnews.ru
+3ds-ds2.mirconnect.ru
+3ds.yb-payment.ru
 3nity.ru
 4.downloader.disk.yandex.ru
 4009198641792321498434.cm.a.mts.ru
@@ -99,6 +108,7 @@
 4wd.ru/forum
 4x4.tomsk.ru
 5003069521791993526271.cm.a.mts.ru
+5029855831795237260550.cm.a.mts.ru
 5034361641793375764257.cm.a.mts.ru
 5041796221792292706312.cm.a.mts.ru
 5062386071792292478113.cm.a.mts.ru
@@ -180,6 +190,7 @@
 8167814631792295808391.cm.a.mts.ru
 8321873031794119921177.cm.a.mts.ru
 8372977421792300712269.cm.a.mts.ru
+8412667441795237264918.cm.a.mts.ru
 8413090251793447889155.cm.a.mts.ru
 8530915531792292870177.cm.a.mts.ru
 8566963201793448075829.cm.a.mts.ru
@@ -264,6 +275,7 @@ a-145129-2-592-0nm12d-000.pms.mail.ru
 a-145146-42-598-0nm12d-000.pms.mail.ru
 a-145166-42-598-0nm12d-000.pms.mail.ru
 a-145175-42-598-0nm12d-000.pms.mail.ru
+a-145309-2-592-0nm12d-000.pms.mail.ru
 a-160375-10-599-0nm12d-000.pms.mail.ru
 a-160468-10-599-0nm12d-000.pms.mail.ru
 a-160472-10-599-0nm12d-000.pms.mail.ru
@@ -272,6 +284,7 @@ a-160491-10-599-0nm12d-000.pms.mail.ru
 a-160510-10-599-0nm12d-000.pms.mail.ru
 a-160561-10-599-0nm12d-000.pms.mail.ru
 a-160886-10-599-0nm12d-000.pms.mail.ru
+a-161126-10-599-0nm12d-000.pms.mail.ru
 a-211246-9-150-0nm12d-000.pms.mail.ru
 a-211481-9-62-0nm12d-000.pms.mail.ru
 a-211531-9-62-0nm12d-000.pms.mail.ru
@@ -281,6 +294,7 @@ a-211598-9-260-0nm12d-000.pms.mail.ru
 a-211606-9-306-0nm12d-000.pms.mail.ru
 a-211608-9-138-0nm12d-000.pms.mail.ru
 a-211753-9-260-0nm12d-000.pms.mail.ru
+a-211764-9-260-0nm12d-000.pms.mail.ru
 a-3822634-4-593-0nm12d-000.pms.mail.ru
 a-3956121-4-2039-0nm12d-000.pms.mail.ru
 a-3956133-4-62-0nm12d-000.pms.mail.ru
@@ -313,6 +327,9 @@ a-603388-5-595-0nm12d-000.pms.mail.ru
 a-603698-5-595-0nm12d-000.pms.mail.ru
 a-603735-5-595-0nm12d-000.pms.mail.ru
 a-603774-5-595-0nm12d-000.pms.mail.ru
+a-603922-5-595-0nm12d-000.pms.mail.ru
+a-604012-5-595-0nm12d-000.pms.mail.ru
+a-604080-5-595-0nm12d-000.pms.mail.ru
 a-60443-56-600-0nm12d-000.pms.mail.ru
 a-60445-56-600-0nm12d-000.pms.mail.ru
 a-60446-56-600-0nm12d-000.pms.mail.ru
@@ -323,8 +340,12 @@ a-60490-56-600-0nm12d-000.pms.mail.ru
 a-60521-56-600-0nm12d-000.pms.mail.ru
 a-60590-56-600-0nm12d-000.pms.mail.ru
 a-60827-56-600-0nm12d-000.pms.mail.ru
+a-60838-56-600-0nm12d-000.pms.mail.ru
 a-60852-56-600-0nm12d-000.pms.mail.ru
 a-60875-56-600-0nm12d-000.pms.mail.ru
+a-60936-56-600-0nm12d-000.pms.mail.ru
+a-60977-56-600-0nm12d-000.pms.mail.ru
+a-61015-56-600-0nm12d-000.pms.mail.ru
 a-68529994-53-586-0nm12d-000.pms.mail.ru
 a-69235555-51-585-0nm12d-000.pms.mail.ru
 a-69235647-51-1-0nm12d-000.pms.mail.ru
@@ -358,6 +379,9 @@ a-69238280-51-585-0nm12d-000.pms.mail.ru
 a-69238310-51-585-0nm12d-000.pms.mail.ru
 a-69238313-51-585-0nm12d-000.pms.mail.ru
 a-69238324-51-422-0nm12d-000.pms.mail.ru
+a-69238364-51-585-0nm12d-000.pms.mail.ru
+a-69238506-51-585-0nm12d-000.pms.mail.ru
+a-69238512-51-585-0nm12d-000.pms.mail.ru
 a-69644808-53-586-0nm12d-000.pms.mail.ru
 a-69644841-53-586-0nm12d-000.pms.mail.ru
 a-69644852-53-586-0nm12d-000.pms.mail.ru
@@ -386,6 +410,7 @@ a-69652318-53-586-0nm12d-000.pms.mail.ru
 a-69652320-53-586-0nm12d-000.pms.mail.ru
 a-69652323-53-586-0nm12d-000.pms.mail.ru
 a-69652334-53-586-0nm12d-000.pms.mail.ru
+a-69652419-53-586-0nm12d-000.pms.mail.ru
 a-72509319-8-587-0nm12d-000.pms.mail.ru
 a-72519373-6-575-0nm12d-000.pms.mail.ru
 a-72519374-8-587-0nm12d-000.pms.mail.ru
@@ -424,6 +449,7 @@ a-72989108-8-587-0nm12d-000.pms.mail.ru
 a-72989332-8-587-0nm12d-000.pms.mail.ru
 a-72989333-8-587-0nm12d-000.pms.mail.ru
 a-72989334-8-587-0nm12d-000.pms.mail.ru
+a-72989743-8-11-0nm12d-000.pms.mail.ru
 a-73057732-7-588-0nm12d-000.pms.mail.ru
 a-73058041-7-588-0nm12d-000.pms.mail.ru
 a-73062721-6-1-0nm12d-000.pms.mail.ru
@@ -530,6 +556,18 @@ a-73165778-6-575-0nm12d-000.pms.mail.ru
 a-73167036-6-77-0nm12d-000.pms.mail.ru
 a-73167344-6-77-0nm12d-000.pms.mail.ru
 a-73167453-6-575-0nm12d-000.pms.mail.ru
+a-73179840-6-187-0nm12d-000.pms.mail.ru
+a-73180669-6-1-0nm12d-000.pms.mail.ru
+a-73180684-6-1-0nm12d-000.pms.mail.ru
+a-73180687-6-1-0nm12d-000.pms.mail.ru
+a-73180860-6-1-0nm12d-000.pms.mail.ru
+a-73180926-6-77-0nm12d-000.pms.mail.ru
+a-73180944-6-575-0nm12d-000.pms.mail.ru
+a-73181029-6-1-0nm12d-000.pms.mail.ru
+a-73181084-6-77-0nm12d-000.pms.mail.ru
+a-73181188-6-475-0nm12d-000.pms.mail.ru
+a-73181214-6-1-0nm12d-000.pms.mail.ru
+a-73181389-6-77-0nm12d-000.pms.mail.ru
 a.dns-shop.ru
 a.lotus-dsp.ru
 a.suprion.ru
@@ -625,6 +663,7 @@ api.consultnn.ru
 api.gipernn.ru
 api.ivi.ru
 api.lemanapro.ru
+api.litres.ru
 api.mindbox.ru
 api.music.yandex.ru
 api.ok.ru
@@ -640,6 +679,7 @@ api.vk.com
 api.vk.ru
 api.vkvideo.ru
 api.vp.rambler.ru
+api.wavesend.ru
 api.weather.yandex.ru
 api2.ivi.ru
 apiok.ru
@@ -703,6 +743,7 @@ avensis-club.ru/forum
 avia.tutu.ru
 aviaforum.ru
 aviasales.ru
+avidreaders.ru
 avilon.ru
 avito.ru
 avito.st
@@ -733,7 +774,9 @@ barca.ru/forum
 base.garant.ru
 bashkizi.ru
 bashkortostan.ru
+basket-01.wbbasket.ru
 basket-02.wbbasket.ru
+basket-03.wbbasket.ru
 basket-04.wbbasket.ru
 basket-05.wbbasket.ru
 basket-09.wbbasket.ru
@@ -742,10 +785,12 @@ basket-12.wbbasket.ru
 basket-15.wbbasket.ru
 basket-16.wbbasket.ru
 basket-17.wbbasket.ru
+basket-18.wbbasket.ru
 basket-19.wbbasket.ru
 basket-20.wbbasket.ru
 basket-21.wbbasket.ru
 basket-22.wbbasket.ru
+basket-23.wbbasket.ru
 basket-24.wbbasket.ru
 basket-25.wbbasket.ru
 basket-26.wbbasket.ru
@@ -807,6 +852,7 @@ boatclub.ru
 bolshoi.ru
 bombler.ru
 bonforum.com
+bonuscake.ru
 Bookasutp.ru
 boosty.to
 bormotuhi.net
@@ -862,6 +908,7 @@ cdn.api.lenta.com
 cdn.apiweb.rolf.ru
 cdn.bfm.ru
 cdn.botfaqtor.ru
+cdn.club.dns-shop.ru
 cdn.deepseek.com
 cdn.direct.i-dgtl.ru
 cdn.enkod.ru
@@ -871,6 +918,7 @@ cdn.kanobu.ru
 cdn.kod.ru
 cdn.lada.ru
 cdn.lemanapro.ru
+cdn.litres.ru
 cdn.perxis.ru
 cdn.ren.tv
 cdn.sportmaster.ru
@@ -879,11 +927,13 @@ cdn.uxfeedback.ru
 cdn.velostrana.ru
 cdn.vesti.ru
 cdn.vgd.ru
+cdn.wavesend.ru
 cdn.wbbasket.ru
 cdn1.ozonusercontent.com
 cdn10.vedomosti.ru
 cdn2-static.ntv.ru
 cdn2.adplay.ru
+cdn2.litres.ru
 cdn5.vedomosti.ru
 cdnfiles.rg.ru
 cdnn21.img.ria.ru
@@ -943,7 +993,9 @@ club-forester.ru
 club-l200.ru/forum
 club-mayak.ru/forum
 club-nissan.ru/forums
+club-on-air-notifier.dns-shop.ru
 club-renault.ru/forum
+club.dns-shop.ru
 club.season.ru
 club443.ru
 clubcaptiva.ru/forum
@@ -971,6 +1023,7 @@ consultant29.ru
 content-watch.ru
 content.adriver.ru
 content.foto.my.mail.ru
+content.litres.ru
 content.prlib.ru
 content.profinansy.ru
 coop-land.ru
@@ -1088,6 +1141,7 @@ ds-frontend.weborama-tech.ru
 ds-parent.dfs.ivi.ru
 ds04.infourok.ru
 ds2015.bitrix24.ru
+dspgate.ru
 dtf.ru
 dubna.net/forum
 dukandiet.ru/forum
@@ -1122,6 +1176,7 @@ edge-upvideo.rbc.ru
 edimdoma.ru
 edu.gounn.ru
 edu.sravni.ru
+ef81159b-4559-49f4-bc31-0a4efe5322be.dsp.mts.ru
 efind.ru
 efl-forum.ru/boards
 egida.by/forum
@@ -1158,8 +1213,10 @@ eurasica.ru/forums
 ev.adriver.ru
 ev.ozon.ru
 evenkya.gosuslugi.ru
+event-logger-bff.svc.reg.ru
 event-relay.yoomoney.ru
 event.tradedealer.ru
+eventtrace.ru
 evolute.ru
 Exist.ru
 expert.ru
@@ -1189,6 +1246,7 @@ fermer.ru/forum
 fialka.tomsk.ru/forum
 files.1mi.media
 files.leadplan.ru
+files.reg.ru
 files.stroyinf.ru
 filin.mail.ru
 film.ru
@@ -1453,6 +1511,7 @@ gazprombank.ru
 geely-motors.com
 gentra-club.ru
 geobasket.ru
+get4click.ru
 getz-club.ru/forum
 gigs.api.2gis.ru
 gipernn.ru
@@ -1512,6 +1571,7 @@ haval.ru
 hde.lenta.com
 help.2gis.ru
 help.mail.ru
+help.reg.ru
 hh.ru
 hhcdn.ru
 hi-fi-forum.net
@@ -1523,7 +1583,10 @@ highlander-autoclub.ru/forum/index.php
 highlight.wildberries.ru
 historica.ru
 history.ru
+hit.tj4rxr.ru
+hit.tonzz3.ru
 hit.x81p4z.ru
+hitcrypt.tonzz3.ru
 hitcrypt.x81p4z.ru
 hitv.ru/hitvboard
 hmr-assets.cdn-vk.ru
@@ -1608,7 +1671,9 @@ img.artlebedev.ru
 img.gazeta.ru
 img.hhcdn.ru
 img.imgsmail.ru
+img.mysku-st.ru
 img.perxis.ru
+img.reg.ru
 img.smi2.net
 img.yuga.ru
 img.zr.ru
@@ -1685,6 +1750,7 @@ kalmregion.ru
 kamgov.ru
 kanobu.ru
 karavaevi.ru
+kartaslov.ru
 kasparovchess.crestbook.com
 kassir.ru
 kchr.ru
@@ -1714,6 +1780,7 @@ klavogonki.ru/forum
 klem.ru/forum
 klyachin.ru/forum
 kmpforum.online
+knigalit.ru
 kod.ru
 kolesa-darom.ru
 kommersant.ru
@@ -1791,6 +1858,7 @@ limg.imgsmail.ru
 link.2gis.ru
 linuxforum.ru
 lipetsknews.ru
+litportal.ru
 litres.ru
 liubava.ru/forum
 live.skillfactory.ru
@@ -2126,6 +2194,7 @@ o3.ru
 o3t.ru
 o3team.ru
 oauth.mail.ru
+oauth.yandex.ru
 oboz.info
 odkl.ru
 ogoa.ru
@@ -2218,12 +2287,14 @@ Photoshare.ru
 php.ru/forum
 phpbbguru.net/community
 phpforum.su
+pic.mysku-st.ru
 pic.rtbcdn.ru
 pico-de-orizaba.day.ru
 pics.utro.ru
 pik.ru
 pikabu.ru
 pin.wb.ru
+pioneerhunt.ru
 pixel.adlooxtracking.ru
 pixel.dsp.onetarget.ru
 pl-res.online.sberbank.ru
@@ -2398,6 +2469,7 @@ rkomi.ru
 rks-development.ru
 rkursk.ru
 rma-d.ru
+rmetrics.ru
 rmmedia.ru
 roads.ru/forum
 rocket.ivi.ru
@@ -2415,6 +2487,7 @@ rpgrussia.com
 rs.mail.ru
 rsdn.org/forum/list
 rshb.ru
+rtb-dsp.gnezdo.ru
 rtb.adplay.ru
 rtyva.ru
 ru-moto.ru/forum
@@ -2547,6 +2620,7 @@ semlepestkov.ru
 sentry-saas.rambler-co.ru
 sentry.hh.ru
 sentry.inmyroom.pro
+sentry.reg.ru
 sentry.wb.ru
 sentry.xn--80ahmohdapg.xn--80asehdb
 seres.ru
@@ -2564,6 +2638,8 @@ shedevrum.ai
 shipmodeling.ru/phpbb
 shm.ru
 shophelp.ru/forum
+showcase-bff.svc.reg.ru
+showcase-static.reg.ru
 sign-forum.ru
 silver.ru
 simferopol.in
@@ -2967,11 +3043,13 @@ surveys.yandex.ru
 sushi-karate.ru
 suzdalrest.ru
 suzuki-club.ru
+sw.reg.ru
 swadba.by/forum
 sykt.12voltrk.ru
 sync.rambler.ru
 sysadmins.ru
 t-s.kz
+t.dsp.abdm.ru
 tab.reformal.ru
 tabsbook.ru
 tadviser.ru
@@ -3020,6 +3098,7 @@ tiles.api-maps.yandex.ru
 tiles.gdedoma.ru
 timeweb.com
 tischenko-photo.ru
+tj4rxr.ru
 tkzhdanovskiy.ru
 tns-counter.ru
 tochek.net
@@ -3028,6 +3107,7 @@ tochno-team.ru
 tolkien.ru/forum
 tolkien.su/forum
 tomsk.gov.ru
+tonzz3.ru
 top-fwz1.mail.ru
 top.ucoz.ru
 top100-images.rambler.ru
@@ -3046,6 +3126,7 @@ traiv-komplekt.ru
 translate.yandex.ru
 trinixy.ru
 trk.mail.ru
+trust.yandex.ru
 trworkshop.net/forum
 tsushima.su/forums
 tt.ttarget.ru
@@ -3107,6 +3188,7 @@ v-1.ozone.ru
 v-144450-2-592-0nm12d-000.pms.mail.ru
 v-144504-42-598-0nm12d-000.pms.mail.ru
 v1.popcornnews.ru
+vadimdorofeev.ru
 valday.com/forum
 vashkontrol.ru
 vast.nashindex.ru
@@ -3114,6 +3196,7 @@ vaz-2106.ru/forum
 vaz.ee/forum
 vbilliard.ru
 vc.ru
+vd202.okcdn.ru
 vd205.okcdn.ru
 vd206.okcdn.ru
 vd207.okcdn.ru
@@ -3153,6 +3236,7 @@ vd568.okcdn.ru
 vd575.okcdn.ru
 vd577.okcdn.ru
 vd586.okcdn.ru
+vd592.okcdn.ru
 vd601.okcdn.ru
 vd603.okcdn.ru
 vd618.okcdn.ru
@@ -3173,6 +3257,7 @@ vd735.okcdn.ru
 vd736.okcdn.ru
 vd737.okcdn.ru
 vd738.okcdn.ru
+vd759.okcdn.ru
 velantra.ru
 velosamara.ru/forum
 velostrana.ru
@@ -3191,6 +3276,7 @@ vino.ru
 visor.sberbank.ru
 vistaclub.ru/forum
 vk-apps.ru
+vk-callback.go.mail.ru
 vk-cdn.net
 vk-stadium.ru
 vk.cc
@@ -3231,6 +3317,7 @@ vkvd294.okcdn.ru
 vkvd302.okcdn.ru
 vkvd307.okcdn.ru
 vkvd314.okcdn.ru
+vkvd316.okcdn.ru
 vkvd331.okcdn.ru
 vkvd333.okcdn.ru
 vkvd334.okcdn.ru
@@ -3290,6 +3377,7 @@ vkvd506.okcdn.ru
 vkvd509.okcdn.ru
 vkvd510.okcdn.ru
 vkvd511.okcdn.ru
+vkvd514.okcdn.ru
 vkvd515.okcdn.ru
 vkvd519.okcdn.ru
 vkvd521.okcdn.ru
@@ -3398,6 +3486,7 @@ vkvd727.okcdn.ru
 vkvd728.okcdn.ru
 vkvd730.okcdn.ru
 vkvd732.okcdn.ru
+vkvd734.okcdn.ru
 vkvd740.okcdn.ru
 vkvd743.okcdn.ru
 vkvd746.okcdn.ru
